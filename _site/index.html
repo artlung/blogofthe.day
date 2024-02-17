@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Blog of the Day</title>
+        <script src="/assets/js/browser-window.js"></script>
+
+        <meta name="description" content="Explore the indie web, one blog at a time.">
+        <meta property="og:image" content="https://screenshot.jamesg.blog?url=https://blogofthe.day">
+        <meta property="og:title" content="Blog of the Day">
+        <meta property="og:description" content="Explore the indie web, one blog at a time.">
+        <meta property="og:url" content="https://blogofthe.day">
+        <meta property="og:type" content="website">
+        <meta name="twitter:card" content="summary_large_image">
+
+        <link rel="icon" href="/assets/img/favicon.ico">
+        <style>
+            * {
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+            }
+            main {
+                padding: 20px;
+                text-align: center;
+                max-width: 35em;
+                margin: auto;
+            }
+            browser-window {
+                max-width: 500px;
+                display: block;
+                margin: auto;
+            }
+            iframe {
+                width: 100%;
+                height: 300px;
+                border: none;
+            }
+            #buttons {
+                margin: auto;
+            }
+            .button-link {
+                display: inline-block;
+                padding: 10px 20px;
+                margin: 10px;
+                background-color: royalblue;
+                color: white;
+                text-decoration: none;
+                border-radius: 5px;
+            }
+            a {
+                text-decoration: none;
+                color: royalblue;
+            }
+            a:hover {
+                text-decoration: underline;
+            }
+            details {
+                margin-top: 20px;
+                border: 2px dotted royalblue;
+                padding: 10px;
+            }
+            details > h2, details > p {
+                text-align: left;
+                margin: 20px 0;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <h1>Blog of the Day</h1>
+            <p>Explore the indie web, one blog at a time.</p>
+            <browser-window>
+                <iframe src="https://noisydeadlines.net" title="Blog of the Day"></iframe>
+            </browser-window>
+            <section id="buttons">
+                <a class="button-link" href="https://noisydeadlines.net">Visit noisydeadlines.net</a>
+                <br>
+                <a class="button-link" href="/feed.rss">Subscribe to Blog of the Day RSS Feed</a>
+            </section>
+            <section id="about">
+                <details>
+                    <summary>About Blog of the Day</summary>
+                    <h2>About Blog of the Day</h2>
+                    <p>While most of your experience of the web may be with corporate-owned websites, there are many people bucking this trend with a rebellious act: creating and maintaining a personal website.</p>
+                    <p>Bloggers around the world talk about the consequential and the inconsequential, from one's failed attempt to make a recipe to an idea that challenges the way we think about social networking.</p>
+                    <p>Every day, Blog of the Day highlights a new blog. The blog is rotated at 12am UTC.</p>
+                    <p>Want to add your blog to the list? Submit a pull request on the <a href="https://github.com/capjamesg/blogofthe.day">project GitHub page</a>.</p>
+                </details>
+            </section>
+            <footer>
+                <p>Made with ❤️, 🍪, and a 💻 by <a href="https://jamesg.blog">jamesg.blog</a>.</p>
+            </footer>
+        </main>
+    </body>
+</html>
