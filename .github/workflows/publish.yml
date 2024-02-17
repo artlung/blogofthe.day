@@ -29,5 +29,6 @@ jobs:
           git config --local user.name "capjamesg"
           git add index.html
           git add *.json
+          git add *.xml
           git commit -m "Update results"
           git push
