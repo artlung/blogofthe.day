@@ -10,4 +10,4 @@ This project is licensed under an [MIT license](LICENSE).
 
 ## Contributing
 
-Want to add your site to blogofthe.day? Add your site to the bottom of the "blogs" value in the `sites.json` file. Sites are selected at random, so it may take a while for your blog to show up on the site. Then, file a PR.
+Want to add your site to blogofthe.day? Add your site to the bottom of the "blogs" value in the `sites.json` file. Sites are selected at random, so it may take a while for your blog to show up on the site. Then, file a pull request.
