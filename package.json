@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/capjamesg/blogofthe.day/issues"
   },
-  "homepage": "https://github.com/capjamesg/blogofthe.day#readme"
+  "homepage": "https://github.com/capjamesg/blogofthe.day#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
 }
