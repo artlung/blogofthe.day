@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/capjamesg/blogofthe.day#readme",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
   }
 }

@@ -1,0 +1,18 @@
+<rss version="2.0">
+  <channel>
+    <title>Blog of the Day</title>
+    <link>https://blogofthe.day</link>
+    <description>Blog of the Day</description>
+    <language>en</language>
+    <lastBuildDate>{{ new Date().toUTCString() }}</lastBuildDate>
+    <pubDate>{{ new Date().toUTCString
+    () }}</pubDate>
+    {% for date, blog in blogsByDate %}
+    <item>
+      <title>{{ blog }}</title>
+      <link>https://{{ blog }}</link>
+      <guid isPermaLink="true">https://{{ blog }}</guid>
+      <pubDate>{{ date.toUTCString() }}</pubDate>
+      <description>{{ blog.templateContent | safe }}</description>
+    </item>
+</rss>

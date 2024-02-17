@@ -1,0 +1,33 @@
+name: run web.py
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup node
+        uses: actions/setup-node@v2 # setup node
+
+      - name: install dependencies
+        run: npm install
+
+      - name: execute generate.js script
+        run: node generate.js
+
+      # commit results to repository
+      - name: Commit results
+        run: |
+          git config --local user.email "jamesg@jamesg.blog"
+          git config --local user.name "capjamesg"
+          git add index.html
+          git add *.json
+          git commit -m "Update results"
+          git push
