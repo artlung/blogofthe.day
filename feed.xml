@@ -5,15 +5,23 @@
             <link>https://blogofthe.day</link>
             <description>Blog of the Day</description>
             <language>en</language>
-            <lastBuildDate>Sat, 17 Feb 2024 22:50:07 GMT</lastBuildDate>
-            <pubDate>Sat, 17 Feb 2024 22:50:07 GMT</pubDate>
+            <lastBuildDate>Sun, 18 Feb 2024 00:17:30 GMT</lastBuildDate>
+            <pubDate>Sun, 18 Feb 2024 00:17:30 GMT</pubDate>
             
             <item>
                 <title>noisydeadlines.net</title>
                 <link>https://noisydeadlines.net</link>
                 <guid isPermaLink="true">https://noisydeadlines.net</guid>
                 <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
-                <description>"I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams</description>
+                <description></description>
+            </item>
+            
+            <item>
+                <title>tantek.com</title>
+                <link>https://tantek.com</link>
+                <guid isPermaLink="true">https://tantek.com</guid>
+                <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+                <description></description>
             </item>
             
             </channel>
