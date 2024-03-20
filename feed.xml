@@ -5,8 +5,8 @@
             <link>https://blogofthe.day</link>
             <description>Blog of the Day</description>
             <language>en</language>
-            <lastBuildDate>Tue, 19 Mar 2024 00:16:20 GMT</lastBuildDate>
-            <pubDate>Tue, 19 Mar 2024 00:16:20 GMT</pubDate>
+            <lastBuildDate>Wed, 20 Mar 2024 00:15:36 GMT</lastBuildDate>
+            <pubDate>Wed, 20 Mar 2024 00:15:36 GMT</pubDate>
             
             <item>
                 <title>noisydeadlines.net</title>
@@ -261,6 +261,14 @@
                 <link>https://jamesg.blog</link>
                 <guid isPermaLink="true">https://jamesg.blog</guid>
                 <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+                <description>Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I am a technical writer. I live in Scotland. This is my blog.</description>
+            </item>
+            
+            <item>
+                <title>jamesg.blog</title>
+                <link>https://jamesg.blog</link>
+                <guid isPermaLink="true">https://jamesg.blog</guid>
+                <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
                 <description>Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I am a technical writer. I live in Scotland. This is my blog.</description>
             </item>
             
