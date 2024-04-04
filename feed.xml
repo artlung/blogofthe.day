@@ -5,8 +5,8 @@
             <link>https://blogofthe.day</link>
             <description>Blog of the Day</description>
             <language>en</language>
-            <lastBuildDate>Wed, 03 Apr 2024 00:16:20 GMT</lastBuildDate>
-            <pubDate>Wed, 03 Apr 2024 00:16:20 GMT</pubDate>
+            <lastBuildDate>Thu, 04 Apr 2024 00:16:54 GMT</lastBuildDate>
+            <pubDate>Thu, 04 Apr 2024 00:16:54 GMT</pubDate>
             
             <item>
                 <title>noisydeadlines.net</title>
@@ -381,6 +381,14 @@
                 <link>https://tracydurnell.com</link>
                 <guid isPermaLink="true">https://tracydurnell.com</guid>
                 <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+                <description></description>
+            </item>
+            
+            <item>
+                <title>tantek.com</title>
+                <link>https://tantek.com</link>
+                <guid isPermaLink="true">https://tantek.com</guid>
+                <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
                 <description></description>
             </item>
             
