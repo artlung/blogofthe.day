@@ -2,7 +2,7 @@
 
 Explore the indie web, one blog at a time.
 
-<img width="909" alt="blogofthe.day home page" src="https://github.com/capjamesg/blogofthe.day/assets/37276661/fcc3487c-71bb-4109-b968-ffdc42781e23">
+<img width="909" alt="blogofthe.day home page" src="https://github.com/artlung/blogofthe.day/assets/37276661/fcc3487c-71bb-4109-b968-ffdc42781e23">
 
 ## License
 
