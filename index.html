@@ -11,6 +11,8 @@
         <style>
             html, body {
                 height: 100%;
+                max-width: 100ch;
+                margin: auto;
             }
             :root {
                 --theme-color: #7ea1ff;
@@ -20,9 +22,7 @@
                 box-sizing: border-box;
             }
             main {
-                padding: 20px;
                 text-align: center;
-                max-width: 35em;
                 margin: auto;
             }
             iframe {
@@ -33,7 +33,7 @@
                 margin: auto;
             }
             iframe, browser-window {
-                height: clamp(500px, 80%, 800px);
+                height: 500px;
                 width: clamp(500px, 80%, 800px);
             }
             #buttons {
