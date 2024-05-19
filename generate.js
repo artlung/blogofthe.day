@@ -17,6 +17,7 @@ fetch(`https://${site}`)
     .then(res => res.text())
     .then(html => {
         const $ = cheerio.load(html);
+        // TODO fix scope that populates desc
         const desc = $('meta[name="description"]').attr('content');
         
         const feed = `
