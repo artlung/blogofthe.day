@@ -3,14 +3,17 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Blog of the Day: Explore the web, one blog at a time.</title>
+        <title>Blog of the Day: Explore the (indie) web, one blog at a time.</title>
         <script src="/assets/js/browser-window.js"></script>
         <meta name="description" content="Explore the IndieWeb, the slow web, the independent web, one blog per day">
         <link rel="alternate" type="application/rss+xml" title="Blog of the Day" href="/feed.xml">
         <link rel="icon" href="/assets/img/favicon.ico">
         <style>
+            html, body {
+                height: 100%;
+            }
             :root {
-                --theme-color: royalblue;
+                --theme-color: #7ea1ff;
             }
             * {
                 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -22,15 +25,16 @@
                 max-width: 35em;
                 margin: auto;
             }
+            iframe {
+                border: none;
+            }
             browser-window {
-                width: clamp(500px, 80%, 800px);
                 display: block;
                 margin: auto;
             }
-            iframe {
-                width: 100%;
+            iframe, browser-window {
                 height: clamp(500px, 80%, 800px);
-                border: none;
+                width: clamp(500px, 80%, 800px);
             }
             #buttons {
                 margin: auto;
@@ -68,7 +72,7 @@
     <body>
         <main>
             <h1>Blog of the Day</h1>
-            <p>Explore the indie web, one blog at a time.</p>
+            <p>Explore the (indie) web, one blog at a time.</p>
             <browser-window>
                 <iframe src="https://{% blogToday %}" title="Blog of the Day"></iframe>
             </browser-window>
