@@ -35,14 +35,18 @@
             iframe, browser-window {
                 height: 500px;
                 width: clamp(500px, 80%, 800px);
+                overflow: hidden;
             }
             #buttons {
                 margin: auto;
+                display: grid;
+                gap: 1ch;
+                max-width: 24ch;
             }
             .button-link {
                 display: inline-block;
-                padding: 10px 20px;
-                margin: 10px;
+                padding: 1ch 2ch;
+                margin: 0;
                 background-color: var(--theme-color);
                 color: white;
                 text-decoration: none;
