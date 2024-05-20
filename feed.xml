@@ -1,613 +1,661 @@
-
-            <rss version="2.0">
-            <channel>
-            <title>Blog of the Day</title>
-            <link>https://blogofthe.day</link>
-            <description>Blog of the Day</description>
-            <language>en</language>
-            <lastBuildDate>Sun, 19 May 2024 04:32:07 GMT</lastBuildDate>
-            <pubDate>Sun, 19 May 2024 04:32:07 GMT</pubDate>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Sun, 14 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Sun, 21 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>noisydeadlines.net</title>
-                <link>https://noisydeadlines.net</link>
-                <guid isPermaLink="true">https://noisydeadlines.net</guid>
-                <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tracydurnell.com</title>
-                <link>https://tracydurnell.com</link>
-                <guid isPermaLink="true">https://tracydurnell.com</guid>
-                <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>jamesg.blog</title>
-                <link>https://jamesg.blog</link>
-                <guid isPermaLink="true">https://jamesg.blog</guid>
-                <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>tantek.com</title>
-                <link>https://tantek.com</link>
-                <guid isPermaLink="true">https://tantek.com</guid>
-                <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            <item>
-                <title>a.wholelottanothing.org</title>
-                <link>https://a.wholelottanothing.org</link>
-                <guid isPermaLink="true">https://a.wholelottanothing.org</guid>
-                <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
-                <description>A Whole Lotta Nothing</description>
-            </item>
-            
-            </channel>
-            </rss>
-            
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Blog of the .Day]]></title>
+        <description><![CDATA[Blog of the .Day]]></description>
+        <link>https://blogofthe.day</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 20 May 2024 02:50:24 GMT</lastBuildDate>
+        <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sat, 18 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lifeofpablo.com/blog]]></title>
+            <description><![CDATA[Blog]]></description>
+            <link>https://lifeofpablo.com/blog</link>
+            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
+            <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
+            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <link>https://reillyspitzfaden.com/blog</link>
+            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
+            <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
+            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <link>https://reillyspitzfaden.com/blog</link>
+            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
+            <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lifeofpablo.com/blog]]></title>
+            <description><![CDATA[Blog]]></description>
+            <link>https://lifeofpablo.com/blog</link>
+            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
+            <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[david.shanske.com]]></title>
+            <link>https://david.shanske.com</link>
+            <guid isPermaLink="true">https://david.shanske.com</guid>
+            <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[david.shanske.com]]></title>
+            <link>https://david.shanske.com</link>
+            <guid isPermaLink="true">https://david.shanske.com</guid>
+            <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gregorlove.com]]></title>
+            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
+            <link>https://gregorlove.com</link>
+            <guid isPermaLink="true">https://gregorlove.com</guid>
+            <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sun, 21 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sun, 14 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
+            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <link>https://reillyspitzfaden.com/blog</link>
+            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
+            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[david.shanske.com]]></title>
+            <link>https://david.shanske.com</link>
+            <guid isPermaLink="true">https://david.shanske.com</guid>
+            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[boffosocko.com]]></title>
+            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
+            <link>https://boffosocko.com</link>
+            <guid isPermaLink="true">https://boffosocko.com</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[gregorlove.com]]></title>
+            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
+            <link>https://gregorlove.com</link>
+            <guid isPermaLink="true">https://gregorlove.com</guid>
+            <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -7,6 +7,7 @@
     <lastBuildDate>{{ new Date().toUTCString() }}</lastBuildDate>
     <pubDate>{{ new Date().toUTCString
     () }}</pubDate>
+    {% assign blogsByDate = site.blogs | sort: 'date' | reverse %}
     {% for date, blog in blogsByDate %}
     <item>
       <title>{{ blog }}</title>

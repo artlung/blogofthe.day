@@ -1,3 +1,5 @@
+// This code is by zachleat.com: https://www.zachleat.com/web/browser-window/
+
 class BrowserWindow extends HTMLElement {
 	static tagName = "browser-window";
 
