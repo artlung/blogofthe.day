@@ -19,6 +19,7 @@
   "homepage": "https://github.com/artlung/blogofthe.day#readme",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@netlify/functions": "^2.7.0",
     "cheerio": "^1.0.0-rc.12",
     "node-fetch": "^3.3.2",
     "rss": "^1.2.2"
