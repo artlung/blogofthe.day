@@ -14,4 +14,4 @@ const handler = schedule('1 0 * * *', async () => {
     }
 })
 
-export { handler }
+export {handler}

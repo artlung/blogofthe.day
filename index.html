@@ -1,103 +1,123 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Blog of the .Day: Explore the (indie) web, one blog at a time.</title>
-        <script src="/assets/js/browser-window.js"></script>
-        <meta name="description" content="Explore the IndieWeb, the slow web, the independent web, one blog per day">
-        <link rel="alternate" type="application/rss+xml" title="Blog of the .Day" href="/feed.xml">
-        <style>
-            html, body {
-                height: 100%;
-                max-width: 100ch;
-                margin: auto;
-            }
-            :root {
-                --theme-color: #7ea1ff;
-            }
-            * {
-                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                box-sizing: border-box;
-            }
-            main {
-                text-align: center;
-                margin: auto;
-            }
-            iframe {
-                border: none;
-            }
-            browser-window {
-                display: block;
-                margin: auto;
-            }
-            iframe, browser-window {
-                height: 500px;
-                width: clamp(500px, 80%, 800px);
-                overflow: hidden;
-            }
-            #buttons {
-                margin: auto;
-                display: grid;
-                gap: 1ch;
-                max-width: 24ch;
-            }
-            .button-link {
-                display: inline-block;
-                padding: 1ch 2ch;
-                margin: 0;
-                background-color: var(--theme-color);
-                color: white;
-                text-decoration: none;
-                border-radius: 5px;
-            }
-            a {
-                text-decoration: none;
-                color: var(--theme-color);
-            }
-            a:hover {
-                text-decoration: underline;
-            }
-            details {
-                margin-top: 20px;
-                border: 2px dotted var(--theme-color);
-                padding: 10px;
-            }
-            details > h2, details > p {
-                text-align: left;
-                margin: 20px 0;
-            }
-            footer p small {
-                color: color-mix(in srgb, var(--theme-color), transparent 60%);
-            }
-        </style>
-    </head>
-    <body>
-        <main>
-            <h1>Blog of the .Day</h1>
-            <p>Explore the (indie) web, one blog at a time.</p>
-            <browser-window>
-                <iframe src="https://{% blogToday %}" title="Blog of the .Day"></iframe>
-            </browser-window>
-            <section id="buttons">
-                <a class="button-link" href="https://{% blogToday %}">Visit {% blogToday %}</a>
-                <br>
-                <a class="button-link" href="/feed.xml">Subscribe to Blog of the .Day RSS Feed</a>
-            </section>
-            <section id="about">
-                <details>
-                    <summary>About Blog of the .Day</summary>
-                    <h2>About Blog of the .Day</h2>
-                    <p>While most of your experience of the web may be with corporate-owned websites, there are many people bucking this trend with a rebellious act: creating and maintaining a personal website.</p>
-                    <p>Bloggers around the world talk about the consequential and the inconsequential, from one's failed attempt to make a recipe to an idea that challenges the way we think about social networking.</p>
-                    <p>Every day, Blog of the .Day highlights a new blog. The blog is rotated at 12am UTC. <em>note: as of 18 May 2024 Joe Crawford was transferred maintenance of this blog. If you have a suggestion or complaint, <a href="mailto:joe@artlung.com">email him</a>. It'll be solid soon enough. Or not. The world is an imperfect place.</em></p>
-                    <p>Want to add your blog to the list? Submit a pull request on the <a href="https://github.com/artlung/blogofthe.day">project GitHub page</a>.</p>
-                </details>
-            </section>
-            <footer>
-                <p>made with ❤️, 🍪, and a 💻 by <a href="https://jamesg.blog">james</a> &amp; <a href="https://artlung.com/">joe</a>.</p>
-                <p><small>own your web</small></p>
-            </footer>
-        </main>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog of the .Day: Explore the (indie) web, one blog at a time.</title>
+    <script src="/assets/js/browser-window.js"></script>
+    <meta name="description" content="Explore the IndieWeb, the slow web, the independent web, one blog per day">
+    <link rel="alternate" type="application/rss+xml" title="Blog of the .Day" href="/feed.xml">
+    <style>
+        html, body {
+            height: 100%;
+            max-width: 100ch;
+            margin: auto;
+        }
+
+        :root {
+            --theme-color: #7ea1ff;
+        }
+
+        * {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            box-sizing: border-box;
+        }
+
+        main {
+            text-align: center;
+            margin: auto;
+        }
+
+        iframe {
+            border: none;
+        }
+
+        browser-window {
+            display: block;
+            margin: auto;
+        }
+
+        iframe, browser-window {
+            height: 500px;
+            width: clamp(500px, 80%, 800px);
+            overflow: hidden;
+        }
+
+        #buttons {
+            margin: auto;
+            display: grid;
+            gap: 1ch;
+            max-width: 24ch;
+        }
+
+        .button-link {
+            display: inline-block;
+            padding: 1ch 2ch;
+            margin: 0;
+            background-color: var(--theme-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--theme-color);
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        details {
+            margin-top: 20px;
+            border: 2px dotted var(--theme-color);
+            padding: 10px;
+        }
+
+        details > h2, details > p {
+            text-align: left;
+            margin: 20px 0;
+        }
+
+        footer p small {
+            color: color-mix(in srgb, var(--theme-color), transparent 60%);
+        }
+    </style>
+</head>
+<body>
+<main>
+    <h1>Blog of the .Day</h1>
+    <p>Explore the (indie) web, one blog at a time.</p>
+    <browser-window>
+        <iframe src="https://{% blogToday %}" title="Blog of the .Day"></iframe>
+    </browser-window>
+    <section id="buttons">
+        <a class="button-link" href="https://{% blogToday %}">Visit {% blogToday %}</a>
+        <br>
+        <a class="button-link" href="/feed.xml">Subscribe to Blog of the .Day RSS Feed</a>
+    </section>
+    <section id="about">
+        <details>
+            <summary>About Blog of the .Day</summary>
+            <h2>About Blog of the .Day</h2>
+            <p>While most of your experience of the web may be with corporate-owned websites, there are many people
+                bucking this trend with a rebellious act: creating and maintaining a personal website.</p>
+            <p>Bloggers around the world talk about the consequential and the inconsequential, from one's failed attempt
+                to make a recipe to an idea that challenges the way we think about social networking.</p>
+            <p>Every day, Blog of the .Day highlights a new blog. The blog is rotated at 12am UTC. <em>note: as of 18
+                May 2024 Joe Crawford was transferred maintenance of this blog. If you have a suggestion or complaint,
+                <a href="mailto:joe@artlung.com">email him</a>. It'll be solid soon enough. Or not. The world is an
+                imperfect place.</em></p>
+            <p>Want to add your blog to the list? Submit a pull request on the <a
+                    href="https://github.com/artlung/blogofthe.day">project GitHub page</a>.</p>
+        </details>
+    </section>
+    <footer>
+        <p>made with ❤️, 🍪, and a 💻 by <a href="https://jamesg.blog">james</a> &amp; <a
+                href="https://artlung.com/">joe</a>.</p>
+        <p><small>own your web</small></p>
+    </footer>
+</main>
+</body>
 </html>
