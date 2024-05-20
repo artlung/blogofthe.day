@@ -15,8 +15,12 @@ This project is licensed under an [MIT license](LICENSE).
 
 ## Contributing
 
-Want to add your site to blogofthe.day? Add your site to the bottom of the "blogs" value in the `sites.json` file. Sites are selected at random, so it may take a while for your blog to show up on the site. Then, file a pull request.
+Want to add your site to blogofthe.day? Fork this repository and add your site to "blogs" value in `sites.json` file and file a pull request. You could also send a webmention (like, comment, whatever) to <a href="https://artlung.com/blogofthe-day/">artlung.com/blogofthe-day/</a> from your website. Questions about webmentions? See <a href="https://indieweb.org/Webmention">indieweb.org/Webmention</a>. 
 
 ## Acknowledgements
 
 The `<browser-window>` web component used in this guide was developed by [Zach Leatherman](https://www.zachleat.com/web/browser-window/).
+
+## Credits
+
+This site was originally created by capjamesg and is currently maintained by artlung.
