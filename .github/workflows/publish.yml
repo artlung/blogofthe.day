@@ -25,8 +25,8 @@ jobs:
       # commit results to repository
       - name: Commit results
         run: |
-          git config --local user.email "jamesg@jamesg.blog"
-          git config --local user.name "capjamesg"
+          git config --local user.email "joe@artlung.com"
+          git config --local user.name "artlung"
           git add index.html
           git add *.json
           git add *.xml
