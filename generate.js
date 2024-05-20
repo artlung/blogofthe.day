@@ -18,8 +18,20 @@ console.log(`There are ${numberOfDates} dates in the feed.`);
 if (dates.dates[today]) {
     console.log("Today's blog is already set.")
 } else {
-    const site = sites.blogs[Math.floor(Math.random() * sites.blogs.length)];
-    dates.dates[today] = site;
+
+    const sitesInThePastWeek = new Set(Object.values(dates.dates));
+    const sitesNotInPastWeek = sites.blogs.filter(site => !sitesInThePastWeek.has(site));
+    // As time goes on need an accurate restrictor. random number generators are not respectful
+    // of human beings notions of fairness
+    const last7Days = new Array(7).fill(0).map((_, i) => {
+        const date = new Date();
+        date.setDate(date.getDate() - i);
+        return date.toISOString().split('T')[0];
+    });
+    const sitesInLast7Days = last7Days.map(date => dates.dates[date]);
+    const sitesNotInLast7Days = sites.blogs.filter(site => !sitesInLast7Days.includes(site));
+    const sitesNotInPastWeekOrLast7Days = sitesNotInPastWeek.filter(site => sitesNotInLast7Days.includes(site));
+    dates.dates[today] = sitesNotInPastWeekOrLast7Days[Math.floor(Math.random() * sitesNotInPastWeekOrLast7Days.length)];
 
 // remove the oldest date if we have more than maxNumberOfDates
     const datesArray = Object.keys(dates.dates);
