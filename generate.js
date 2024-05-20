@@ -1,46 +1,105 @@
 const fs = require('fs');
 
 const sites = require('./sites.json');
+const dates = require('./dates.json');
 const today = new Date().toISOString().split('T')[0];
+const numberOfSites = sites.blogs.length;
+const maxNumberOfDates = numberOfSites * 2;
 
-const site = sites.blogs[Math.floor(Math.random() * sites.blogs.length)];
-sites.dates[today] = site;
+// log the number of unique sites in a sentence
+const uniqueSites = new Set(Object.values(dates.dates));
+console.log(`There are ${uniqueSites.size} unique sites in the feed.`);
 
-fs.writeFileSync('./sites.json', JSON.stringify(sites, null, 2));
+// long the number of dates in a sentence
+const numberOfDates = Object.keys(dates.dates).length;
+console.log(`There are ${numberOfDates} dates in the feed.`);
 
-const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
+// if today is in dates.json, do not generate a new one
+if (dates.dates[today]) {
+    console.log("Today's blog is already set.")
+} else {
+    const site = sites.blogs[Math.floor(Math.random() * sites.blogs.length)];
+    dates.dates[today] = site;
+
+// remove the oldest date if we have more than maxNumberOfDates
+    const datesArray = Object.keys(dates.dates);
+    if (datesArray.length > maxNumberOfDates) {
+        const oldestDate = datesArray.sort((a, b) => new Date(a) - new Date(b))[0];
+        delete dates.dates[oldestDate];
+    }
+}
+
+// check that the dates file includes the last 100 days and fill in dates that don't exist
+
+const last100Days = new Array(maxNumberOfDates).fill(0).map((_, i) => {
+    const date = new Date();
+    date.setDate(date.getDate() - i);
+    return date.toISOString().split('T')[0];
+});
+
+last100Days.forEach(date => {
+    if (!dates.dates[date]) {
+        const site = sites.blogs[Math.floor(Math.random() * sites.blogs.length)];
+        dates.dates[date] = site;
+    }
+});
+
+// sort the dates in reverse order to write it out
+const sortedDates = Object.keys(dates.dates).sort((a, b) => new Date(b) - new Date(a));
+const sortedDatesObject = {};
+sortedDates.forEach(date => {
+    sortedDatesObject[date] = dates.dates[date];
+});
+
+fs.writeFileSync('./dates.json', JSON.stringify({dates: sortedDatesObject}, null, 2));
+
+const fetch = (...args) =>
+    import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 // get meta desc
 const cheerio = require('cheerio');
 
-fetch(`https://${site}`)
-    .then(res => res.text())
-    .then(html => {
-        const $ = cheerio.load(html);
-        // TODO fix scope that populates desc
-        const desc = $('meta[name="description"]').attr('content');
-        
-        const feed = `
-            <rss version="2.0">
-            <channel>
-            <title>Blog of the Day</title>
-            <link>https://blogofthe.day</link>
-            <description>Blog of the Day</description>
-            <language>en</language>
-            <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-            <pubDate>${new Date().toUTCString()}</pubDate>
-            ${Object.entries(sites.dates).map(([date, blog]) => `
-            <item>
-                <title>${blog}</title>
-                <link>https://${blog}</link>
-                <guid isPermaLink="true">https://${blog}</guid>
-                <pubDate>${new Date(date).toUTCString()}</pubDate>
-                <description>${desc || ''}</description>
-            </item>
-            `).join('')}
-            </channel>
-            </rss>
-            `;
+// populate descriptions
+sites.blogs.forEach(site => {
+    // log whether the site has a description
+    const hasDescriptionKey = sites.descriptions.hasOwnProperty(site);
+    const hasDescription = sites.descriptions[site] && sites.descriptions[site].length > 0;
+    console.log(`Site ${site} has a description: ${hasDescriptionKey && hasDescription}.`);
 
-            fs.writeFileSync('./feed.xml', feed);
+    if (!hasDescriptionKey) {
+        console.log(`Fetching description for ${site}.`);
+        fetch(`https://${site}`)
+            .then(res => res.text())
+            .then(html => {
+                const $ = cheerio.load(html);
+                const desc = $('meta[name="description"]').attr('content');
+                sites.descriptions[site] = desc || "";
+                fs.writeFileSync('./sites.json', JSON.stringify(sites, null, 2));
+            });
+    }
+});
+
+// populate the rss feed
+// iterate over the dates object and create an rss feed and write to feed.xml
+
+const RSS = require('rss');
+const feed = new RSS({
+    title: 'Blog of the .Day',
+    feed_url: 'https://blogofthe.day/feed.xml',
+    site_url: 'https://blogofthe.day',
+    description: 'Blog of the .Day'
+});
+
+Object.keys(dates.dates).forEach(date => {
+    const site = dates.dates[date];
+    const sites = require('./sites.json');
+    const description = sites.descriptions[site] || '';
+    feed.item({
+        title: site,
+        description: description,
+        url: `https://${site}`,
+        date: date
     });
+});
+
+fs.writeFileSync('./feed.xml', feed.xml({indent: true}));

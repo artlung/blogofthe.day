@@ -4,13 +4,14 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addShortcode("blogToday", function() {
         const fs = require('fs');
+        const dates = require('./dates.json');
         const sites = require('./sites.json');
         const today = new Date().toISOString().split('T')[0];
-        return sites.dates[today];
+        return dates.dates[today];
     });
     eleventyConfig.addShortcode("blogsByDate", function() {
         const fs = require('fs');
-        const sites = require('./sites.json');
-        return sites.dates;
+        const dates = require('./dates.json');
+        return dates.dates;
     });
 };
