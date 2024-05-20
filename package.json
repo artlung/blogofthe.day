@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capjamesg/blogofthe.day.git"
+    "url": "git+https://github.com/artlung/blogofthe.day.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/capjamesg/blogofthe.day/issues"
+    "url": "https://github.com/artlung/blogofthe.day/issues"
   },
-  "homepage": "https://github.com/capjamesg/blogofthe.day#readme",
+  "homepage": "https://github.com/artlung/blogofthe.day#readme",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "cheerio": "^1.0.0-rc.12",
