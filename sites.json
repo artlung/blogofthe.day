@@ -17,7 +17,8 @@
     "tracydurnell.com",
     "www.anildash.com",
     "hamatti.org/blog",
-    "www.lazaruscorporation.co.uk/blogs/artists-notebook"
+    "www.lazaruscorporation.co.uk/blogs/artists-notebook",
+    "blog.rtwilson.com"
   ],
   "descriptions": {
     "aaronparecki.com": "",
@@ -37,6 +38,7 @@
     "tantek.com": "",
     "artlung.com/blog": "",
     "hamatti.org/blog": "A blog about technology, communities and life with weekly posts.",
-    "www.lazaruscorporation.co.uk/blogs/artists-notebook": "The Artist’s Notebook"
+    "www.lazaruscorporation.co.uk/blogs/artists-notebook": "The Artist’s Notebook",
+    "blog.rtwilson.com": "Robin's Blog, covering geospatial analysis, satellite imaging, Python and more"
   }
 }
