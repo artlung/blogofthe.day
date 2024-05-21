@@ -49,12 +49,6 @@ const last100Days = new Array(maxNumberOfDates).fill(0).map((_, i) => {
     return date.toISOString().split('T')[0];
 });
 
-last100Days.forEach(date => {
-    if (!dates.dates[date]) {
-        const site = sites.blogs[Math.floor(Math.random() * sites.blogs.length)];
-        dates.dates[date] = site;
-    }
-});
 
 // sort the dates in reverse order to write it out
 const sortedDates = Object.keys(dates.dates).sort((a, b) => new Date(b) - new Date(a));
