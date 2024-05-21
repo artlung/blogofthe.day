@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 May 2024 20:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 00:41:14 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
+            <description><![CDATA[The Artist’s Notebook]]></description>
+            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
+            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
+            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[aaronparecki.com]]></title>
             <link>https://aaronparecki.com</link>
@@ -647,13 +654,6 @@
             <link>https://benji.dog</link>
             <guid isPermaLink="true">https://benji.dog</guid>
             <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gregorlove.com]]></title>
-            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
-            <link>https://gregorlove.com</link>
-            <guid isPermaLink="true">https://gregorlove.com</guid>
-            <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
