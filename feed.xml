@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 May 2024 00:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 00:46:35 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hamatti.org/blog]]></title>
+            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
+            <link>https://hamatti.org/blog</link>
+            <guid isPermaLink="true">https://hamatti.org/blog</guid>
+            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[aaronparecki.com]]></title>
             <link>https://aaronparecki.com</link>
@@ -647,13 +654,6 @@
             <link>https://benji.dog</link>
             <guid isPermaLink="true">https://benji.dog</guid>
             <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hamatti.org/blog]]></title>
-            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
-            <link>https://hamatti.org/blog</link>
-            <guid isPermaLink="true">https://hamatti.org/blog</guid>
-            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
