@@ -4,7 +4,7 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 May 2024 20:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 02:40:26 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[blog.rtwilson.com]]></title>
@@ -649,11 +649,11 @@
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[boffosocko.com]]></title>
-            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
-            <link>https://boffosocko.com</link>
-            <guid isPermaLink="true">https://boffosocko.com</guid>
-            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
