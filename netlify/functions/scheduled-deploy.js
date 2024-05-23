@@ -1,3 +1,4 @@
+// TODO REMOVE?
 const fetch = require('node-fetch')
 
 const BUILD_HOOK = 'https://api.netlify.com/build_hooks/664ae8fa0d17a85f6f5c2e18'

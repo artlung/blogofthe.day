@@ -1,8 +1,9 @@
 name: run web.py
 
-on: push
-  # schedule:
-  #   - cron: '0 0 * * *'
+on:
+  push:
+  schedule:
+     - cron: '0 0 * * *'
 
 jobs:
   build:

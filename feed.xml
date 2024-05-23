@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 May 2024 02:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 03:15:14 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.rtwilson.com]]></title>
             <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
@@ -647,13 +654,6 @@
             <link>https://david.shanske.com</link>
             <guid isPermaLink="true">https://david.shanske.com</guid>
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
