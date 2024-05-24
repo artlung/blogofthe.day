@@ -6,8 +6,10 @@ const today = new Date().toISOString().split('T')[0];
 const numberOfSites = sites.blogs.length;
 const maxNumberOfDates = numberOfSites * 2;
 
+let updateFeedXml = true;
+
 // log the number of unique sites in a sentence
-const uniqueSites = new Set(Object.values(dates.dates));
+const uniqueSites = new Set(Object.values(sites.blogs));
 console.log(`There are ${uniqueSites.size} unique sites in the feed.`);
 
 // long the number of dates in a sentence
@@ -16,7 +18,8 @@ console.log(`There are ${numberOfDates} dates in the feed.`);
 
 // if today is in dates.json, do not generate a new one
 if (dates.dates[today]) {
-    console.log("Today's blog is already set.")
+    console.log("Today's blog is already set.");
+    updateFeedXml = false;
 } else {
 
     const sitesInThePastWeek = new Set(Object.values(dates.dates));
@@ -70,7 +73,6 @@ sites.blogs.forEach(site => {
     // log whether the site has a description
     const hasDescriptionKey = sites.descriptions.hasOwnProperty(site);
     const hasDescription = sites.descriptions[site] && sites.descriptions[site].length > 0;
-    console.log(`Site ${site} has a description: ${hasDescriptionKey && hasDescription}.`);
 
     if (!hasDescriptionKey) {
         console.log(`Fetching description for ${site}.`);
@@ -88,6 +90,9 @@ sites.blogs.forEach(site => {
 // populate the rss feed
 // iterate over the dates object and create an rss feed and write to feed.xml
 
+if (!updateFeedXml) {
+    return;
+}
 const RSS = require('rss');
 const feed = new RSS({
     title: 'Blog of the .Day',
