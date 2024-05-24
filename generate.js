@@ -6,8 +6,8 @@ const today = new Date().toISOString().split('T')[0];
 const numberOfSites = sites.blogs.length;
 const maxNumberOfDates = numberOfSites * 2;
 
-// log the number of unique sites in a sentence
-const uniqueSites = new Set(Object.values(dates.dates));
+// How many blogs does sites.json have?
+const uniqueSites = new Set(Object.values(sites.blogs));
 console.log(`There are ${uniqueSites.size} unique sites in the feed.`);
 
 // long the number of dates in a sentence
