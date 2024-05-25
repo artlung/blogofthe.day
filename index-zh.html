@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog of the .Day: 探索（独立）网络，一次一个博客。</title>
+    <script src="/assets/js/browser-window.js"></script>
+    <meta name="description" content="Explore the IndieWeb, the slow web, the independent web, one blog per day">
+    <link rel="alternate" type="application/rss+xml" title="Blog of the .Day" href="/feed.xml">
+    <!--from the indieweb-->
+    <style>
+        html, body {
+            height: 100%;
+            max-width: 100ch;
+            margin: auto;
+        }
+
+        :root {
+            --theme-color: #7ea1ff;
+        }
+
+        * {
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            box-sizing: border-box;
+        }
+
+        main {
+            text-align: center;
+            margin: auto;
+        }
+
+        iframe {
+            border: none;
+        }
+
+        browser-window {
+            display: block;
+            margin: auto;
+        }
+
+        iframe, browser-window {
+            height: 500px;
+            width: clamp(500px, 80%, 800px);
+            overflow: hidden;
+        }
+
+        #buttons {
+            margin: auto;
+            display: grid;
+            gap: 1ch;
+            max-width: 24ch;
+        }
+
+        .button-link {
+            display: inline-block;
+            padding: 1ch 2ch;
+            margin: 0;
+            background-color: var(--theme-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--theme-color);
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        details {
+            margin-top: 20px;
+            border: 2px dotted var(--theme-color);
+            padding: 10px;
+        }
+
+        details > h2, details > p {
+            text-align: left;
+            margin: 20px 0;
+        }
+
+        footer p small {
+            color: color-mix(in srgb, var(--theme-color), transparent 60%);
+        }
+    </style>
+</head>
+<body>
+<main>
+    <h1>Blog of the .Day</h1>
+    <p>探索（独立）网络，一次一个博客。</p>
+    <browser-window>
+        <iframe src="https://{% blogToday %}" title="Blog of the .Day"></iframe>
+    </browser-window>
+    <section id="buttons">
+        <a class="button-link" href="https://{% blogToday %}">Visit {% blogToday %}</a>
+        <br>
+        <a class="button-link" href="/feed.xml">订阅：Blog of the .Day RSS Feed</a>
+    </section>
+    <section id="about">
+        <details>
+            <summary>关于 Blog of the .Day</summary>
+            <h2>关于 Blog of the .Day</h2>
+            <p>虽然你在网络上浏览过的网站大部分和企业相关，但许多人正在以一种与众不同的行为来改变这一趋势：创建并维护个人网站。</p>
+            <p>全球的博主们谈论着或重于泰山，或轻于鸿毛的话题，从某人尝试做饭失败的经历到我们对社交网络的看法。</p>
+            <p>每天, Blog of the .Day 都会突出展示一个新的博客。博客会随机选择，并部署在 Netlify 上。
+                <em>注意: 在2024年5月 <a href="http://artlung.com/blogofthe-day/">Joe Crawford </a>成为了这个项目的管理者。
+            <p>想要将你的博客添加到列表中？请在<a
+                    href="https://github.com/artlung/blogofthe.day"> GitHub </a>项目页面提交请求。</p>
+        </details>
+    </section>
+    <footer>
+        <p>made with ❤️, 🍪, and a 💻 by <a href="https://jamesg.blog">james</a> &amp; <a
+                href="https://artlung.com/">joe</a>.</p>
+        <p><small>own your web</small></p>
+    </footer>
+</main>
+</body>
+</html>
