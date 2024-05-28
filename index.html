@@ -84,6 +84,17 @@
         footer p small {
             color: color-mix(in srgb, var(--theme-color), transparent 60%);
         }
+
+        #languages {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+        
+        #languages li {
+            margin: 0 1ch;
+        }
     </style>
 </head>
 <body>
@@ -98,6 +109,10 @@
         <br>
         <a class="button-link" href="/feed.xml">Subscribe to Blog of the .Day RSS Feed</a>
     </section>
+    <ul id="languages">
+        <li><a href="/index.html">English</a></li>
+        <li><a href="/zh/index.html">Chinese</a></li>
+    </ul>
     <section id="about">
         <details>
             <summary>About Blog of the .Day</summary>

@@ -1,3 +1,7 @@
+---
+permalink: /index-zh.html
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,6 +88,17 @@
         footer p small {
             color: color-mix(in srgb, var(--theme-color), transparent 60%);
         }
+
+        #languages {
+            list-style-type: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        #languages li {
+            margin: 0 1ch;
+        }
     </style>
 </head>
 <body>
@@ -96,8 +111,12 @@
     <section id="buttons">
         <a class="button-link" href="https://{% blogToday %}">Visit {% blogToday %}</a>
         <br>
-        <a class="button-link" href="/feed.xml">订阅：Blog of the .Day RSS Feed</a>
+        <a class="button-link" href="/feed-zh.xml">订阅：Blog of the .Day RSS Feed</a>
     </section>
+    <ul id="languages">
+        <li><a href="/index.html">English</a></li>
+        <li><a href="/zh/index.html">Chinese</a></li>
+    </ul>
     <section id="about">
         <details>
             <summary>关于 Blog of the .Day</summary>
