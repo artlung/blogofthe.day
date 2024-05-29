@@ -1,9 +1,13 @@
+---
+permalink: /index-zh.html
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog of the .Day: Explore the (indie) web, one blog at a time.</title>
+    <title>Blog of the .Day: 探索（独立）网络，一次一个博客。</title>
     <script src="/assets/js/browser-window.js"></script>
     <meta name="description" content="Explore the IndieWeb, the slow web, the independent web, one blog per day">
     <link rel="alternate" type="application/rss+xml" title="Blog of the .Day" href="/feed.xml">
@@ -91,7 +95,7 @@
             display: flex;
             justify-content: center;
         }
-        
+
         #languages li {
             margin: 0 1ch;
         }
@@ -100,14 +104,14 @@
 <body>
 <main>
     <h1>Blog of the .Day</h1>
-    <p>Explore the (indie) web, one blog at a time.</p>
+    <p>探索（独立）网络，一次一个博客。</p>
     <browser-window>
         <iframe src="https://{% blogToday %}" title="Blog of the .Day"></iframe>
     </browser-window>
     <section id="buttons">
         <a class="button-link" href="https://{% blogToday %}">Visit {% blogToday %}</a>
         <br>
-        <a class="button-link" href="/feed.xml">Subscribe to Blog of the .Day RSS Feed</a>
+        <a class="button-link" href="/feed-zh.xml">订阅：Blog of the .Day RSS Feed</a>
     </section>
     <ul id="languages">
         <li><a href="/index.html">English</a></li>
@@ -115,16 +119,14 @@
     </ul>
     <section id="about">
         <details>
-            <summary>About Blog of the .Day</summary>
-            <h2>About Blog of the .Day</h2>
-            <p>While most of your experience of the web may be with corporate-owned websites, there are many people
-                bucking this trend with a rebellious act: creating and maintaining a personal website.</p>
-            <p>Bloggers around the world talk about the consequential and the inconsequential, from one's failed attempt
-                to make a recipe to an idea that challenges the way we think about social networking.</p>
-            <p>Every day, Blog of the .Day highlights a new blog. The blog is chosen at random and a new one should be deployed daily via Netlify.
-                <em>note: in May 2024 <a href="http://artlung.com/blogofthe-day/">Joe Crawford became the steward</a> of this project.
-            <p>Want to add your blog to the list? Submit a pull request on the <a
-                    href="https://github.com/artlung/blogofthe.day">project GitHub page</a>.</p>
+            <summary>关于 Blog of the .Day</summary>
+            <h2>关于 Blog of the .Day</h2>
+            <p>虽然你在网络上浏览过的网站大部分和企业相关，但许多人正在以一种与众不同的行为来改变这一趋势：创建并维护个人网站。</p>
+            <p>全球的博主们谈论着或重于泰山，或轻于鸿毛的话题，从某人尝试做饭失败的经历到我们对社交网络的看法。</p>
+            <p>每天, Blog of the .Day 都会突出展示一个新的博客。博客会随机选择，并部署在 Netlify 上。
+                <em>注意: 在2024年5月 <a href="http://artlung.com/blogofthe-day/">Joe Crawford </a>成为了这个项目的管理者。
+            <p>想要将你的博客添加到列表中？请在<a
+                    href="https://github.com/artlung/blogofthe.day"> GitHub </a>项目页面提交请求。</p>
         </details>
     </section>
     <footer>
