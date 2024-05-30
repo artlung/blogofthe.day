@@ -107,7 +107,7 @@ Object.keys(dates.dates).forEach(date => {
     const site = dates.dates[date];
     const sites = require('./sites.json');
     const description = sites.descriptions[site] || '';
-    const protocol = httpSites.sites.include(site) ? 'http://' : 'https://';
+    const protocol = httpSites.sites.includes(site) ? 'http://' : 'https://';
     feed.item({
         title: site,
         description: description,
