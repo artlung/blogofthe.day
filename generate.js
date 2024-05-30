@@ -19,8 +19,15 @@ console.log(`There are ${numberOfDates} dates in the feed.`);
 
 // if today is in dates.json, do not generate a new one
 if (dates.dates[today]) {
-    console.log("Today's blog is already set.");
-    updateFeedXml = false;
+    const site = dates.dates[today];
+    console.log(`Today's blog is already set. It's ${site}`);
+    if (httpSites.sites.includes(site)) {
+        console.log(`The site ${site} uses http. We will rebuild`);
+        updateFeedXml = true;
+    } else {
+        updateFeedXml = false;
+    }
+
 } else {
 
     const sitesInThePastWeek = new Set(Object.values(dates.dates));
