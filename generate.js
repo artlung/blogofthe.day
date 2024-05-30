@@ -74,7 +74,7 @@ sites.blogs.forEach(site => {
     // log whether the site has a description
     const hasDescriptionKey = sites.descriptions.hasOwnProperty(site);
     const hasDescription = sites.descriptions[site] && sites.descriptions[site].length > 0;
-    const protocol = httpSites.includes(site) ? 'http://' : 'https://';
+    const protocol = httpSites.sites.includes(site) ? 'http://' : 'https://';
 
     if (!hasDescriptionKey) {
         console.log(`Fetching description for ${site}.`);
@@ -107,7 +107,7 @@ Object.keys(dates.dates).forEach(date => {
     const site = dates.dates[date];
     const sites = require('./sites.json');
     const description = sites.descriptions[site] || '';
-    const protocol = httpSites.includes(site) ? 'http://' : 'https://';
+    const protocol = httpSites.sites.include(site) ? 'http://' : 'https://';
     feed.item({
         title: site,
         description: description,
