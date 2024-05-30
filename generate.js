@@ -2,6 +2,7 @@ const fs = require('fs');
 
 const sites = require('./sites.json');
 const dates = require('./dates.json');
+const httpSites = require('./http-sites.json');
 const today = new Date().toISOString().split('T')[0];
 const numberOfSites = sites.blogs.length;
 const maxNumberOfDates = numberOfSites * 2;
@@ -73,10 +74,11 @@ sites.blogs.forEach(site => {
     // log whether the site has a description
     const hasDescriptionKey = sites.descriptions.hasOwnProperty(site);
     const hasDescription = sites.descriptions[site] && sites.descriptions[site].length > 0;
+    const protocol = httpSites.includes(site) ? 'http://' : 'https://';
 
     if (!hasDescriptionKey) {
         console.log(`Fetching description for ${site}.`);
-        fetch(`https://${site}`)
+        fetch(`${protocol}${site}`)
             .then(res => res.text())
             .then(html => {
                 const $ = cheerio.load(html);
@@ -105,10 +107,11 @@ Object.keys(dates.dates).forEach(date => {
     const site = dates.dates[date];
     const sites = require('./sites.json');
     const description = sites.descriptions[site] || '';
+    const protocol = httpSites.includes(site) ? 'http://' : 'https://';
     feed.item({
         title: site,
         description: description,
-        url: `https://${site}`,
+        url: `${protocol}${site}`,
         date: date
     });
 });
