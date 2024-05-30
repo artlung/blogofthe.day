@@ -91,10 +91,10 @@
     <h1>Blog of the .Day</h1>
     <p>Explore the (indie) web, one blog at a time.</p>
     <browser-window>
-        <iframe src="https://{% blogToday %}" title="Blog of the .Day"></iframe>
+        <iframe src="{% protocolToday %}{% blogToday %}" title="Blog of the .Day"></iframe>
     </browser-window>
     <section id="buttons">
-        <a class="button-link" href="https://{% blogToday %}">Visit {% blogToday %}</a>
+        <a class="button-link" href="{% protocolToday %}{% blogToday %}">Visit {% blogToday %}</a>
         <br>
         <a class="button-link" href="/feed.xml">Subscribe to Blog of the .Day RSS Feed</a>
     </section>
@@ -114,7 +114,8 @@
     </section>
     <footer>
         <p>made with ❤️, 🍪, and a 💻 by <a href="https://jamesg.blog">james</a> &amp; <a
-                href="https://artlung.com/">joe</a>.</p>
+                href="https://artlung.com/">joe</a> <a
+                href="https://github.com/artlung/blogofthe.day">on GitHub</a></p>
         <p><small>own your web</small></p>
     </footer>
 </main>

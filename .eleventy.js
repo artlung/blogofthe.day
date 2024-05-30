@@ -9,6 +9,15 @@ module.exports = function(eleventyConfig) {
         const today = new Date().toISOString().split('T')[0];
         return dates.dates[today];
     });
+    eleventyConfig.addShortcode("protocolToday", function() {
+        const fs = require('fs');
+        const dates = require('./dates.json');
+        const httpSites = require('./http-sites.json');
+        const today = new Date().toISOString().split('T')[0];
+        const site = dates.dates[today];
+        const protocol = httpSites.sites.includes(site) ? 'http://' : 'https://';
+        return protocol;
+    });
     eleventyConfig.addShortcode("blogsByDate", function() {
         const fs = require('fs');
         const dates = require('./dates.json');
