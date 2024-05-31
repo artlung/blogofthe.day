@@ -4,7 +4,7 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 May 2024 01:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 00:06:04 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[thisvictorianlife.com]]></title>
@@ -651,10 +651,11 @@
             <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
