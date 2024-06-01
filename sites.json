@@ -36,7 +36,8 @@
     "george-lakoff.com",
     "glycerinequeenmedia.com",
     "acearo.at",
-    "mandarismoore.com"
+    "mandarismoore.com",
+    "bbbhltz.codeberg.page"
   ],
   "descriptions": {
     "aaronparecki.com": "",
@@ -75,6 +76,7 @@
     "george-lakoff.com": "Mostly political blog from professor known for his work on methaphorical language",
     "glycerinequeenmedia.com": "Queer and other stuff",
     "acearo.at": "Austrian asexual and aromantic oriented blog",
-    "mandarismoore.com": "A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community."
+    "mandarismoore.com": "A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.",
+    "bbbhltz.codeberg.page": "Personal blog about, but not limited to, technology, education, and other sundries."
   }
 }
