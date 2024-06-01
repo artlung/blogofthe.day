@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 May 2024 00:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 00:06:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[thisvictorianlife.com]]></title>
             <description><![CDATA[Blog about Victorian era]]></description>
@@ -645,17 +652,11 @@
             <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[devastatia.com]]></title>
+            <description><![CDATA[Entertaning blog just for the tone]]></description>
+            <link>https://devastatia.com</link>
+            <guid isPermaLink="true">https://devastatia.com</guid>
+            <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
