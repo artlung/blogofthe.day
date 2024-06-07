@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Jun 2024 00:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 00:06:26 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[boffosocko.com]]></title>
             <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
@@ -650,17 +657,11 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[criticalpolyamorist.com]]></title>
-            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
-            <link>http://criticalpolyamorist.com</link>
-            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
-            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[sarahspiekermann.com]]></title>
+            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
+            <link>https://sarahspiekermann.com</link>
+            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
+            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
