@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Jun 2024 00:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 00:06:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sarahspiekermann.com]]></title>
+            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
+            <link>https://sarahspiekermann.com</link>
+            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
+            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[criticalpolyamorist.com]]></title>
             <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
@@ -651,17 +658,11 @@
             <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sarahspiekermann.com]]></title>
-            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
-            <link>https://sarahspiekermann.com</link>
-            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
-            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[sloanime.si]]></title>
+            <description><![CDATA[Blog about Slovenian anime scene]]></description>
+            <link>https://sloanime.si</link>
+            <guid isPermaLink="true">https://sloanime.si</guid>
+            <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
