@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Jun 2024 00:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 00:07:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sloanime.si]]></title>
+            <description><![CDATA[Blog about Slovenian anime scene]]></description>
+            <link>https://sloanime.si</link>
+            <guid isPermaLink="true">https://sloanime.si</guid>
+            <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sarahspiekermann.com]]></title>
             <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
@@ -651,18 +658,11 @@
             <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jamesg.blog]]></title>
-            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
-            <link>https://jamesg.blog</link>
-            <guid isPermaLink="true">https://jamesg.blog</guid>
-            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sloanime.si]]></title>
-            <description><![CDATA[Blog about Slovenian anime scene]]></description>
-            <link>https://sloanime.si</link>
-            <guid isPermaLink="true">https://sloanime.si</guid>
-            <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[george-lakoff.com]]></title>
+            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
+            <link>https://george-lakoff.com</link>
+            <guid isPermaLink="true">https://george-lakoff.com</guid>
+            <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
