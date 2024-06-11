@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Jun 2024 00:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 00:06:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ialja.com]]></title>
+            <description><![CDATA[About responsible tech]]></description>
+            <link>https://ialja.com</link>
+            <guid isPermaLink="true">https://ialja.com</guid>
+            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[george-lakoff.com]]></title>
             <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
@@ -652,18 +659,11 @@
             <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ialja.com]]></title>
-            <description><![CDATA[About responsible tech]]></description>
-            <link>https://ialja.com</link>
-            <guid isPermaLink="true">https://ialja.com</guid>
-            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
