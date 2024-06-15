@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Jun 2024 00:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 00:06:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[acearo.at]]></title>
+            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
+            <link>https://acearo.at</link>
+            <guid isPermaLink="true">https://acearo.at</guid>
+            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mandarismoore.com]]></title>
             <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
@@ -654,18 +661,10 @@
             <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[acearo.at]]></title>
-            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
-            <link>https://acearo.at</link>
-            <guid isPermaLink="true">https://acearo.at</guid>
-            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[lifeofpablo.com]]></title>
+            <link>https://lifeofpablo.com</link>
+            <guid isPermaLink="true">https://lifeofpablo.com</guid>
+            <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
