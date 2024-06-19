@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Jun 2024 00:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 00:06:25 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[alexwlchan.net]]></title>
             <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
@@ -669,17 +676,11 @@
             <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.darylsun.page]]></title>
-            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
-            <link>https://blog.darylsun.page</link>
-            <guid isPermaLink="true">https://blog.darylsun.page</guid>
-            <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
