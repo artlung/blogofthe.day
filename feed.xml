@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Jun 2024 00:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 00:06:35 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rebeccatoh.co]]></title>
+            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
+            <link>https://rebeccatoh.co</link>
+            <guid isPermaLink="true">https://rebeccatoh.co</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[marisabel.nl]]></title>
             <description><![CDATA[A personal garden to make things grow.]]></description>
@@ -669,18 +676,11 @@
             <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rebeccatoh.co]]></title>
-            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
-            <link>https://rebeccatoh.co</link>
-            <guid isPermaLink="true">https://rebeccatoh.co</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
