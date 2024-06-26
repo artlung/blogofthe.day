@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Jun 2024 00:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 00:06:17 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[one-from-nippon.ghost.io]]></title>
             <description><![CDATA[Explore the Japan you've never heard of.]]></description>
@@ -678,11 +685,11 @@
             <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tiramisu.bearblog.dev]]></title>
-            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
-            <link>https://tiramisu.bearblog.dev</link>
-            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
-            <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
