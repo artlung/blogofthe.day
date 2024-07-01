@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Jun 2024 00:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 00:07:30 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[stfn.pl]]></title>
+            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
+            <link>https://stfn.pl</link>
+            <guid isPermaLink="true">https://stfn.pl</guid>
+            <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
             <description><![CDATA[The Artist’s Notebook]]></description>
@@ -701,17 +708,11 @@
             <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[stfn.pl]]></title>
-            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
-            <link>https://stfn.pl</link>
-            <guid isPermaLink="true">https://stfn.pl</guid>
-            <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
