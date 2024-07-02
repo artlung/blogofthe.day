@@ -42,7 +42,15 @@ if (dates.dates[today]) {
     const sitesInLast7Days = last7Days.map(date => dates.dates[date]);
     const sitesNotInLast7Days = sites.blogs.filter(site => !sitesInLast7Days.includes(site));
     const sitesNotInPastWeekOrLast7Days = sitesNotInPastWeek.filter(site => sitesNotInLast7Days.includes(site));
-    dates.dates[today] = sitesNotInPastWeekOrLast7Days[Math.floor(Math.random() * sitesNotInPastWeekOrLast7Days.length)];
+
+    console.log(`Sites not in the past week or last 7 days: ${sitesNotInPastWeekOrLast7Days.length}`)
+    if (sitesNotInPastWeekOrLast7Days.length === 0) {
+        // just choose a random site anyway, we need more indie web sites!
+        dates.dates[today] = sites.blogs[Math.floor(Math.random() * sites.blogs.length)];
+    } else {
+        dates.dates[today] = sitesNotInPastWeekOrLast7Days[Math.floor(Math.random() * sitesNotInPastWeekOrLast7Days.length)];
+    }
+
 
 // remove the oldest date if we have more than maxNumberOfDates
     const datesArray = Object.keys(dates.dates);
