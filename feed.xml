@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jul 2024 00:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 00:06:38 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stfn.pl]]></title>
             <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
@@ -701,18 +708,10 @@
             <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yordi.me]]></title>
-            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
-            <link>https://yordi.me</link>
-            <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <link>https://undefined</link>
+            <guid isPermaLink="true">https://undefined</guid>
+            <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
