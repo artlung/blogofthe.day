@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jul 2024 00:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 00:06:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lifeofpablo.com/blog]]></title>
             <description><![CDATA[Blog]]></description>
@@ -701,16 +707,11 @@
             <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[omeratagun.net]]></title>
+            <description><![CDATA[Tech oriented blog]]></description>
+            <link>https://omeratagun.net</link>
+            <guid isPermaLink="true">https://omeratagun.net</guid>
+            <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
