@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jul 2024 00:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 00:06:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rubenerd.com]]></title>
+            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
+            <link>https://rubenerd.com</link>
+            <guid isPermaLink="true">https://rubenerd.com</guid>
+            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[omeratagun.net]]></title>
             <description><![CDATA[Tech oriented blog]]></description>
@@ -702,17 +709,11 @@
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rubenerd.com]]></title>
-            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
-            <link>https://rubenerd.com</link>
-            <guid isPermaLink="true">https://rubenerd.com</guid>
-            <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[hamatti.org/blog]]></title>
+            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
+            <link>https://hamatti.org/blog</link>
+            <guid isPermaLink="true">https://hamatti.org/blog</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
