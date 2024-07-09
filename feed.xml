@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jul 2024 00:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 00:06:27 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hamatti.org/blog]]></title>
+            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
+            <link>https://hamatti.org/blog</link>
+            <guid isPermaLink="true">https://hamatti.org/blog</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rubenerd.com]]></title>
             <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
@@ -702,18 +709,10 @@
             <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hamatti.org/blog]]></title>
-            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
-            <link>https://hamatti.org/blog</link>
-            <guid isPermaLink="true">https://hamatti.org/blog</guid>
-            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
