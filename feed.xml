@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jul 2024 00:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 00:06:31 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[hamatti.org/blog]]></title>
             <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
@@ -702,17 +708,11 @@
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
+            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <link>https://reillyspitzfaden.com/blog</link>
+            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
+            <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
