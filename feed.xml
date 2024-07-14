@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jul 2024 00:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jul 2024 00:07:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lifeofpablo.com/blog]]></title>
+            <description><![CDATA[Blog]]></description>
+            <link>https://lifeofpablo.com/blog</link>
+            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
+            <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rubenerd.com]]></title>
             <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
@@ -703,17 +710,11 @@
             <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lifeofpablo.com/blog]]></title>
-            <description><![CDATA[Blog]]></description>
-            <link>https://lifeofpablo.com/blog</link>
-            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
-            <pubDate>Sat, 13 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
