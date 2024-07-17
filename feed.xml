@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jul 2024 00:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 00:06:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[muan.co]]></title>
+            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
+            <link>https://muan.co</link>
+            <guid isPermaLink="true">https://muan.co</guid>
+            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[benji.dog]]></title>
             <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
@@ -705,18 +712,11 @@
             <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jamesg.blog]]></title>
-            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
-            <link>https://jamesg.blog</link>
-            <guid isPermaLink="true">https://jamesg.blog</guid>
-            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[muan.co]]></title>
             <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
             <link>https://muan.co</link>
             <guid isPermaLink="true">https://muan.co</guid>
-            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
