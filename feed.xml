@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jul 2024 11:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jul 2024 00:06:43 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[alexsirac.com]]></title>
             <description><![CDATA[A French and English blog that's not about tech.]]></description>
@@ -708,17 +715,11 @@
             <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.darylsun.page]]></title>
-            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
-            <link>https://blog.darylsun.page</link>
-            <guid isPermaLink="true">https://blog.darylsun.page</guid>
-            <pubDate>Fri, 19 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[rubenerd.com]]></title>
+            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
+            <link>https://rubenerd.com</link>
+            <guid isPermaLink="true">https://rubenerd.com</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
