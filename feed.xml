@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Jul 2024 00:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 00:07:05 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sloanime.si]]></title>
+            <description><![CDATA[Blog about Slovenian anime scene]]></description>
+            <link>https://sloanime.si</link>
+            <guid isPermaLink="true">https://sloanime.si</guid>
+            <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nineteenteen.blogspot.com]]></title>
             <description><![CDATA[19th century history]]></description>
@@ -711,18 +718,10 @@
             <pubDate>Sun, 14 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sloanime.si]]></title>
-            <description><![CDATA[Blog about Slovenian anime scene]]></description>
-            <link>https://sloanime.si</link>
-            <guid isPermaLink="true">https://sloanime.si</guid>
-            <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
