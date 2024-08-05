@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Aug 2024 00:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 00:06:55 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[glycerinequeenmedia.com]]></title>
             <description><![CDATA[Queer and other stuff]]></description>
@@ -715,17 +722,11 @@
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Sun, 21 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[boffosocko.com]]></title>
+            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
+            <link>https://boffosocko.com</link>
+            <guid isPermaLink="true">https://boffosocko.com</guid>
+            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
