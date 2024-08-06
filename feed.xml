@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Aug 2024 00:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 00:06:52 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[boffosocko.com]]></title>
+            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
+            <link>https://boffosocko.com</link>
+            <guid isPermaLink="true">https://boffosocko.com</guid>
+            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[katetattersall.com]]></title>
             <description><![CDATA[Victorian secret service blog]]></description>
@@ -722,11 +729,11 @@
             <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[boffosocko.com]]></title>
-            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
-            <link>https://boffosocko.com</link>
-            <guid isPermaLink="true">https://boffosocko.com</guid>
-            <pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.cboxes.icu]]></title>
+            <description><![CDATA[A photography blog]]></description>
+            <link>https://www.cboxes.icu</link>
+            <guid isPermaLink="true">https://www.cboxes.icu</guid>
+            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
