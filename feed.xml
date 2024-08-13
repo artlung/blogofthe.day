@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Aug 2024 00:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 00:07:04 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[veronique.ink]]></title>
+            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
+            <link>https://veronique.ink</link>
+            <guid isPermaLink="true">https://veronique.ink</guid>
+            <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tiramisu.bearblog.dev]]></title>
             <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
@@ -730,18 +737,11 @@
             <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jamesg.blog]]></title>
-            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
-            <link>https://jamesg.blog</link>
-            <guid isPermaLink="true">https://jamesg.blog</guid>
-            <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[veronique.ink]]></title>
-            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
-            <link>https://veronique.ink</link>
-            <guid isPermaLink="true">https://veronique.ink</guid>
-            <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
