@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Aug 2024 00:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 00:06:50 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.cboxes.icu]]></title>
+            <description><![CDATA[A photography blog]]></description>
+            <link>https://www.cboxes.icu</link>
+            <guid isPermaLink="true">https://www.cboxes.icu</guid>
+            <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[omeratagun.net]]></title>
             <description><![CDATA[Tech oriented blog]]></description>
@@ -745,17 +752,11 @@
             <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.cboxes.icu]]></title>
-            <description><![CDATA[A photography blog]]></description>
-            <link>https://www.cboxes.icu</link>
-            <guid isPermaLink="true">https://www.cboxes.icu</guid>
-            <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
