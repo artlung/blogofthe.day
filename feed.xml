@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Aug 2024 00:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 00:07:00 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[pcarrier.com]]></title>
             <description><![CDATA[Personal website and forest of links]]></description>
@@ -747,18 +754,11 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pcarrier.com]]></title>
-            <description><![CDATA[Personal website and forest of links]]></description>
-            <link>https://pcarrier.com</link>
-            <guid isPermaLink="true">https://pcarrier.com</guid>
-            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[devastatia.com]]></title>
+            <description><![CDATA[Entertaning blog just for the tone]]></description>
+            <link>https://devastatia.com</link>
+            <guid isPermaLink="true">https://devastatia.com</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
