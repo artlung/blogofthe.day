@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Aug 2024 00:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 00:06:44 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[devastatia.com]]></title>
+            <description><![CDATA[Entertaning blog just for the tone]]></description>
+            <link>https://devastatia.com</link>
+            <guid isPermaLink="true">https://devastatia.com</guid>
+            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[captainawkward.com]]></title>
             <description><![CDATA[Answering questions about social skills]]></description>
@@ -748,17 +755,11 @@
             <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[devastatia.com]]></title>
-            <description><![CDATA[Entertaning blog just for the tone]]></description>
-            <link>https://devastatia.com</link>
-            <guid isPermaLink="true">https://devastatia.com</guid>
-            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
