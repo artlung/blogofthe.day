@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Aug 2024 00:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 00:07:06 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[omeratagun.net]]></title>
+            <description><![CDATA[Tech oriented blog]]></description>
+            <link>https://omeratagun.net</link>
+            <guid isPermaLink="true">https://omeratagun.net</guid>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[criticalpolyamorist.com]]></title>
             <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
@@ -749,18 +756,11 @@
             <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[lifeofpablo.com/blog]]></title>
-            <description><![CDATA[Blog]]></description>
-            <link>https://lifeofpablo.com/blog</link>
-            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
-            <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[omeratagun.net]]></title>
-            <description><![CDATA[Tech oriented blog]]></description>
-            <link>https://omeratagun.net</link>
-            <guid isPermaLink="true">https://omeratagun.net</guid>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
