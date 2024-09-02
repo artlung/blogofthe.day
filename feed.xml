@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Sep 2024 00:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 00:07:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
+            <description><![CDATA[The Artist’s Notebook]]></description>
+            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
+            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
+            <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mandarismoore.com]]></title>
             <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
@@ -750,18 +757,10 @@
             <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
-            <description><![CDATA[The Artist’s Notebook]]></description>
-            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
-            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
-            <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
