@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Sep 2024 00:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 00:07:02 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[artlung.com/blog]]></title>
             <link>https://artlung.com/blog</link>
@@ -750,17 +757,10 @@
             <pubDate>Sat, 18 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yordi.me]]></title>
-            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
-            <link>https://yordi.me</link>
-            <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.maxwelljoslyn.com]]></title>
+            <link>https://www.maxwelljoslyn.com</link>
+            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
