@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Sep 2024 00:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 00:06:48 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.maxwelljoslyn.com]]></title>
             <link>https://www.maxwelljoslyn.com</link>
@@ -750,17 +757,11 @@
             <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mythcreants.com]]></title>
-            <description><![CDATA[Fiction writing]]></description>
-            <link>https://mythcreants.com</link>
-            <guid isPermaLink="true">https://mythcreants.com</guid>
-            <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
