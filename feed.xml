@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Sep 2024 00:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 00:07:38 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[david.shanske.com]]></title>
+            <link>https://david.shanske.com</link>
+            <guid isPermaLink="true">https://david.shanske.com</guid>
+            <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jamesg.blog]]></title>
             <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
@@ -751,17 +757,11 @@
             <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[hamatti.org/blog]]></title>
-            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
-            <link>https://hamatti.org/blog</link>
-            <guid isPermaLink="true">https://hamatti.org/blog</guid>
-            <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[david.shanske.com]]></title>
-            <link>https://david.shanske.com</link>
-            <guid isPermaLink="true">https://david.shanske.com</guid>
-            <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[ialja.com]]></title>
+            <description><![CDATA[About responsible tech]]></description>
+            <link>https://ialja.com</link>
+            <guid isPermaLink="true">https://ialja.com</guid>
+            <pubDate>Sun, 08 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
