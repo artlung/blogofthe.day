@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Sep 2024 00:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 00:07:00 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[joshmuller.ca]]></title>
+            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
+            <link>https://joshmuller.ca</link>
+            <guid isPermaLink="true">https://joshmuller.ca</guid>
+            <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ialja.com]]></title>
             <description><![CDATA[About responsible tech]]></description>
@@ -764,11 +771,11 @@
             <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[joshmuller.ca]]></title>
-            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
-            <link>https://joshmuller.ca</link>
-            <guid isPermaLink="true">https://joshmuller.ca</guid>
-            <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
