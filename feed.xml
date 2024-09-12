@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Sep 2024 00:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 00:07:08 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.cboxes.icu]]></title>
+            <description><![CDATA[A photography blog]]></description>
+            <link>https://www.cboxes.icu</link>
+            <guid isPermaLink="true">https://www.cboxes.icu</guid>
+            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tiramisu.bearblog.dev]]></title>
             <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
@@ -764,18 +771,11 @@
             <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.cboxes.icu]]></title>
-            <description><![CDATA[A photography blog]]></description>
-            <link>https://www.cboxes.icu</link>
-            <guid isPermaLink="true">https://www.cboxes.icu</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.rtwilson.com]]></title>
+            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
+            <link>https://blog.rtwilson.com</link>
+            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
+            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
