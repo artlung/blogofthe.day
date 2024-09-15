@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Sep 2024 00:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 00:07:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.anildash.com]]></title>
+            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
+            <link>https://www.anildash.com</link>
+            <guid isPermaLink="true">https://www.anildash.com</guid>
+            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[pcarrier.com]]></title>
             <description><![CDATA[Personal website and forest of links]]></description>
@@ -765,18 +772,11 @@
             <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[glycerinequeenmedia.com]]></title>
-            <description><![CDATA[Queer and other stuff]]></description>
-            <link>https://glycerinequeenmedia.com</link>
-            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
-            <pubDate>Sun, 26 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[rubenerd.com]]></title>
+            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
+            <link>https://rubenerd.com</link>
+            <guid isPermaLink="true">https://rubenerd.com</guid>
+            <pubDate>Sun, 15 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
