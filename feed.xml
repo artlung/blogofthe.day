@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Sep 2024 00:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 00:07:07 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[going-medieval.com]]></title>
+            <description><![CDATA[Medieval history]]></description>
+            <link>https://going-medieval.com</link>
+            <guid isPermaLink="true">https://going-medieval.com</guid>
+            <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[criticalpolyamorist.com]]></title>
             <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
@@ -765,18 +772,11 @@
             <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[going-medieval.com]]></title>
-            <description><![CDATA[Medieval history]]></description>
-            <link>https://going-medieval.com</link>
-            <guid isPermaLink="true">https://going-medieval.com</guid>
-            <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
