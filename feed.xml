@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Sep 2024 00:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 00:07:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[going-medieval.com]]></title>
             <description><![CDATA[Medieval history]]></description>
@@ -765,18 +772,11 @@
             <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[thisvictorianlife.com]]></title>
-            <description><![CDATA[Blog about Victorian era]]></description>
-            <link>http://thisvictorianlife.com</link>
-            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
-            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yordi.me]]></title>
-            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
-            <link>https://yordi.me</link>
-            <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
