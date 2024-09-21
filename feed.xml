@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Sep 2024 00:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 00:06:53 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[alexsirac.com]]></title>
             <description><![CDATA[A French and English blog that's not about tech.]]></description>
@@ -765,18 +772,10 @@
             <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[devastatia.com]]></title>
-            <description><![CDATA[Entertaning blog just for the tone]]></description>
-            <link>https://devastatia.com</link>
-            <guid isPermaLink="true">https://devastatia.com</guid>
-            <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thisvictorianlife.com]]></title>
-            <description><![CDATA[Blog about Victorian era]]></description>
-            <link>http://thisvictorianlife.com</link>
-            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sat, 21 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
