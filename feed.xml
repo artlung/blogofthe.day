@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Sep 2024 00:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 00:07:18 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.darylsun.page]]></title>
             <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
@@ -764,18 +771,11 @@
             <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mythcreants.com]]></title>
-            <description><![CDATA[Fiction writing]]></description>
-            <link>https://mythcreants.com</link>
-            <guid isPermaLink="true">https://mythcreants.com</guid>
-            <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pcarrier.com]]></title>
-            <description><![CDATA[Personal website and forest of links]]></description>
-            <link>https://pcarrier.com</link>
-            <guid isPermaLink="true">https://pcarrier.com</guid>
-            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
