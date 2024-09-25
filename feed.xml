@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Sep 2024 00:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 00:07:15 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[pcarrier.com]]></title>
             <description><![CDATA[Personal website and forest of links]]></description>
@@ -764,18 +771,11 @@
             <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[boffosocko.com]]></title>
-            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
-            <link>https://boffosocko.com</link>
-            <guid isPermaLink="true">https://boffosocko.com</guid>
-            <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
