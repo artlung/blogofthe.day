@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Sep 2024 00:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 00:07:07 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[marisabel.nl]]></title>
             <description><![CDATA[A personal garden to make things grow.]]></description>
@@ -764,18 +771,11 @@
             <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[criticalpolyamorist.com]]></title>
-            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
-            <link>http://criticalpolyamorist.com</link>
-            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
-            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[stfn.pl]]></title>
+            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
+            <link>https://stfn.pl</link>
+            <guid isPermaLink="true">https://stfn.pl</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
