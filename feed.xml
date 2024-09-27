@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Sep 2024 00:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 00:07:33 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[stfn.pl]]></title>
+            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
+            <link>https://stfn.pl</link>
+            <guid isPermaLink="true">https://stfn.pl</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[katetattersall.com]]></title>
             <description><![CDATA[Victorian secret service blog]]></description>
@@ -764,18 +771,11 @@
             <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sarahspiekermann.com]]></title>
-            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
-            <link>https://sarahspiekermann.com</link>
-            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
-            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[stfn.pl]]></title>
-            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
-            <link>https://stfn.pl</link>
-            <guid isPermaLink="true">https://stfn.pl</guid>
-            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
