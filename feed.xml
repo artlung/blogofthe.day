@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Oct 2024 00:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 00:07:32 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexwlchan.net]]></title>
+            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
+            <link>https://alexwlchan.net</link>
+            <guid isPermaLink="true">https://alexwlchan.net</guid>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[george-lakoff.com]]></title>
             <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
@@ -770,11 +777,11 @@
             <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexwlchan.net]]></title>
-            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
-            <link>https://alexwlchan.net</link>
-            <guid isPermaLink="true">https://alexwlchan.net</guid>
-            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
