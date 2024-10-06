@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Oct 2024 00:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Oct 2024 00:07:55 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bbbhltz.codeberg.page]]></title>
+            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
+            <link>https://bbbhltz.codeberg.page</link>
+            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
+            <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
             <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
@@ -777,18 +784,11 @@
             <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[acearo.at]]></title>
-            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
-            <link>https://acearo.at</link>
-            <guid isPermaLink="true">https://acearo.at</guid>
-            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bbbhltz.codeberg.page]]></title>
-            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
-            <link>https://bbbhltz.codeberg.page</link>
-            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
-            <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[muan.co]]></title>
+            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
+            <link>https://muan.co</link>
+            <guid isPermaLink="true">https://muan.co</guid>
+            <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
