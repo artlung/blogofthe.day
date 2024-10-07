@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Oct 2024 00:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 00:07:46 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[muan.co]]></title>
+            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
+            <link>https://muan.co</link>
+            <guid isPermaLink="true">https://muan.co</guid>
+            <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bbbhltz.codeberg.page]]></title>
             <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
@@ -778,17 +785,11 @@
             <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[lifeofpablo.com]]></title>
-            <link>https://lifeofpablo.com</link>
-            <guid isPermaLink="true">https://lifeofpablo.com</guid>
-            <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[muan.co]]></title>
-            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
-            <link>https://muan.co</link>
-            <guid isPermaLink="true">https://muan.co</guid>
-            <pubDate>Sun, 06 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[acearo.at]]></title>
+            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
+            <link>https://acearo.at</link>
+            <guid isPermaLink="true">https://acearo.at</guid>
+            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
