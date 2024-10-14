@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Oct 2024 00:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 00:07:52 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rebeccatoh.co]]></title>
+            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
+            <link>https://rebeccatoh.co</link>
+            <guid isPermaLink="true">https://rebeccatoh.co</guid>
+            <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[benji.dog]]></title>
             <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
@@ -778,18 +785,11 @@
             <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[muan.co]]></title>
-            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
-            <link>https://muan.co</link>
-            <guid isPermaLink="true">https://muan.co</guid>
-            <pubDate>Sat, 22 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rebeccatoh.co]]></title>
-            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
-            <link>https://rebeccatoh.co</link>
-            <guid isPermaLink="true">https://rebeccatoh.co</guid>
-            <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[sarahspiekermann.com]]></title>
+            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
+            <link>https://sarahspiekermann.com</link>
+            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
+            <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
