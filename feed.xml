@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Oct 2024 00:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 00:07:37 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sarahspiekermann.com]]></title>
+            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
+            <link>https://sarahspiekermann.com</link>
+            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
+            <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rebeccatoh.co]]></title>
             <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
@@ -778,18 +785,11 @@
             <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[notes.jeddacp.com]]></title>
-            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
-            <link>https://notes.jeddacp.com</link>
-            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
-            <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sarahspiekermann.com]]></title>
-            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
-            <link>https://sarahspiekermann.com</link>
-            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
-            <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
