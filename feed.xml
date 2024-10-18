@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Oct 2024 00:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 00:07:33 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[one-from-nippon.ghost.io]]></title>
+            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
+            <link>https://one-from-nippon.ghost.io</link>
+            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[notes.jeddacp.com]]></title>
             <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
@@ -778,18 +785,10 @@
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[one-from-nippon.ghost.io]]></title>
-            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
-            <link>https://one-from-nippon.ghost.io</link>
-            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
-            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
