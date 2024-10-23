@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Oct 2024 00:07:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 00:07:30 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stfn.pl]]></title>
             <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
@@ -777,18 +784,11 @@
             <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[yordi.me]]></title>
-            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
-            <link>https://yordi.me</link>
-            <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
