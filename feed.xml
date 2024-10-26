@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Oct 2024 00:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 00:07:21 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[going-medieval.com]]></title>
+            <description><![CDATA[Medieval history]]></description>
+            <link>https://going-medieval.com</link>
+            <guid isPermaLink="true">https://going-medieval.com</guid>
+            <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[going-medieval.com]]></title>
             <description><![CDATA[Medieval history]]></description>
@@ -778,18 +785,11 @@
             <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[lifeofpablo.com/blog]]></title>
-            <description><![CDATA[Blog]]></description>
-            <link>https://lifeofpablo.com/blog</link>
-            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[going-medieval.com]]></title>
-            <description><![CDATA[Medieval history]]></description>
-            <link>https://going-medieval.com</link>
-            <guid isPermaLink="true">https://going-medieval.com</guid>
-            <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Sat, 26 Oct 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
