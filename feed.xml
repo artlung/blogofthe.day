@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Nov 2024 00:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 00:07:23 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[benji.dog]]></title>
             <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
@@ -779,18 +786,11 @@
             <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[muan.co]]></title>
-            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
-            <link>https://muan.co</link>
-            <guid isPermaLink="true">https://muan.co</guid>
-            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[criticalpolyamorist.com]]></title>
-            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
-            <link>http://criticalpolyamorist.com</link>
-            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
-            <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[lifeofpablo.com/blog]]></title>
+            <description><![CDATA[Blog]]></description>
+            <link>https://lifeofpablo.com/blog</link>
+            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
+            <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
