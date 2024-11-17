@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 Nov 2024 00:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 00:08:32 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[omeratagun.net]]></title>
+            <description><![CDATA[Tech oriented blog]]></description>
+            <link>https://omeratagun.net</link>
+            <guid isPermaLink="true">https://omeratagun.net</guid>
+            <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.anildash.com]]></title>
             <description><![CDATA[A blog about making culture. Since 1999.]]></description>
@@ -780,18 +787,11 @@
             <pubDate>Sat, 27 Jul 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[nineteenteen.blogspot.com]]></title>
-            <description><![CDATA[19th century history]]></description>
-            <link>https://nineteenteen.blogspot.com</link>
-            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
-            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[omeratagun.net]]></title>
-            <description><![CDATA[Tech oriented blog]]></description>
-            <link>https://omeratagun.net</link>
-            <guid isPermaLink="true">https://omeratagun.net</guid>
-            <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
