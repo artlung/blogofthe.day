@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Nov 2024 00:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 00:08:12 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rebeccatoh.co]]></title>
+            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
+            <link>https://rebeccatoh.co</link>
+            <guid isPermaLink="true">https://rebeccatoh.co</guid>
+            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[glycerinequeenmedia.com]]></title>
             <description><![CDATA[Queer and other stuff]]></description>
@@ -780,18 +787,11 @@
             <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.cboxes.icu]]></title>
-            <description><![CDATA[A photography blog]]></description>
-            <link>https://www.cboxes.icu</link>
-            <guid isPermaLink="true">https://www.cboxes.icu</guid>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rebeccatoh.co]]></title>
-            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
-            <link>https://rebeccatoh.co</link>
-            <guid isPermaLink="true">https://rebeccatoh.co</guid>
-            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
