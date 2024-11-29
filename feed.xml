@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Nov 2024 00:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 00:08:03 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rebeccatoh.co]]></title>
             <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
@@ -781,17 +788,10 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[david.shanske.com]]></title>
+            <link>https://david.shanske.com</link>
+            <guid isPermaLink="true">https://david.shanske.com</guid>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
