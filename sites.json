@@ -56,7 +56,8 @@
     "yordi.me",
     "www.maxwelljoslyn.com",
     "joshmuller.ca",
-    "morgan.zoemp.be"
+    "morgan.zoemp.be",
+    "stefanbohacek.com/blog"
   ],
   "descriptions": {
     "www.cboxes.icu": "A photography blog",
@@ -115,6 +116,7 @@
     "yordi.me": "My name is Yordi Verkroost, a computer science teacher and athletics coach.",
     "www.maxwelljoslyn.com": "",
     "joshmuller.ca": "Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!",
-    "morgan.zoemp.be": "Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium."
+    "morgan.zoemp.be": "Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.",
+    "stefanbohacek.com/blog": "Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation."
   }
 }
