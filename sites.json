@@ -57,7 +57,8 @@
     "www.maxwelljoslyn.com",
     "joshmuller.ca",
     "morgan.zoemp.be",
-    "stefanbohacek.com/blog"
+    "stefanbohacek.com/blog",
+    "blog.gerbenjacobs.nl"
   ],
   "descriptions": {
     "www.cboxes.icu": "A photography blog",
@@ -117,6 +118,7 @@
     "www.maxwelljoslyn.com": "",
     "joshmuller.ca": "Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!",
     "morgan.zoemp.be": "Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.",
-    "stefanbohacek.com/blog": "Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation."
+    "stefanbohacek.com/blog": "Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.",
+    "blog.gerbenjacobs.nl": "Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data."
   }
 }
