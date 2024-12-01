@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 Nov 2024 00:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Dec 2024 00:09:38 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[david.shanske.com]]></title>
             <link>https://david.shanske.com</link>
@@ -794,10 +800,11 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[stefanbohacek.com/blog]]></title>
+            <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
+            <link>https://stefanbohacek.com/blog</link>
+            <guid isPermaLink="true">https://stefanbohacek.com/blog</guid>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
