@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Dec 2024 00:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 00:08:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[stefanbohacek.com/blog]]></title>
+            <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
+            <link>https://stefanbohacek.com/blog</link>
+            <guid isPermaLink="true">https://stefanbohacek.com/blog</guid>
+            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[aaronparecki.com]]></title>
             <link>https://aaronparecki.com</link>
@@ -800,11 +807,11 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[stefanbohacek.com/blog]]></title>
-            <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
-            <link>https://stefanbohacek.com/blog</link>
-            <guid isPermaLink="true">https://stefanbohacek.com/blog</guid>
-            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[dominikhofer.me]]></title>
+            <description><![CDATA[Curious. Creative. Coder. That’s me, Dominik :) I like to learn & understand more about the world we live in. While coming up with cool ideas & designing beautiful things. And bringing them to life with fancy symbols.]]></description>
+            <link>https://dominikhofer.me</link>
+            <guid isPermaLink="true">https://dominikhofer.me</guid>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
