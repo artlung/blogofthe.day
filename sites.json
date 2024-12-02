@@ -61,7 +61,8 @@
     "blog.gerbenjacobs.nl",
     "dominikhofer.me",
     "gkeenan.co/avgb/",
-    "mikebell.io"
+    "mikebell.io",
+    "rknight.me/blog/"
   ],
   "descriptions": {
     "www.cboxes.icu": "A photography blog",
@@ -125,6 +126,7 @@
     "blog.gerbenjacobs.nl": "Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.",
     "dominikhofer.me": "Curious. Creative. Coder. That’s me, Dominik :) I like to learn & understand more about the world we live in. While coming up with cool ideas & designing beautiful things. And bringing them to life with fancy symbols.",
     "gkeenan.co/avgb/": "A Very Good Blog by me, your friend, Keenan.",
-    "mikebell.io": "Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK."
+    "mikebell.io": "Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.",
+    "rknight.me/blog/": "A blog by Robb Knight"
   }
 }
