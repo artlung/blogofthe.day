@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Dec 2024 00:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 00:08:14 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rknight.me/blog/]]></title>
+            <description><![CDATA[A blog by Robb Knight]]></description>
+            <link>https://rknight.me/blog/</link>
+            <guid isPermaLink="true">https://rknight.me/blog/</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gkeenan.co/avgb/]]></title>
             <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
@@ -821,11 +828,11 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[rknight.me/blog/]]></title>
-            <description><![CDATA[A blog by Robb Knight]]></description>
-            <link>https://rknight.me/blog/</link>
-            <guid isPermaLink="true">https://rknight.me/blog/</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
