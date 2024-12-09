@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Dec 2024 00:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 00:08:32 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mikebell.io]]></title>
+            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
+            <link>https://mikebell.io</link>
+            <guid isPermaLink="true">https://mikebell.io</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.gerbenjacobs.nl]]></title>
             <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
@@ -849,11 +856,11 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mikebell.io]]></title>
-            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
-            <link>https://mikebell.io</link>
-            <guid isPermaLink="true">https://mikebell.io</guid>
-            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
