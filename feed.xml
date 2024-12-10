@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Dec 2024 00:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 00:08:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mikebell.io]]></title>
             <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
@@ -856,11 +863,11 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
