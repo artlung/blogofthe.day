@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 00:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 00:07:27 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.cboxes.icu]]></title>
+            <description><![CDATA[A photography blog]]></description>
+            <link>https://www.cboxes.icu</link>
+            <guid isPermaLink="true">https://www.cboxes.icu</guid>
+            <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[maggieappleton.com]]></title>
             <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
@@ -904,18 +911,11 @@
             <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pcarrier.com]]></title>
-            <description><![CDATA[Personal website and forest of links]]></description>
-            <link>https://pcarrier.com</link>
-            <guid isPermaLink="true">https://pcarrier.com</guid>
-            <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.cboxes.icu]]></title>
-            <description><![CDATA[A photography blog]]></description>
-            <link>https://www.cboxes.icu</link>
-            <guid isPermaLink="true">https://www.cboxes.icu</guid>
-            <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
