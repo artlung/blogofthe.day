@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Dec 2024 00:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 00:07:58 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[george-lakoff.com]]></title>
+            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
+            <link>https://george-lakoff.com</link>
+            <guid isPermaLink="true">https://george-lakoff.com</guid>
+            <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[morgan.zoemp.be]]></title>
             <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
@@ -904,18 +911,11 @@
             <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[george-lakoff.com]]></title>
-            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
-            <link>https://george-lakoff.com</link>
-            <guid isPermaLink="true">https://george-lakoff.com</guid>
-            <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[one-from-nippon.ghost.io]]></title>
+            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
+            <link>https://one-from-nippon.ghost.io</link>
+            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
+            <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
