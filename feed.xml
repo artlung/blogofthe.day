@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Dec 2024 00:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 00:07:40 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[one-from-nippon.ghost.io]]></title>
+            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
+            <link>https://one-from-nippon.ghost.io</link>
+            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
+            <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[george-lakoff.com]]></title>
             <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
@@ -904,18 +911,11 @@
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gregorlove.com]]></title>
-            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
-            <link>https://gregorlove.com</link>
-            <guid isPermaLink="true">https://gregorlove.com</guid>
-            <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[one-from-nippon.ghost.io]]></title>
-            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
-            <link>https://one-from-nippon.ghost.io</link>
-            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
-            <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
