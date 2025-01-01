@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Dec 2024 00:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jan 2025 00:08:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[one-from-nippon.ghost.io]]></title>
             <description><![CDATA[Explore the Japan you've never heard of.]]></description>
@@ -904,18 +911,11 @@
             <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sloanime.si]]></title>
-            <description><![CDATA[Blog about Slovenian anime scene]]></description>
-            <link>https://sloanime.si</link>
-            <guid isPermaLink="true">https://sloanime.si</guid>
-            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nineteenteen.blogspot.com]]></title>
-            <description><![CDATA[19th century history]]></description>
-            <link>https://nineteenteen.blogspot.com</link>
-            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+            <title><![CDATA[gregorlove.com]]></title>
+            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
+            <link>https://gregorlove.com</link>
+            <guid isPermaLink="true">https://gregorlove.com</guid>
+            <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
