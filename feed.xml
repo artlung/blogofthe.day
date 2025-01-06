@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jan 2025 00:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 00:08:06 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rebeccatoh.co]]></title>
             <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
@@ -905,17 +911,11 @@
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[devastatia.com]]></title>
-            <description><![CDATA[Entertaning blog just for the tone]]></description>
-            <link>https://devastatia.com</link>
-            <guid isPermaLink="true">https://devastatia.com</guid>
-            <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[veronique.ink]]></title>
+            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
+            <link>https://veronique.ink</link>
+            <guid isPermaLink="true">https://veronique.ink</guid>
+            <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
