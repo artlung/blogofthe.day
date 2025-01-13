@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jan 2025 00:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 00:08:06 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lifeofpablo.com]]></title>
+            <link>https://lifeofpablo.com</link>
+            <guid isPermaLink="true">https://lifeofpablo.com</guid>
+            <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[journeytolunar.com]]></title>
             <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
@@ -918,17 +924,11 @@
             <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
-            <description><![CDATA[The Artist’s Notebook]]></description>
-            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
-            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
-            <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lifeofpablo.com]]></title>
-            <link>https://lifeofpablo.com</link>
-            <guid isPermaLink="true">https://lifeofpablo.com</guid>
-            <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[mikebell.io]]></title>
+            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
+            <link>https://mikebell.io</link>
+            <guid isPermaLink="true">https://mikebell.io</guid>
+            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
