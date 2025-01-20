@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jan 2025 00:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 00:07:31 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mikebell.io]]></title>
+            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
+            <link>https://mikebell.io</link>
+            <guid isPermaLink="true">https://mikebell.io</guid>
+            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.maxwelljoslyn.com]]></title>
             <link>https://www.maxwelljoslyn.com</link>
@@ -924,11 +931,11 @@
             <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mikebell.io]]></title>
-            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
-            <link>https://mikebell.io</link>
-            <guid isPermaLink="true">https://mikebell.io</guid>
-            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
