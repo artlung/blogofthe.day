@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jan 2025 00:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 00:08:01 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
             <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
@@ -932,17 +938,11 @@
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.cboxes.icu]]></title>
-            <description><![CDATA[A photography blog]]></description>
-            <link>https://www.cboxes.icu</link>
-            <guid isPermaLink="true">https://www.cboxes.icu</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
