@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jan 2025 00:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 00:07:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tantek.com]]></title>
             <link>https://tantek.com</link>
@@ -938,11 +945,11 @@
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.x-way.org]]></title>
+            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
+            <link>https://blog.x-way.org</link>
+            <guid isPermaLink="true">https://blog.x-way.org</guid>
+            <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
