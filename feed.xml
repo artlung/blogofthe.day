@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jan 2025 00:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 00:07:25 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sarahspiekermann.com]]></title>
             <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
@@ -951,11 +958,11 @@
             <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[vale.rocks]]></title>
+            <description><![CDATA[The personal website of Declan Chidlow, known mononymously as Vale, containing thoughts, musings, and otherwise unhinged ramblings.]]></description>
+            <link>https://vale.rocks</link>
+            <guid isPermaLink="true">https://vale.rocks</guid>
+            <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
