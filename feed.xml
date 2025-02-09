@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Feb 2025 00:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 00:08:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ialja.com]]></title>
             <description><![CDATA[About responsible tech]]></description>
@@ -959,16 +965,11 @@
             <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Sat, 21 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alabut.com/writing]]></title>
-            <link>https://alabut.com/writing</link>
-            <guid isPermaLink="true">https://alabut.com/writing</guid>
-            <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
