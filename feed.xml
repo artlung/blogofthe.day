@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Feb 2025 00:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 00:07:37 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[noisydeadlines.net]]></title>
             <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
@@ -958,18 +965,11 @@
             <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[sloanime.si]]></title>
+            <description><![CDATA[Blog about Slovenian anime scene]]></description>
+            <link>https://sloanime.si</link>
+            <guid isPermaLink="true">https://sloanime.si</guid>
+            <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
