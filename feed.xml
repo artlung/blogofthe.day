@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Feb 2025 00:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 00:07:35 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bbbhltz.codeberg.page]]></title>
+            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
+            <link>https://bbbhltz.codeberg.page</link>
+            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rubenerd.com]]></title>
             <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
@@ -959,18 +966,11 @@
             <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[george-lakoff.com]]></title>
-            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
-            <link>https://george-lakoff.com</link>
-            <guid isPermaLink="true">https://george-lakoff.com</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bbbhltz.codeberg.page]]></title>
-            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
-            <link>https://bbbhltz.codeberg.page</link>
-            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
-            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
