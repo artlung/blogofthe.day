@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Feb 2025 00:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 00:07:35 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bbbhltz.codeberg.page]]></title>
             <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
@@ -959,18 +966,11 @@
             <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexwlchan.net]]></title>
-            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
-            <link>https://alexwlchan.net</link>
-            <guid isPermaLink="true">https://alexwlchan.net</guid>
-            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
