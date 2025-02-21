@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 00:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 00:07:37 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexwlchan.net]]></title>
+            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
+            <link>https://alexwlchan.net</link>
+            <guid isPermaLink="true">https://alexwlchan.net</guid>
+            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tiramisu.bearblog.dev]]></title>
             <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
@@ -959,18 +966,11 @@
             <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ialja.com]]></title>
-            <description><![CDATA[About responsible tech]]></description>
-            <link>https://ialja.com</link>
-            <guid isPermaLink="true">https://ialja.com</guid>
-            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alexwlchan.net]]></title>
-            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
-            <link>https://alexwlchan.net</link>
-            <guid isPermaLink="true">https://alexwlchan.net</guid>
-            <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[journeytolunar.com]]></title>
+            <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
+            <link>https://journeytolunar.com</link>
+            <guid isPermaLink="true">https://journeytolunar.com</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
