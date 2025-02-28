@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Feb 2025 00:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 00:07:35 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[hamatti.org/blog]]></title>
             <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
@@ -958,18 +965,11 @@
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
+            <description><![CDATA[The Artist’s Notebook]]></description>
+            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
+            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
