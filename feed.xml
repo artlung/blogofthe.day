@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Mar 2025 00:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 00:08:16 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sarahspiekermann.com]]></title>
             <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
@@ -958,18 +965,11 @@
             <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[rebeccatoh.co]]></title>
-            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
-            <link>https://rebeccatoh.co</link>
-            <guid isPermaLink="true">https://rebeccatoh.co</guid>
-            <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[yordi.me]]></title>
             <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
             <link>https://yordi.me</link>
             <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
