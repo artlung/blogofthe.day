@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Mar 2025 00:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 00:06:33 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[notes.jeddacp.com]]></title>
+            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
+            <link>https://notes.jeddacp.com</link>
+            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
+            <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rebeccatoh.co]]></title>
             <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
@@ -958,17 +965,11 @@
             <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[artlung.com/blog]]></title>
-            <link>https://artlung.com/blog</link>
-            <guid isPermaLink="true">https://artlung.com/blog</guid>
-            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[notes.jeddacp.com]]></title>
-            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
-            <link>https://notes.jeddacp.com</link>
-            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
-            <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.gerbenjacobs.nl]]></title>
+            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
+            <link>https://blog.gerbenjacobs.nl</link>
+            <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
+            <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
