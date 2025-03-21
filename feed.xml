@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Mar 2025 00:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 00:07:51 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tracydurnell.com]]></title>
             <link>https://tracydurnell.com</link>
@@ -957,18 +964,11 @@
             <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[hamatti.org/blog]]></title>
-            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
-            <link>https://hamatti.org/blog</link>
-            <guid isPermaLink="true">https://hamatti.org/blog</guid>
-            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[notes.jeddacp.com]]></title>
+            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
+            <link>https://notes.jeddacp.com</link>
+            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
