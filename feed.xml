@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Mar 2025 00:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Mar 2025 00:07:43 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[notes.jeddacp.com]]></title>
+            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
+            <link>https://notes.jeddacp.com</link>
+            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[noisydeadlines.net]]></title>
             <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
@@ -957,18 +964,11 @@
             <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[boffosocko.com]]></title>
-            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
-            <link>https://boffosocko.com</link>
-            <guid isPermaLink="true">https://boffosocko.com</guid>
-            <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[notes.jeddacp.com]]></title>
-            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
-            <link>https://notes.jeddacp.com</link>
-            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[rebeccatoh.co]]></title>
+            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
+            <link>https://rebeccatoh.co</link>
+            <guid isPermaLink="true">https://rebeccatoh.co</guid>
+            <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
