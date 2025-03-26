@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Mar 2025 00:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 00:08:03 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rubenerd.com]]></title>
+            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
+            <link>https://rubenerd.com</link>
+            <guid isPermaLink="true">https://rubenerd.com</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[maggieappleton.com]]></title>
             <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
@@ -971,18 +978,11 @@
             <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rubenerd.com]]></title>
-            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
-            <link>https://rubenerd.com</link>
-            <guid isPermaLink="true">https://rubenerd.com</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
