@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Mar 2025 00:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 00:07:44 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
+            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <link>https://reillyspitzfaden.com/blog</link>
+            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.bentasker.co.uk]]></title>
             <description><![CDATA[The personal site of Ben Tasker.]]></description>
@@ -971,18 +978,11 @@
             <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[thisvictorianlife.com]]></title>
-            <description><![CDATA[Blog about Victorian era]]></description>
-            <link>http://thisvictorianlife.com</link>
-            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
-            <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
-            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
-            <link>https://reillyspitzfaden.com/blog</link>
-            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
