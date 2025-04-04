@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Apr 2025 00:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 00:08:35 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[joshmuller.ca]]></title>
+            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
+            <link>https://joshmuller.ca</link>
+            <guid isPermaLink="true">https://joshmuller.ca</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[criticalpolyamorist.com]]></title>
             <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
@@ -971,18 +978,11 @@
             <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[acearo.at]]></title>
-            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
-            <link>https://acearo.at</link>
-            <guid isPermaLink="true">https://acearo.at</guid>
-            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[joshmuller.ca]]></title>
-            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
-            <link>https://joshmuller.ca</link>
-            <guid isPermaLink="true">https://joshmuller.ca</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[mikebell.io]]></title>
+            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
+            <link>https://mikebell.io</link>
+            <guid isPermaLink="true">https://mikebell.io</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
