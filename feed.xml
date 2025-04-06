@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Apr 2025 00:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 00:08:51 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mikebell.io]]></title>
+            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
+            <link>https://mikebell.io</link>
+            <guid isPermaLink="true">https://mikebell.io</guid>
+            <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mikebell.io]]></title>
             <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
@@ -971,18 +978,10 @@
             <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[veronique.ink]]></title>
-            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
-            <link>https://veronique.ink</link>
-            <guid isPermaLink="true">https://veronique.ink</guid>
-            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mikebell.io]]></title>
-            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
-            <link>https://mikebell.io</link>
-            <guid isPermaLink="true">https://mikebell.io</guid>
-            <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sun, 06 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
