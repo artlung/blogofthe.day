@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Apr 2025 00:07:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 00:08:24 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.x-way.org]]></title>
+            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
+            <link>https://blog.x-way.org</link>
+            <guid isPermaLink="true">https://blog.x-way.org</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[omeratagun.net]]></title>
             <description><![CDATA[Tech oriented blog]]></description>
@@ -970,18 +977,11 @@
             <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.x-way.org]]></title>
-            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
-            <link>https://blog.x-way.org</link>
-            <guid isPermaLink="true">https://blog.x-way.org</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
