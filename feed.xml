@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Apr 2025 18:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 00:08:41 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
+            <description><![CDATA[Ty talks type, travel, and photos]]></description>
+            <link>https://tyfromtheinternet.com/posts</link>
+            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[morgan.zoemp.be]]></title>
             <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
@@ -984,11 +991,11 @@
             <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
