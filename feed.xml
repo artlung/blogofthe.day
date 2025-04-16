@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Apr 2025 00:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Apr 2025 00:08:27 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tyfromtheinternet.com/posts]]></title>
             <description><![CDATA[Ty talks type, travel, and photos]]></description>
@@ -985,17 +992,11 @@
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alabut.com/writing]]></title>
-            <link>https://alabut.com/writing</link>
-            <guid isPermaLink="true">https://alabut.com/writing</guid>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
