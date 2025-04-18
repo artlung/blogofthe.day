@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Apr 2025 00:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 00:08:16 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[journeytolunar.com]]></title>
+            <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
+            <link>https://journeytolunar.com</link>
+            <guid isPermaLink="true">https://journeytolunar.com</guid>
+            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[asexualagenda.wordpress.com]]></title>
             <description><![CDATA[Multi-author blog about asexuality]]></description>
@@ -985,18 +992,10 @@
             <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[journeytolunar.com]]></title>
-            <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
-            <link>https://journeytolunar.com</link>
-            <guid isPermaLink="true">https://journeytolunar.com</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
