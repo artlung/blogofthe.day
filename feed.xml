@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Apr 2025 00:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 00:08:10 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[journeytolunar.com]]></title>
             <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
@@ -985,17 +991,10 @@
             <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[exch.gr]]></title>
-            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
-            <link>https://exch.gr</link>
-            <guid isPermaLink="true">https://exch.gr</guid>
-            <pubDate>Sat, 23 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
