@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Apr 2025 00:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 00:08:28 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.anildash.com]]></title>
+            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
+            <link>https://www.anildash.com</link>
+            <guid isPermaLink="true">https://www.anildash.com</guid>
+            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lifeofpablo.com]]></title>
             <link>https://lifeofpablo.com</link>
@@ -986,14 +993,7 @@
             <description><![CDATA[HTML, CSS and accesibility]]></description>
             <link>https://matuzo.at</link>
             <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
