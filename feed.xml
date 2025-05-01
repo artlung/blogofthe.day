@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Apr 2025 00:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 00:09:24 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bobbyhiltz.com]]></title>
             <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
@@ -1005,11 +1012,11 @@
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
