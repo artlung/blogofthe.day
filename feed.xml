@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 May 2025 00:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 00:08:18 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[veronique.ink]]></title>
+            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
+            <link>https://veronique.ink</link>
+            <guid isPermaLink="true">https://veronique.ink</guid>
+            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[zacharykai.net]]></title>
             <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
@@ -1012,18 +1019,11 @@
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gkeenan.co/avgb/]]></title>
-            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
-            <link>https://gkeenan.co/avgb/</link>
-            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[veronique.ink]]></title>
-            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
-            <link>https://veronique.ink</link>
-            <guid isPermaLink="true">https://veronique.ink</guid>
-            <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
