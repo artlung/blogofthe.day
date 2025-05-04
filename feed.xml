@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 May 2025 00:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 May 2025 00:09:40 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[veronique.ink]]></title>
             <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
@@ -1012,18 +1019,11 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[rknight.me/blog/]]></title>
-            <description><![CDATA[A blog by Robb Knight]]></description>
-            <link>https://rknight.me/blog/</link>
-            <guid isPermaLink="true">https://rknight.me/blog/</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[criticalpolyamorist.com]]></title>
-            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
-            <link>http://criticalpolyamorist.com</link>
-            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
-            <pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
