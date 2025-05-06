@@ -1,5 +1,6 @@
 {
   "blogs": [
+    "fredrocha.net/words",
     "www.cboxes.icu",
     "aaronparecki.com",
     "alabut.com/writing",
@@ -76,6 +77,7 @@
     "zacharykai.net"
   ],
   "descriptions": {
+    "fredrocha.net/words": "Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.",
     "www.cboxes.icu": "A photography blog",
     "aaronparecki.com": "",
     "alexsirac.com": "A French and English blog that's not about tech.",
