@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 May 2025 00:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 May 2025 00:08:43 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[asexualagenda.wordpress.com]]></title>
+            <description><![CDATA[Multi-author blog about asexuality]]></description>
+            <link>https://asexualagenda.wordpress.com</link>
+            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jamesg.blog]]></title>
             <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
@@ -1016,14 +1023,7 @@
             <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
             <link>https://anderegg.ca</link>
             <guid isPermaLink="true">https://anderegg.ca</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
