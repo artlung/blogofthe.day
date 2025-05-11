@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 May 2025 00:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 May 2025 00:09:11 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lifeofpablo.com/blog]]></title>
             <description><![CDATA[Blog]]></description>
@@ -1026,18 +1033,11 @@
             <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zacharykai.net]]></title>
-            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
-            <link>https://zacharykai.net</link>
-            <guid isPermaLink="true">https://zacharykai.net</guid>
-            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[journeytolunar.com]]></title>
+            <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
+            <link>https://journeytolunar.com</link>
+            <guid isPermaLink="true">https://journeytolunar.com</guid>
+            <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
