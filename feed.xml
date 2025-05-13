@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 May 2025 00:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 00:08:43 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[journeytolunar.com]]></title>
             <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
@@ -1026,18 +1033,11 @@
             <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
-            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
-            <link>https://blog.helenchong.omg.lol/en/</link>
-            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
-            <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[glycerinequeenmedia.com]]></title>
+            <description><![CDATA[Queer and other stuff]]></description>
+            <link>https://glycerinequeenmedia.com</link>
+            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
+            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
