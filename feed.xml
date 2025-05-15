@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 May 2025 00:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 00:08:00 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[glycerinequeenmedia.com]]></title>
             <description><![CDATA[Queer and other stuff]]></description>
@@ -1027,17 +1034,11 @@
             <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[david.shanske.com]]></title>
-            <link>https://david.shanske.com</link>
-            <guid isPermaLink="true">https://david.shanske.com</guid>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
