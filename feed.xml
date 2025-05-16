@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 May 2025 00:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 May 2025 00:08:32 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[noisydeadlines.net]]></title>
             <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
@@ -1027,18 +1034,11 @@
             <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[nineteenteen.blogspot.com]]></title>
-            <description><![CDATA[19th century history]]></description>
-            <link>https://nineteenteen.blogspot.com</link>
-            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
-            <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
