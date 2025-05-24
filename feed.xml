@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 May 2025 00:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 00:08:18 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.anildash.com]]></title>
+            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
+            <link>https://www.anildash.com</link>
+            <guid isPermaLink="true">https://www.anildash.com</guid>
+            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gregorlove.com]]></title>
             <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
@@ -1028,18 +1035,10 @@
             <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gkeenan.co/avgb/]]></title>
-            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
-            <link>https://gkeenan.co/avgb/</link>
-            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
-            <pubDate>Sun, 22 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
