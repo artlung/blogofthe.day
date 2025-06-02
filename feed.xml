@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Jun 2025 00:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 00:09:16 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[george-lakoff.com]]></title>
+            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
+            <link>https://george-lakoff.com</link>
+            <guid isPermaLink="true">https://george-lakoff.com</guid>
+            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stfn.pl]]></title>
             <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
@@ -1026,18 +1033,11 @@
             <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[nineteenteen.blogspot.com]]></title>
-            <description><![CDATA[19th century history]]></description>
-            <link>https://nineteenteen.blogspot.com</link>
-            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
-            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[george-lakoff.com]]></title>
-            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
-            <link>https://george-lakoff.com</link>
-            <guid isPermaLink="true">https://george-lakoff.com</guid>
-            <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[ialja.com]]></title>
+            <description><![CDATA[About responsible tech]]></description>
+            <link>https://ialja.com</link>
+            <guid isPermaLink="true">https://ialja.com</guid>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
