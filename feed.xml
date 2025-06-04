@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Jun 2025 00:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 00:08:53 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ialja.com]]></title>
             <description><![CDATA[About responsible tech]]></description>
@@ -1026,18 +1033,11 @@
             <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sloanime.si]]></title>
-            <description><![CDATA[Blog about Slovenian anime scene]]></description>
-            <link>https://sloanime.si</link>
-            <guid isPermaLink="true">https://sloanime.si</guid>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nineteenteen.blogspot.com]]></title>
-            <description><![CDATA[19th century history]]></description>
-            <link>https://nineteenteen.blogspot.com</link>
-            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
-            <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.rtwilson.com]]></title>
+            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
+            <link>https://blog.rtwilson.com</link>
+            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
+            <pubDate>Wed, 04 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
