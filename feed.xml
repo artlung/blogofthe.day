@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Jun 2025 00:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jun 2025 00:09:27 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tracydurnell.com]]></title>
             <link>https://tracydurnell.com</link>
@@ -1026,17 +1032,11 @@
             <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[devastatia.com]]></title>
-            <description><![CDATA[Entertaning blog just for the tone]]></description>
-            <link>https://devastatia.com</link>
-            <guid isPermaLink="true">https://devastatia.com</guid>
-            <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
