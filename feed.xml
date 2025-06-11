@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Jun 2025 00:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jun 2025 00:08:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[katetattersall.com]]></title>
             <description><![CDATA[Victorian secret service blog]]></description>
@@ -319,7 +326,7 @@
         </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
-            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
             <link>https://reillyspitzfaden.com/blog</link>
             <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
             <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
@@ -504,7 +511,7 @@
         </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
-            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
             <link>https://reillyspitzfaden.com/blog</link>
             <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
@@ -931,7 +938,7 @@
         </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
-            <description><![CDATA[A blog about composition/sound design in Max/MSP, C++ audio plugin development, web development, and other personal interests of mine.]]></description>
+            <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
             <link>https://reillyspitzfaden.com/blog</link>
             <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
             <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
@@ -1025,18 +1032,10 @@
             <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tiramisu.bearblog.dev]]></title>
-            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
-            <link>https://tiramisu.bearblog.dev</link>
-            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[anderegg.ca]]></title>
-            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
-            <link>https://anderegg.ca</link>
-            <guid isPermaLink="true">https://anderegg.ca</guid>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
