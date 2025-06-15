@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Jun 2025 00:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 00:09:58 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sergiswriting.com]]></title>
+            <description><![CDATA[Blog of Sergi Pons Freixes]]></description>
+            <link>https://sergiswriting.com</link>
+            <guid isPermaLink="true">https://sergiswriting.com</guid>
+            <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rknight.me/blog/]]></title>
             <description><![CDATA[A blog by Robb Knight]]></description>
@@ -1025,18 +1032,11 @@
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mikebell.io]]></title>
-            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
-            <link>https://mikebell.io</link>
-            <guid isPermaLink="true">https://mikebell.io</guid>
-            <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sergiswriting.com]]></title>
-            <description><![CDATA[Blog of Sergi Pons Freixes]]></description>
-            <link>https://sergiswriting.com</link>
-            <guid isPermaLink="true">https://sergiswriting.com</guid>
-            <pubDate>Sat, 14 Jun 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
