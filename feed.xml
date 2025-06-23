@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Jun 2025 00:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 00:09:28 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rubenerd.com]]></title>
+            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
+            <link>https://rubenerd.com</link>
+            <guid isPermaLink="true">https://rubenerd.com</guid>
+            <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[omeratagun.net]]></title>
             <description><![CDATA[Tech oriented blog]]></description>
@@ -1026,18 +1033,11 @@
             <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[exch.gr]]></title>
-            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
-            <link>https://exch.gr</link>
-            <guid isPermaLink="true">https://exch.gr</guid>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rubenerd.com]]></title>
-            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
-            <link>https://rubenerd.com</link>
-            <guid isPermaLink="true">https://rubenerd.com</guid>
-            <pubDate>Sun, 22 Jun 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[ialja.com]]></title>
+            <description><![CDATA[About responsible tech]]></description>
+            <link>https://ialja.com</link>
+            <guid isPermaLink="true">https://ialja.com</guid>
+            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
