@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Jun 2025 00:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 00:08:59 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.gerbenjacobs.nl]]></title>
             <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
@@ -1027,18 +1034,10 @@
             <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Sun, 26 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tiramisu.bearblog.dev]]></title>
-            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
-            <link>https://tiramisu.bearblog.dev</link>
-            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
-            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
