@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Jul 2025 00:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 00:09:24 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.rtwilson.com]]></title>
+            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
+            <link>https://blog.rtwilson.com</link>
+            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
+            <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stfn.pl]]></title>
             <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
@@ -1026,18 +1033,11 @@
             <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.rtwilson.com]]></title>
-            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
-            <link>https://blog.rtwilson.com</link>
-            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
-            <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.gerbenjacobs.nl]]></title>
+            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
+            <link>https://blog.gerbenjacobs.nl</link>
+            <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
