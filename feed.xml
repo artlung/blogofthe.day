@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jul 2025 00:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 00:09:17 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[glycerinequeenmedia.com]]></title>
+            <description><![CDATA[Queer and other stuff]]></description>
+            <link>https://glycerinequeenmedia.com</link>
+            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
+            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[yordi.me]]></title>
             <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
@@ -1027,18 +1034,11 @@
             <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[glycerinequeenmedia.com]]></title>
-            <description><![CDATA[Queer and other stuff]]></description>
-            <link>https://glycerinequeenmedia.com</link>
-            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
-            <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[insidemordecai.com]]></title>
+            <description><![CDATA[Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.]]></description>
+            <link>https://insidemordecai.com</link>
+            <guid isPermaLink="true">https://insidemordecai.com</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
