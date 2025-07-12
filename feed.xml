@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Jul 2025 00:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 00:08:50 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[insidemordecai.com]]></title>
+            <description><![CDATA[Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.]]></description>
+            <link>https://insidemordecai.com</link>
+            <guid isPermaLink="true">https://insidemordecai.com</guid>
+            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[glycerinequeenmedia.com]]></title>
             <description><![CDATA[Queer and other stuff]]></description>
@@ -1027,18 +1034,11 @@
             <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[boffosocko.com]]></title>
-            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
-            <link>https://boffosocko.com</link>
-            <guid isPermaLink="true">https://boffosocko.com</guid>
-            <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[insidemordecai.com]]></title>
-            <description><![CDATA[Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.]]></description>
-            <link>https://insidemordecai.com</link>
-            <guid isPermaLink="true">https://insidemordecai.com</guid>
-            <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Sat, 12 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
