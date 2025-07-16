@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Jul 2025 00:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 00:09:22 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[yordi.me]]></title>
             <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
@@ -1027,17 +1033,11 @@
             <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alabut.com/writing]]></title>
-            <link>https://alabut.com/writing</link>
-            <guid isPermaLink="true">https://alabut.com/writing</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[sloanime.si]]></title>
+            <description><![CDATA[Blog about Slovenian anime scene]]></description>
+            <link>https://sloanime.si</link>
+            <guid isPermaLink="true">https://sloanime.si</guid>
+            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
