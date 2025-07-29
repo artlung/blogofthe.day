@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Jul 2025 00:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 00:10:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rebeccatoh.co]]></title>
             <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
@@ -1027,18 +1034,11 @@
             <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
