@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 Aug 2025 00:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 00:09:40 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stfn.pl]]></title>
             <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
@@ -1026,18 +1033,11 @@
             <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.gerbenjacobs.nl]]></title>
-            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
-            <link>https://blog.gerbenjacobs.nl</link>
-            <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
-            <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[going-medieval.com]]></title>
+            <description><![CDATA[Medieval history]]></description>
+            <link>https://going-medieval.com</link>
+            <guid isPermaLink="true">https://going-medieval.com</guid>
+            <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
