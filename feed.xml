@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Aug 2025 00:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Aug 2025 00:10:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[fredrocha.net/words]]></title>
+            <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
+            <link>https://fredrocha.net/words</link>
+            <guid isPermaLink="true">https://fredrocha.net/words</guid>
+            <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mikebell.io]]></title>
             <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
@@ -1027,18 +1034,11 @@
             <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mandarismoore.com]]></title>
-            <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
-            <link>https://mandarismoore.com</link>
-            <guid isPermaLink="true">https://mandarismoore.com</guid>
-            <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fredrocha.net/words]]></title>
-            <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
-            <link>https://fredrocha.net/words</link>
-            <guid isPermaLink="true">https://fredrocha.net/words</guid>
-            <pubDate>Sat, 09 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Sun, 10 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
