@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 Aug 2025 00:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Aug 2025 00:09:59 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Sun, 10 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[fredrocha.net/words]]></title>
             <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
@@ -1027,18 +1034,11 @@
             <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mythcreants.com]]></title>
-            <description><![CDATA[Fiction writing]]></description>
-            <link>https://mythcreants.com</link>
-            <guid isPermaLink="true">https://mythcreants.com</guid>
-            <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Sun, 10 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
