@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 Aug 2025 00:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Aug 2025 00:08:49 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[joelchrono.xyz]]></title>
+            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
+            <link>https://joelchrono.xyz</link>
+            <guid isPermaLink="true">https://joelchrono.xyz</guid>
+            <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mythcreants.com]]></title>
             <description><![CDATA[Fiction writing]]></description>
@@ -1041,11 +1048,11 @@
             <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[joelchrono.xyz]]></title>
-            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
-            <link>https://joelchrono.xyz</link>
-            <guid isPermaLink="true">https://joelchrono.xyz</guid>
-            <pubDate>Wed, 13 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[muan.co]]></title>
+            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
+            <link>https://muan.co</link>
+            <guid isPermaLink="true">https://muan.co</guid>
+            <pubDate>Thu, 14 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
