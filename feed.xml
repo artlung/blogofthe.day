@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 Aug 2025 00:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Aug 2025 00:09:43 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gkeenan.co/avgb/]]></title>
+            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
+            <link>https://gkeenan.co/avgb/</link>
+            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
+            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[fredrocha.net/words]]></title>
             <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
@@ -1041,18 +1048,11 @@
             <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gkeenan.co/avgb/]]></title>
-            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
-            <link>https://gkeenan.co/avgb/</link>
-            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
-            <pubDate>Sun, 16 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gkeenan.co/avgb/]]></title>
-            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
-            <link>https://gkeenan.co/avgb/</link>
-            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
-            <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
+            <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
+            <link>https://reillyspitzfaden.com/blog</link>
+            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
+            <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
