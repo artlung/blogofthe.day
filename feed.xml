@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Aug 2025 00:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 00:08:02 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[acearo.at]]></title>
+            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
+            <link>https://acearo.at</link>
+            <guid isPermaLink="true">https://acearo.at</guid>
+            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[artlung.com/blog]]></title>
             <link>https://artlung.com/blog</link>
@@ -1041,18 +1048,11 @@
             <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[rebeccatoh.co]]></title>
-            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
-            <link>https://rebeccatoh.co</link>
-            <guid isPermaLink="true">https://rebeccatoh.co</guid>
-            <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[acearo.at]]></title>
-            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
-            <link>https://acearo.at</link>
-            <guid isPermaLink="true">https://acearo.at</guid>
-            <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[notes.jeddacp.com]]></title>
+            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
+            <link>https://notes.jeddacp.com</link>
+            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
+            <pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
