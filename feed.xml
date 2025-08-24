@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Aug 2025 00:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Aug 2025 00:09:33 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[notes.jeddacp.com]]></title>
+            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
+            <link>https://notes.jeddacp.com</link>
+            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
+            <pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[acearo.at]]></title>
             <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
@@ -1041,18 +1048,11 @@
             <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[peterspath.net]]></title>
-            <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
-            <link>https://peterspath.net</link>
-            <guid isPermaLink="true">https://peterspath.net</guid>
-            <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[notes.jeddacp.com]]></title>
-            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
-            <link>https://notes.jeddacp.com</link>
-            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
-            <pubDate>Sat, 23 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
