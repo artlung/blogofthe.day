@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Aug 2025 00:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Aug 2025 00:08:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[peterspath.net]]></title>
+            <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
+            <link>https://peterspath.net</link>
+            <guid isPermaLink="true">https://peterspath.net</guid>
+            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tiramisu.bearblog.dev]]></title>
             <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
@@ -1041,18 +1048,11 @@
             <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[rubenerd.com]]></title>
-            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
-            <link>https://rubenerd.com</link>
-            <guid isPermaLink="true">https://rubenerd.com</guid>
-            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[peterspath.net]]></title>
-            <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
-            <link>https://peterspath.net</link>
-            <guid isPermaLink="true">https://peterspath.net</guid>
-            <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[rknight.me/blog/]]></title>
+            <description><![CDATA[A blog by Robb Knight]]></description>
+            <link>https://rknight.me/blog/</link>
+            <guid isPermaLink="true">https://rknight.me/blog/</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
