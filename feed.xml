@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 Aug 2025 00:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 00:08:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rknight.me/blog/]]></title>
+            <description><![CDATA[A blog by Robb Knight]]></description>
+            <link>https://rknight.me/blog/</link>
+            <guid isPermaLink="true">https://rknight.me/blog/</guid>
+            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[peterspath.net]]></title>
             <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
@@ -1041,18 +1048,11 @@
             <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rknight.me/blog/]]></title>
-            <description><![CDATA[A blog by Robb Knight]]></description>
-            <link>https://rknight.me/blog/</link>
-            <guid isPermaLink="true">https://rknight.me/blog/</guid>
-            <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
