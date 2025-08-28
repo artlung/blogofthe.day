@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 Aug 2025 00:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 00:08:12 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rknight.me/blog/]]></title>
             <description><![CDATA[A blog by Robb Knight]]></description>
@@ -1041,18 +1048,10 @@
             <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
-            <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
-            <link>https://reillyspitzfaden.com/blog</link>
-            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
-            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
