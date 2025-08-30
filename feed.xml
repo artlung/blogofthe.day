@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Aug 2025 00:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 00:07:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[aaronparecki.com]]></title>
             <link>https://aaronparecki.com</link>
@@ -1040,18 +1047,11 @@
             <pubDate>Sun, 30 Mar 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[thisvictorianlife.com]]></title>
-            <description><![CDATA[Blog about Victorian era]]></description>
-            <link>http://thisvictorianlife.com</link>
-            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
-            <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[criticalpolyamorist.com]]></title>
-            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
-            <link>http://criticalpolyamorist.com</link>
-            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
-            <pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Sat, 30 Aug 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
