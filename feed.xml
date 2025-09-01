@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 Aug 2025 00:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 00:10:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mythcreants.com]]></title>
             <description><![CDATA[Fiction writing]]></description>
@@ -1040,17 +1046,11 @@
             <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
