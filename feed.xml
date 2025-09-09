@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Sep 2025 00:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 00:08:42 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[exch.gr]]></title>
+            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
+            <link>https://exch.gr</link>
+            <guid isPermaLink="true">https://exch.gr</guid>
+            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tantek.com]]></title>
             <link>https://tantek.com</link>
@@ -1038,18 +1045,11 @@
             <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[dominikhofer.me]]></title>
-            <description><![CDATA[Curious. Creative. Coder. That’s me, Dominik :) I like to learn & understand more about the world we live in. While coming up with cool ideas & designing beautiful things. And bringing them to life with fancy symbols.]]></description>
-            <link>https://dominikhofer.me</link>
-            <guid isPermaLink="true">https://dominikhofer.me</guid>
-            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[exch.gr]]></title>
-            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
-            <link>https://exch.gr</link>
-            <guid isPermaLink="true">https://exch.gr</guid>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
