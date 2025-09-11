@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Sep 2025 00:08:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 00:08:33 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[zacharykai.net]]></title>
             <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
@@ -1038,17 +1044,11 @@
             <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.x-way.org]]></title>
-            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
-            <link>https://blog.x-way.org</link>
-            <guid isPermaLink="true">https://blog.x-way.org</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
