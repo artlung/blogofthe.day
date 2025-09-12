@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Sep 2025 00:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 00:08:31 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tracydurnell.com]]></title>
             <link>https://tracydurnell.com</link>
@@ -1037,18 +1044,11 @@
             <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[morgan.zoemp.be]]></title>
-            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
-            <link>https://morgan.zoemp.be</link>
-            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
-            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[benji.dog]]></title>
-            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
-            <link>https://benji.dog</link>
-            <guid isPermaLink="true">https://benji.dog</guid>
-            <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[bbbhltz.codeberg.page]]></title>
+            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
+            <link>https://bbbhltz.codeberg.page</link>
+            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
