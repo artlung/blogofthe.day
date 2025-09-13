@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Sep 2025 00:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Sep 2025 00:07:59 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bbbhltz.codeberg.page]]></title>
+            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
+            <link>https://bbbhltz.codeberg.page</link>
+            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
+            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[benji.dog]]></title>
             <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
@@ -1037,18 +1044,11 @@
             <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bbbhltz.codeberg.page]]></title>
-            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
-            <link>https://bbbhltz.codeberg.page</link>
-            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Sat, 13 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
