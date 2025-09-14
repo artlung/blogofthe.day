@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Sep 2025 00:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 00:08:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Sat, 13 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bbbhltz.codeberg.page]]></title>
             <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
@@ -1037,18 +1044,11 @@
             <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[morgan.zoemp.be]]></title>
-            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
-            <link>https://morgan.zoemp.be</link>
-            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
-            <pubDate>Sat, 13 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
