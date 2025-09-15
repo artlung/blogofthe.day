@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Sep 2025 00:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 00:08:46 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[morgan.zoemp.be]]></title>
             <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
@@ -1037,18 +1044,11 @@
             <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jamesg.blog]]></title>
-            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
-            <link>https://jamesg.blog</link>
-            <guid isPermaLink="true">https://jamesg.blog</guid>
-            <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
