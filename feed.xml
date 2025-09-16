@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Sep 2025 00:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 00:08:05 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[maggieappleton.com]]></title>
+            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
+            <link>https://maggieappleton.com</link>
+            <guid isPermaLink="true">https://maggieappleton.com</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[jamesg.blog]]></title>
             <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
@@ -1037,18 +1044,11 @@
             <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[journeytolunar.com]]></title>
-            <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
-            <link>https://journeytolunar.com</link>
-            <guid isPermaLink="true">https://journeytolunar.com</guid>
-            <pubDate>Thu, 17 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
