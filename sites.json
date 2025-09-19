@@ -76,7 +76,8 @@
     "bobbyhiltz.com",
     "zacharykai.net",
     "insidemordecai.com",
-    "ttntm.me"
+    "ttntm.me",
+    "garrit.xyz"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -156,6 +157,7 @@
     "bobbyhiltz.com": "Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)",
     "zacharykai.net": "Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.",
     "insidemordecai.com": "Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.",
-    "ttntm.me": "Tom's homepage. A personal website, journal and playground."
+    "ttntm.me": "Tom's homepage. A personal website, journal and playground.",
+    "garrit.xyz": "I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!"
   }
 }
