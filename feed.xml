@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Sep 2025 00:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 00:08:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[fredrocha.net/words]]></title>
             <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
@@ -1046,11 +1053,11 @@
             <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[ttntm.me]]></title>
+            <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
+            <link>https://ttntm.me</link>
+            <guid isPermaLink="true">https://ttntm.me</guid>
+            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
