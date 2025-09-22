@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Sep 2025 00:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 00:08:58 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sergiswriting.com]]></title>
+            <description><![CDATA[Blog of Sergi Pons Freixes]]></description>
+            <link>https://sergiswriting.com</link>
+            <guid isPermaLink="true">https://sergiswriting.com</guid>
+            <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[garrit.xyz]]></title>
             <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
@@ -1067,11 +1074,11 @@
             <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sergiswriting.com]]></title>
-            <description><![CDATA[Blog of Sergi Pons Freixes]]></description>
-            <link>https://sergiswriting.com</link>
-            <guid isPermaLink="true">https://sergiswriting.com</guid>
-            <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[mikebell.io]]></title>
+            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
+            <link>https://mikebell.io</link>
+            <guid isPermaLink="true">https://mikebell.io</guid>
+            <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
