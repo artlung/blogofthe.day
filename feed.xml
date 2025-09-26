@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Sep 2025 00:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 00:08:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[going-medieval.com]]></title>
             <description><![CDATA[Medieval history]]></description>
@@ -1068,18 +1075,10 @@
             <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Wed, 23 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[lifeofpablo.com]]></title>
+            <link>https://lifeofpablo.com</link>
+            <guid isPermaLink="true">https://lifeofpablo.com</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
