@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Sep 2025 00:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 00:08:13 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lifeofpablo.com]]></title>
+            <link>https://lifeofpablo.com</link>
+            <guid isPermaLink="true">https://lifeofpablo.com</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[captainawkward.com]]></title>
             <description><![CDATA[Answering questions about social skills]]></description>
@@ -1068,17 +1074,10 @@
             <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lifeofpablo.com]]></title>
-            <link>https://lifeofpablo.com</link>
-            <guid isPermaLink="true">https://lifeofpablo.com</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
