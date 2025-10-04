@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Oct 2025 00:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Oct 2025 00:08:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bobbyhiltz.com]]></title>
+            <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
+            <link>https://bobbyhiltz.com</link>
+            <guid isPermaLink="true">https://bobbyhiltz.com</guid>
+            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stefanbohacek.com/blog]]></title>
             <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
@@ -1066,18 +1073,11 @@
             <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[zacharykai.net]]></title>
-            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
-            <link>https://zacharykai.net</link>
-            <guid isPermaLink="true">https://zacharykai.net</guid>
-            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bobbyhiltz.com]]></title>
-            <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
-            <link>https://bobbyhiltz.com</link>
-            <guid isPermaLink="true">https://bobbyhiltz.com</guid>
-            <pubDate>Fri, 03 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
