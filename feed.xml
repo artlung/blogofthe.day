@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Oct 2025 00:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 00:08:39 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ialja.com]]></title>
+            <description><![CDATA[About responsible tech]]></description>
+            <link>https://ialja.com</link>
+            <guid isPermaLink="true">https://ialja.com</guid>
+            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[katetattersall.com]]></title>
             <description><![CDATA[Victorian secret service blog]]></description>
@@ -1066,18 +1073,11 @@
             <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fredrocha.net/words]]></title>
-            <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
-            <link>https://fredrocha.net/words</link>
-            <guid isPermaLink="true">https://fredrocha.net/words</guid>
-            <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ialja.com]]></title>
-            <description><![CDATA[About responsible tech]]></description>
-            <link>https://ialja.com</link>
-            <guid isPermaLink="true">https://ialja.com</guid>
-            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.rtwilson.com]]></title>
+            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
+            <link>https://blog.rtwilson.com</link>
+            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
+            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
