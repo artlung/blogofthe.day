@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Oct 2025 00:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 00:08:59 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tiramisu.bearblog.dev]]></title>
+            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
+            <link>https://tiramisu.bearblog.dev</link>
+            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
+            <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[exch.gr]]></title>
             <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
@@ -1066,18 +1073,11 @@
             <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[zacharykai.net]]></title>
-            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
-            <link>https://zacharykai.net</link>
-            <guid isPermaLink="true">https://zacharykai.net</guid>
-            <pubDate>Sat, 10 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tiramisu.bearblog.dev]]></title>
-            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
-            <link>https://tiramisu.bearblog.dev</link>
-            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
-            <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
