@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Oct 2025 00:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 00:08:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.maxwelljoslyn.com]]></title>
             <link>https://www.maxwelljoslyn.com</link>
@@ -1065,17 +1071,11 @@
             <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[glycerinequeenmedia.com]]></title>
-            <description><![CDATA[Queer and other stuff]]></description>
-            <link>https://glycerinequeenmedia.com</link>
-            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
-            <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
