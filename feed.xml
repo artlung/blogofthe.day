@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Oct 2025 00:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 00:08:33 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tracydurnell.com]]></title>
             <link>https://tracydurnell.com</link>
@@ -1064,18 +1071,10 @@
             <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
-            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
-            <link>https://blog.helenchong.omg.lol/en/</link>
-            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
