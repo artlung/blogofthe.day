@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Oct 2025 00:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 00:08:09 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
             <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
@@ -1064,17 +1070,11 @@
             <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alabut.com/writing]]></title>
-            <link>https://alabut.com/writing</link>
-            <guid isPermaLink="true">https://alabut.com/writing</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
