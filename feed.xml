@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Oct 2025 00:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 00:09:01 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[zacharykai.net]]></title>
             <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
@@ -1063,18 +1070,11 @@
             <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[bbbhltz.codeberg.page]]></title>
+            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
+            <link>https://bbbhltz.codeberg.page</link>
+            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
