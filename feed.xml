@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Oct 2025 00:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 00:08:49 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bbbhltz.codeberg.page]]></title>
             <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
@@ -1063,17 +1069,11 @@
             <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[lifeofpablo.com/blog]]></title>
-            <description><![CDATA[Blog]]></description>
-            <link>https://lifeofpablo.com/blog</link>
-            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
-            <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[mandarismoore.com]]></title>
+            <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
+            <link>https://mandarismoore.com</link>
+            <guid isPermaLink="true">https://mandarismoore.com</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
