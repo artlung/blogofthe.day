@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Oct 2025 00:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 00:08:40 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mandarismoore.com]]></title>
+            <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
+            <link>https://mandarismoore.com</link>
+            <guid isPermaLink="true">https://mandarismoore.com</guid>
+            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tracydurnell.com]]></title>
             <link>https://tracydurnell.com</link>
@@ -1062,18 +1069,11 @@
             <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gregorlove.com]]></title>
-            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
-            <link>https://gregorlove.com</link>
-            <guid isPermaLink="true">https://gregorlove.com</guid>
-            <pubDate>Tue, 20 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mandarismoore.com]]></title>
-            <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
-            <link>https://mandarismoore.com</link>
-            <guid isPermaLink="true">https://mandarismoore.com</guid>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[lifeofpablo.com/blog]]></title>
+            <description><![CDATA[Blog]]></description>
+            <link>https://lifeofpablo.com/blog</link>
+            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
