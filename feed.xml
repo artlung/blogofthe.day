@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Oct 2025 00:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 00:07:11 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lifeofpablo.com/blog]]></title>
+            <description><![CDATA[Blog]]></description>
+            <link>https://lifeofpablo.com/blog</link>
+            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
+            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mandarismoore.com]]></title>
             <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
@@ -1062,18 +1069,11 @@
             <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[acearo.at]]></title>
-            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
-            <link>https://acearo.at</link>
-            <guid isPermaLink="true">https://acearo.at</guid>
-            <pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lifeofpablo.com/blog]]></title>
-            <description><![CDATA[Blog]]></description>
-            <link>https://lifeofpablo.com/blog</link>
-            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[gkeenan.co/avgb/]]></title>
+            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
+            <link>https://gkeenan.co/avgb/</link>
+            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
+            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
