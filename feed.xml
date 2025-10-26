@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Oct 2025 00:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 00:09:24 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gkeenan.co/avgb/]]></title>
             <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
@@ -1062,18 +1069,11 @@
             <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[morgan.zoemp.be]]></title>
-            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
-            <link>https://morgan.zoemp.be</link>
-            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[gregorlove.com]]></title>
+            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
+            <link>https://gregorlove.com</link>
+            <guid isPermaLink="true">https://gregorlove.com</guid>
+            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
