@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Oct 2025 00:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 00:08:49 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[muan.co]]></title>
+            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
+            <link>https://muan.co</link>
+            <guid isPermaLink="true">https://muan.co</guid>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lifeofpablo.com]]></title>
             <link>https://lifeofpablo.com</link>
@@ -776,14 +783,12 @@
         </item>
         <item>
             <title><![CDATA[blog.gerbenjacobs.nl]]></title>
-            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
             <link>https://blog.gerbenjacobs.nl</link>
             <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
             <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[blog.gerbenjacobs.nl]]></title>
-            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
             <link>https://blog.gerbenjacobs.nl</link>
             <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
             <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
@@ -865,7 +870,6 @@
         </item>
         <item>
             <title><![CDATA[blog.gerbenjacobs.nl]]></title>
-            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
             <link>https://blog.gerbenjacobs.nl</link>
             <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
             <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
@@ -1063,18 +1067,11 @@
             <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[stfn.pl]]></title>
-            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
-            <link>https://stfn.pl</link>
-            <guid isPermaLink="true">https://stfn.pl</guid>
-            <pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[muan.co]]></title>
-            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
-            <link>https://muan.co</link>
-            <guid isPermaLink="true">https://muan.co</guid>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[gerben.dev]]></title>
+            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
+            <link>https://gerben.dev</link>
+            <guid isPermaLink="true">https://gerben.dev</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
