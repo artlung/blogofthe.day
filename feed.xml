@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Oct 2025 00:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 00:08:41 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gerben.dev]]></title>
+            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
+            <link>https://gerben.dev</link>
+            <guid isPermaLink="true">https://gerben.dev</guid>
+            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[muan.co]]></title>
             <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
@@ -1060,18 +1067,11 @@
             <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gerben.dev]]></title>
-            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
-            <link>https://gerben.dev</link>
-            <guid isPermaLink="true">https://gerben.dev</guid>
-            <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
