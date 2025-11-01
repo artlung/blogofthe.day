@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Oct 2025 00:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 00:10:12 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gerben.dev]]></title>
             <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
@@ -1060,18 +1067,11 @@
             <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.x-way.org]]></title>
-            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
-            <link>https://blog.x-way.org</link>
-            <guid isPermaLink="true">https://blog.x-way.org</guid>
-            <pubDate>Thu, 29 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thisvictorianlife.com]]></title>
-            <description><![CDATA[Blog about Victorian era]]></description>
-            <link>http://thisvictorianlife.com</link>
-            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
