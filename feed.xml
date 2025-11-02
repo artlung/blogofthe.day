@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Nov 2025 00:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 00:09:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[thisvictorianlife.com]]></title>
             <description><![CDATA[Blog about Victorian era]]></description>
@@ -1060,18 +1067,11 @@
             <pubDate>Sat, 31 May 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.darylsun.page]]></title>
-            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
-            <link>https://blog.darylsun.page</link>
-            <guid isPermaLink="true">https://blog.darylsun.page</guid>
-            <pubDate>Fri, 30 May 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[anderegg.ca]]></title>
-            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
-            <link>https://anderegg.ca</link>
-            <guid isPermaLink="true">https://anderegg.ca</guid>
-            <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.x-way.org]]></title>
+            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
+            <link>https://blog.x-way.org</link>
+            <guid isPermaLink="true">https://blog.x-way.org</guid>
+            <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
