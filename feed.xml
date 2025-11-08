@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Nov 2025 00:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 00:08:40 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.rtwilson.com]]></title>
             <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
@@ -1060,18 +1067,11 @@
             <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[glycerinequeenmedia.com]]></title>
-            <description><![CDATA[Queer and other stuff]]></description>
-            <link>https://glycerinequeenmedia.com</link>
-            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
-            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nineteenteen.blogspot.com]]></title>
-            <description><![CDATA[19th century history]]></description>
-            <link>https://nineteenteen.blogspot.com</link>
-            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[garrit.xyz]]></title>
+            <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
+            <link>https://garrit.xyz</link>
+            <guid isPermaLink="true">https://garrit.xyz</guid>
+            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
