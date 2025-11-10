@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Nov 2025 00:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 00:09:37 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[journeytolunar.com]]></title>
+            <link>https://journeytolunar.com</link>
+            <guid isPermaLink="true">https://journeytolunar.com</guid>
+            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[garrit.xyz]]></title>
             <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
@@ -777,7 +783,6 @@
         </item>
         <item>
             <title><![CDATA[journeytolunar.com]]></title>
-            <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
             <link>https://journeytolunar.com</link>
             <guid isPermaLink="true">https://journeytolunar.com</guid>
             <pubDate>Sat, 19 Jul 2025 00:00:00 GMT</pubDate>
@@ -1061,17 +1066,11 @@
             <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Sat, 07 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[journeytolunar.com]]></title>
-            <description><![CDATA[Follow my epic journey of 384400 km (distance to the moon) by walking, hiking, biking, running, swimming, rowing, and more...]]></description>
-            <link>https://journeytolunar.com</link>
-            <guid isPermaLink="true">https://journeytolunar.com</guid>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[ialja.com]]></title>
+            <description><![CDATA[About responsible tech]]></description>
+            <link>https://ialja.com</link>
+            <guid isPermaLink="true">https://ialja.com</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
