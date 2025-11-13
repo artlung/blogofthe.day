@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Nov 2025 00:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 00:08:39 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[going-medieval.com]]></title>
+            <description><![CDATA[Medieval history]]></description>
+            <link>https://going-medieval.com</link>
+            <guid isPermaLink="true">https://going-medieval.com</guid>
+            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stfn.pl]]></title>
             <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
@@ -1060,18 +1067,11 @@
             <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[anderegg.ca]]></title>
-            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
-            <link>https://anderegg.ca</link>
-            <guid isPermaLink="true">https://anderegg.ca</guid>
-            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[going-medieval.com]]></title>
-            <description><![CDATA[Medieval history]]></description>
-            <link>https://going-medieval.com</link>
-            <guid isPermaLink="true">https://going-medieval.com</guid>
-            <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[criticalpolyamorist.com]]></title>
+            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
+            <link>http://criticalpolyamorist.com</link>
+            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
+            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
