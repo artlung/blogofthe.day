@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Nov 2025 00:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 00:08:25 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[garrit.xyz]]></title>
+            <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
+            <link>https://garrit.xyz</link>
+            <guid isPermaLink="true">https://garrit.xyz</guid>
+            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[criticalpolyamorist.com]]></title>
             <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
@@ -1061,18 +1068,11 @@
             <pubDate>Fri, 13 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.cboxes.icu]]></title>
-            <description><![CDATA[A photography blog]]></description>
-            <link>https://www.cboxes.icu</link>
-            <guid isPermaLink="true">https://www.cboxes.icu</guid>
-            <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[garrit.xyz]]></title>
-            <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
-            <link>https://garrit.xyz</link>
-            <guid isPermaLink="true">https://garrit.xyz</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[george-lakoff.com]]></title>
+            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
+            <link>https://george-lakoff.com</link>
+            <guid isPermaLink="true">https://george-lakoff.com</guid>
+            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
