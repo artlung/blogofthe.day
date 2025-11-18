@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Nov 2025 00:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 02:43:08 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.bentasker.co.uk]]></title>
             <description><![CDATA[The personal site of Ben Tasker.]]></description>
@@ -1066,13 +1073,6 @@
             <link>https://alexwlchan.net</link>
             <guid isPermaLink="true">https://alexwlchan.net</guid>
             <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
