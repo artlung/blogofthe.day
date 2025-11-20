@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Nov 2025 00:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Nov 2025 00:08:54 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[katetattersall.com]]></title>
             <description><![CDATA[Victorian secret service blog]]></description>
@@ -1061,18 +1068,11 @@
             <pubDate>Wed, 18 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[dominikhofer.me]]></title>
-            <description><![CDATA[Curious. Creative. Coder. That’s me, Dominik :) I like to learn & understand more about the world we live in. While coming up with cool ideas & designing beautiful things. And bringing them to life with fancy symbols.]]></description>
-            <link>https://dominikhofer.me</link>
-            <guid isPermaLink="true">https://dominikhofer.me</guid>
-            <pubDate>Tue, 17 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pcarrier.com]]></title>
-            <description><![CDATA[Personal website and forest of links]]></description>
-            <link>https://pcarrier.com</link>
-            <guid isPermaLink="true">https://pcarrier.com</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[vale.rocks]]></title>
+            <description><![CDATA[The personal website of Declan Chidlow, known mononymously as Vale, containing thoughts, musings, and otherwise unhinged ramblings.]]></description>
+            <link>https://vale.rocks</link>
+            <guid isPermaLink="true">https://vale.rocks</guid>
+            <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
