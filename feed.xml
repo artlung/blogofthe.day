@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 00:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Nov 2025 00:08:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[omeratagun.net]]></title>
+            <description><![CDATA[Tech oriented blog]]></description>
+            <link>https://omeratagun.net</link>
+            <guid isPermaLink="true">https://omeratagun.net</guid>
+            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lifeofpablo.com]]></title>
             <link>https://lifeofpablo.com</link>
@@ -1060,18 +1067,11 @@
             <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ialja.com]]></title>
-            <description><![CDATA[About responsible tech]]></description>
-            <link>https://ialja.com</link>
-            <guid isPermaLink="true">https://ialja.com</guid>
-            <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[omeratagun.net]]></title>
-            <description><![CDATA[Tech oriented blog]]></description>
-            <link>https://omeratagun.net</link>
-            <guid isPermaLink="true">https://omeratagun.net</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[rubenerd.com]]></title>
+            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
+            <link>https://rubenerd.com</link>
+            <guid isPermaLink="true">https://rubenerd.com</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
