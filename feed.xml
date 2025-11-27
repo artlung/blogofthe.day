@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Nov 2025 00:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 00:08:32 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rubenerd.com]]></title>
+            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
+            <link>https://rubenerd.com</link>
+            <guid isPermaLink="true">https://rubenerd.com</guid>
+            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[omeratagun.net]]></title>
             <description><![CDATA[Tech oriented blog]]></description>
@@ -1060,18 +1067,11 @@
             <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[exch.gr]]></title>
-            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
-            <link>https://exch.gr</link>
-            <guid isPermaLink="true">https://exch.gr</guid>
-            <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rubenerd.com]]></title>
-            <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
-            <link>https://rubenerd.com</link>
-            <guid isPermaLink="true">https://rubenerd.com</guid>
-            <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
