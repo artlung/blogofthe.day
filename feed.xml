@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Nov 2025 00:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Nov 2025 00:08:44 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rubenerd.com]]></title>
             <description><![CDATA[By Ruben Schade in s/Singapore/Sydney/. 🌻]]></description>
@@ -1061,17 +1068,11 @@
             <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.gerbenjacobs.nl]]></title>
-            <link>https://blog.gerbenjacobs.nl</link>
-            <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
-            <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[morgan.zoemp.be]]></title>
-            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
-            <link>https://morgan.zoemp.be</link>
-            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[gkeenan.co/avgb/]]></title>
+            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
+            <link>https://gkeenan.co/avgb/</link>
+            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
+            <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
