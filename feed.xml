@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Nov 2025 00:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 00:10:56 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.maxwelljoslyn.com]]></title>
             <link>https://www.maxwelljoslyn.com</link>
@@ -1061,18 +1068,11 @@
             <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Sat, 28 Jun 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
-            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
-            <link>https://blog.helenchong.omg.lol/en/</link>
-            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
-            <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[fredrocha.net/words]]></title>
+            <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
+            <link>https://fredrocha.net/words</link>
+            <guid isPermaLink="true">https://fredrocha.net/words</guid>
+            <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
