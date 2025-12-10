@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Dec 2025 00:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 00:09:03 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[artlung.com/blog]]></title>
             <link>https://artlung.com/blog</link>
@@ -1061,17 +1068,11 @@
             <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.gerbenjacobs.nl]]></title>
-            <link>https://blog.gerbenjacobs.nl</link>
-            <guid isPermaLink="true">https://blog.gerbenjacobs.nl</guid>
-            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[morgan.zoemp.be]]></title>
-            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
-            <link>https://morgan.zoemp.be</link>
-            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
-            <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[insidemordecai.com]]></title>
+            <description><![CDATA[Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.]]></description>
+            <link>https://insidemordecai.com</link>
+            <guid isPermaLink="true">https://insidemordecai.com</guid>
+            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
