@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Dec 2025 00:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 00:09:01 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[insidemordecai.com]]></title>
             <description><![CDATA[Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.]]></description>
@@ -1062,18 +1069,11 @@
             <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[yordi.me]]></title>
-            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
-            <link>https://yordi.me</link>
-            <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yordi.me]]></title>
-            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
-            <link>https://yordi.me</link>
-            <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[ttntm.me]]></title>
+            <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
+            <link>https://ttntm.me</link>
+            <guid isPermaLink="true">https://ttntm.me</guid>
+            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
