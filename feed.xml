@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 00:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 00:08:08 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[boffosocko.com]]></title>
+            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
+            <link>https://boffosocko.com</link>
+            <guid isPermaLink="true">https://boffosocko.com</guid>
+            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[mandarismoore.com]]></title>
             <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
@@ -1062,17 +1069,11 @@
             <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alabut.com/writing]]></title>
-            <link>https://alabut.com/writing</link>
-            <guid isPermaLink="true">https://alabut.com/writing</guid>
-            <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[boffosocko.com]]></title>
-            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
-            <link>https://boffosocko.com</link>
-            <guid isPermaLink="true">https://boffosocko.com</guid>
-            <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
