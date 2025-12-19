@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Dec 2025 00:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 00:09:29 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[boffosocko.com]]></title>
             <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
@@ -1062,18 +1069,11 @@
             <pubDate>Thu, 17 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sloanime.si]]></title>
-            <description><![CDATA[Blog about Slovenian anime scene]]></description>
-            <link>https://sloanime.si</link>
-            <guid isPermaLink="true">https://sloanime.si</guid>
-            <pubDate>Wed, 16 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zacharykai.net]]></title>
-            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
-            <link>https://zacharykai.net</link>
-            <guid isPermaLink="true">https://zacharykai.net</guid>
-            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[dominikhofer.me]]></title>
+            <description><![CDATA[Curious. Creative. Coder. That’s me, Dominik :) I like to learn & understand more about the world we live in. While coming up with cool ideas & designing beautiful things. And bringing them to life with fancy symbols.]]></description>
+            <link>https://dominikhofer.me</link>
+            <guid isPermaLink="true">https://dominikhofer.me</guid>
+            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
