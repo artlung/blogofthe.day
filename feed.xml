@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Dec 2025 00:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Dec 2025 00:10:27 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bobbyhiltz.com]]></title>
+            <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
+            <link>https://bobbyhiltz.com</link>
+            <guid isPermaLink="true">https://bobbyhiltz.com</guid>
+            <pubDate>Sat, 27 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
             <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
@@ -1063,18 +1070,11 @@
             <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[glycerinequeenmedia.com]]></title>
-            <description><![CDATA[Queer and other stuff]]></description>
-            <link>https://glycerinequeenmedia.com</link>
-            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
-            <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bobbyhiltz.com]]></title>
-            <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
-            <link>https://bobbyhiltz.com</link>
-            <guid isPermaLink="true">https://bobbyhiltz.com</guid>
-            <pubDate>Sat, 27 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.anildash.com]]></title>
+            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
+            <link>https://www.anildash.com</link>
+            <guid isPermaLink="true">https://www.anildash.com</guid>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
