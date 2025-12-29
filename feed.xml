@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Dec 2025 00:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 00:10:30 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.anildash.com]]></title>
+            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
+            <link>https://www.anildash.com</link>
+            <guid isPermaLink="true">https://www.anildash.com</guid>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bobbyhiltz.com]]></title>
             <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
@@ -1063,18 +1070,11 @@
             <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Sat, 26 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[glycerinequeenmedia.com]]></title>
+            <description><![CDATA[Queer and other stuff]]></description>
+            <link>https://glycerinequeenmedia.com</link>
+            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
+            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
