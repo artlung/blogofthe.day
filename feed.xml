@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 00:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 00:09:10 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
+            <description><![CDATA[Ty talks type, travel, and photos]]></description>
+            <link>https://tyfromtheinternet.com/posts</link>
+            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
+            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[glycerinequeenmedia.com]]></title>
             <description><![CDATA[Queer and other stuff]]></description>
@@ -1063,18 +1070,11 @@
             <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <title><![CDATA[rebeccatoh.co]]></title>
+            <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
+            <link>https://rebeccatoh.co</link>
+            <guid isPermaLink="true">https://rebeccatoh.co</guid>
+            <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
