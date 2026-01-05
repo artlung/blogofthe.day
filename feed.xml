@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Jan 2026 00:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 00:10:29 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
+            <description><![CDATA[The Artist’s Notebook]]></description>
+            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
+            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
+            <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bobbyhiltz.com]]></title>
             <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
@@ -1064,17 +1071,11 @@
             <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
-            <description><![CDATA[The Artist’s Notebook]]></description>
-            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
-            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
-            <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[sarahspiekermann.com]]></title>
+            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
+            <link>https://sarahspiekermann.com</link>
+            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
