@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jan 2026 00:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 00:09:45 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sarahspiekermann.com]]></title>
+            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
+            <link>https://sarahspiekermann.com</link>
+            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
             <description><![CDATA[The Artist’s Notebook]]></description>
@@ -1068,14 +1075,7 @@
             <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
             <link>https://jamesg.blog</link>
             <guid isPermaLink="true">https://jamesg.blog</guid>
-            <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sarahspiekermann.com]]></title>
-            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
-            <link>https://sarahspiekermann.com</link>
-            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
