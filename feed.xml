@@ -4,14 +4,21 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jan 2026 00:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Nov 2025 02:43:08 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[sarahspiekermann.com]]></title>
-            <description><![CDATA[From professor one of whose topics is ethical technology]]></description>
-            <link>https://sarahspiekermann.com</link>
-            <guid isPermaLink="true">https://sarahspiekermann.com</guid>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
@@ -1069,13 +1076,6 @@
             <link>https://david.shanske.com</link>
             <guid isPermaLink="true">https://david.shanske.com</guid>
             <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[jamesg.blog]]></title>
-            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
-            <link>https://jamesg.blog</link>
-            <guid isPermaLink="true">https://jamesg.blog</guid>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
