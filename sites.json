@@ -76,7 +76,9 @@
     "zacharykai.net",
     "insidemordecai.com",
     "ttntm.me",
-    "garrit.xyz"
+    "garrit.xyz",
+    "roadlessread.com",
+    "lunaseeker.com"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -156,6 +158,8 @@
     "zacharykai.net": "Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.",
     "insidemordecai.com": "Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.",
     "ttntm.me": "Tom's homepage. A personal website, journal and playground.",
-    "garrit.xyz": "I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!"
+    "garrit.xyz": "I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!",
+    "roadlessread.com": "Zachary Kai's book blog: with links, recommendations, lists, and esoterica."
+    "lunaseeker.com": "Zachary Kai's independent press: posts on zine-making, creativity, community, and fun."
   }
 }
