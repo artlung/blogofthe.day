@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jan 2026 00:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 00:09:07 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[candost.blog]]></title>
+            <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
+            <link>https://candost.blog</link>
+            <guid isPermaLink="true">https://candost.blog</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[roadlessread.com]]></title>
             <description><![CDATA[Zachary Kai's book blog: with links, recommendations, lists, and esoterica.]]></description>
@@ -1092,11 +1099,11 @@
             <pubDate>Mon, 04 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[candost.blog]]></title>
-            <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
-            <link>https://candost.blog</link>
-            <guid isPermaLink="true">https://candost.blog</guid>
-            <pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
+            <description><![CDATA[Ty talks type, travel, and photos]]></description>
+            <link>https://tyfromtheinternet.com/posts</link>
+            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
+            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
