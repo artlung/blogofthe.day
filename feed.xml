@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jan 2026 00:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 00:08:11 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.maxwelljoslyn.com]]></title>
+            <link>https://www.maxwelljoslyn.com</link>
+            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gkeenan.co/avgb/]]></title>
             <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
@@ -1093,17 +1099,11 @@
             <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.maxwelljoslyn.com]]></title>
-            <link>https://www.maxwelljoslyn.com</link>
-            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
