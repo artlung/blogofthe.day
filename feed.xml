@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 00:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 00:09:09 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ialja.com]]></title>
+            <description><![CDATA[About responsible tech]]></description>
+            <link>https://ialja.com</link>
+            <guid isPermaLink="true">https://ialja.com</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[candost.blog]]></title>
             <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
@@ -1092,18 +1099,11 @@
             <pubDate>Mon, 11 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Sun, 10 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ialja.com]]></title>
-            <description><![CDATA[About responsible tech]]></description>
-            <link>https://ialja.com</link>
-            <guid isPermaLink="true">https://ialja.com</guid>
-            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[joelchrono.xyz]]></title>
+            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
+            <link>https://joelchrono.xyz</link>
+            <guid isPermaLink="true">https://joelchrono.xyz</guid>
+            <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
