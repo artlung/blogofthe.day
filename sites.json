@@ -79,7 +79,8 @@
     "garrit.xyz",
     "roadlessread.com",
     "lunaseeker.com",
-    "candost.blog"
+    "candost.blog",
+    "brennan.day"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -162,6 +163,7 @@
     "garrit.xyz": "I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!",
     "roadlessread.com": "Zachary Kai's book blog: with links, recommendations, lists, and esoterica.",
     "lunaseeker.com": "Zachary Kai's independent press: posts on zine-making, creativity, community, and fun.",
-    "candost.blog": "Hunting timeless insights into humans and software and helping others on the way."
+    "candost.blog": "Hunting timeless insights into humans and software and helping others on the way.",
+    "brennan.day": "An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!"
   }
 }
