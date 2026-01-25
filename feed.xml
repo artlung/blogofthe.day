@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jan 2026 00:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 00:10:29 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[brennan.day]]></title>
+            <description><![CDATA[An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!]]></description>
+            <link>https://brennan.day</link>
+            <guid isPermaLink="true">https://brennan.day</guid>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[george-lakoff.com]]></title>
             <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
@@ -1106,11 +1113,11 @@
             <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[brennan.day]]></title>
-            <description><![CDATA[An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!]]></description>
-            <link>https://brennan.day</link>
-            <guid isPermaLink="true">https://brennan.day</guid>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
