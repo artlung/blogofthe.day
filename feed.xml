@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 00:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 00:11:51 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[george-lakoff.com]]></title>
+            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
+            <link>https://george-lakoff.com</link>
+            <guid isPermaLink="true">https://george-lakoff.com</guid>
+            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[maggieappleton.com]]></title>
             <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
@@ -1107,17 +1114,11 @@
             <pubDate>Fri, 22 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[artlung.com/blog]]></title>
-            <link>https://artlung.com/blog</link>
-            <guid isPermaLink="true">https://artlung.com/blog</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[george-lakoff.com]]></title>
-            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
-            <link>https://george-lakoff.com</link>
-            <guid isPermaLink="true">https://george-lakoff.com</guid>
-            <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[omeratagun.net]]></title>
+            <description><![CDATA[Tech oriented blog]]></description>
+            <link>https://omeratagun.net</link>
+            <guid isPermaLink="true">https://omeratagun.net</guid>
+            <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
