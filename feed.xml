@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Feb 2026 00:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 00:12:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hamatti.org/blog]]></title>
+            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
+            <link>https://hamatti.org/blog</link>
+            <guid isPermaLink="true">https://hamatti.org/blog</guid>
+            <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
             <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
@@ -1107,18 +1114,11 @@
             <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tiramisu.bearblog.dev]]></title>
-            <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
-            <link>https://tiramisu.bearblog.dev</link>
-            <guid isPermaLink="true">https://tiramisu.bearblog.dev</guid>
-            <pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hamatti.org/blog]]></title>
-            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
-            <link>https://hamatti.org/blog</link>
-            <guid isPermaLink="true">https://hamatti.org/blog</guid>
-            <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[notes.jeddacp.com]]></title>
+            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
+            <link>https://notes.jeddacp.com</link>
+            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
+            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
