@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Feb 2026 00:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 00:13:03 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[marisabel.nl]]></title>
+            <description><![CDATA[A personal garden to make things grow.]]></description>
+            <link>https://marisabel.nl</link>
+            <guid isPermaLink="true">https://marisabel.nl</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[peterspath.net]]></title>
             <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
@@ -1107,18 +1114,10 @@
             <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[maggieappleton.com]]></title>
-            <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
-            <link>https://maggieappleton.com</link>
-            <guid isPermaLink="true">https://maggieappleton.com</guid>
-            <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[david.shanske.com]]></title>
+            <link>https://david.shanske.com</link>
+            <guid isPermaLink="true">https://david.shanske.com</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
