@@ -81,7 +81,8 @@
     "lunaseeker.com",
     "candost.blog",
     "brennan.day",
-    "cobb.land"
+    "cobb.land",
+    "mattbee.mataroa.blog"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -166,6 +167,7 @@
     "lunaseeker.com": "Zachary Kai's independent press: posts on zine-making, creativity, community, and fun.",
     "candost.blog": "Hunting timeless insights into humans and software and helping others on the way.",
     "brennan.day": "An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!",
-    "cobb.land": "A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia."
+    "cobb.land": "A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.",
+    "mattbee.mataroa.blog": "Just a raccoon trying to do their best."
   }
 }
