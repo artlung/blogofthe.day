@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 00:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 00:10:50 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[david.shanske.com]]></title>
+            <link>https://david.shanske.com</link>
+            <guid isPermaLink="true">https://david.shanske.com</guid>
+            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[marisabel.nl]]></title>
             <description><![CDATA[A personal garden to make things grow.]]></description>
@@ -1114,10 +1120,11 @@
             <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[david.shanske.com]]></title>
-            <link>https://david.shanske.com</link>
-            <guid isPermaLink="true">https://david.shanske.com</guid>
-            <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[cobb.land]]></title>
+            <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
+            <link>https://cobb.land</link>
+            <guid isPermaLink="true">https://cobb.land</guid>
+            <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
