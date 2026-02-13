@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 00:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 00:14:26 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexsirac.com]]></title>
+            <description><![CDATA[A French and English blog that's not about tech.]]></description>
+            <link>https://alexsirac.com</link>
+            <guid isPermaLink="true">https://alexsirac.com</guid>
+            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[aaronparecki.com]]></title>
             <link>https://aaronparecki.com</link>
@@ -1141,11 +1148,11 @@
             <pubDate>Sun, 31 Aug 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
