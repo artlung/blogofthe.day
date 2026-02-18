@@ -83,7 +83,8 @@
     "candost.blog",
     "brennan.day",
     "cobb.land",
-    "mattbee.mataroa.blog"
+    "mattbee.mataroa.blog",
+    "kiko.io"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -170,6 +171,7 @@
     "candost.blog": "Hunting timeless insights into humans and software and helping others on the way.",
     "brennan.day": "An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!",
     "cobb.land": "A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.",
-    "mattbee.mataroa.blog": "Just a raccoon trying to do their best."
+    "mattbee.mataroa.blog": "Just a raccoon trying to do their best.",
+    "kiko.io": "Memorable (Tech) Stuff by Kristof Zerbe"
   }
 }
