@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Feb 2026 00:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 00:11:24 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[kiko.io]]></title>
+            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
+            <link>https://kiko.io</link>
+            <guid isPermaLink="true">https://kiko.io</guid>
+            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[burgeonlab.com]]></title>
             <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
@@ -1163,11 +1170,11 @@
             <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[kiko.io]]></title>
-            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
-            <link>https://kiko.io</link>
-            <guid isPermaLink="true">https://kiko.io</guid>
-            <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[schafe-sind-bessere-rasenmaeher.de]]></title>
+            <description><![CDATA[A little bit of everything, mostly tech and videogames, but also some mindfulness, random thoughts and every now and then a short story.]]></description>
+            <link>https://schafe-sind-bessere-rasenmaeher.de</link>
+            <guid isPermaLink="true">https://schafe-sind-bessere-rasenmaeher.de</guid>
+            <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
