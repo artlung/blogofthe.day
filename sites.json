@@ -86,7 +86,8 @@
     "mattbee.mataroa.blog",
     "schafe-sind-bessere-rasenmaeher.de",
     "kiko.io",
-    "eklausmeier.goip.de"
+    "eklausmeier.goip.de",
+    "ryanlynch.me"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -176,6 +177,7 @@
     "mattbee.mataroa.blog": "Just a raccoon trying to do their best.",
     "schafe-sind-bessere-rasenmaeher.de": "A little bit of everything, mostly tech and videogames, but also some mindfulness, random thoughts and every now and then a short story.",
     "kiko.io": "Memorable (Tech) Stuff by Kristof Zerbe",
-    "eklausmeier.goip.de": "Elmar Klausmeier's Blog on Computers, Programming, and Mathematics"
+    "eklausmeier.goip.de": "Elmar Klausmeier's Blog on Computers, Programming, and Mathematics",
+    "ryanlynch.me": "Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time."
   }
 }
