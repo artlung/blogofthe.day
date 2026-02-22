@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Feb 2026 00:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 00:11:48 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[eklausmeier.goip.de]]></title>
+            <description><![CDATA[Elmar Klausmeier's Blog on Computers, Programming, and Mathematics]]></description>
+            <link>https://eklausmeier.goip.de</link>
+            <guid isPermaLink="true">https://eklausmeier.goip.de</guid>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[schafe-sind-bessere-rasenmaeher.de]]></title>
             <description><![CDATA[A little bit of everything, mostly tech and videogames, but also some mindfulness, random thoughts and every now and then a short story.]]></description>
@@ -1177,11 +1184,11 @@
             <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[eklausmeier.goip.de]]></title>
-            <description><![CDATA[Elmar Klausmeier's Blog on Computers, Programming, and Mathematics]]></description>
-            <link>https://eklausmeier.goip.de</link>
-            <guid isPermaLink="true">https://eklausmeier.goip.de</guid>
-            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Sun, 22 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
