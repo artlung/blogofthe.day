@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Feb 2026 00:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 00:13:21 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ryanlynch.me]]></title>
+            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
+            <link>https://ryanlynch.me</link>
+            <guid isPermaLink="true">https://ryanlynch.me</guid>
+            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[pcarrier.com]]></title>
             <description><![CDATA[Personal website and forest of links]]></description>
@@ -1191,11 +1198,11 @@
             <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ryanlynch.me]]></title>
-            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
-            <link>https://ryanlynch.me</link>
-            <guid isPermaLink="true">https://ryanlynch.me</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[yusuf.fyi]]></title>
+            <description><![CDATA[Yusuf blogs about computers, relationships and the free web.]]></description>
+            <link>https://yusuf.fyi</link>
+            <guid isPermaLink="true">https://yusuf.fyi</guid>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
