@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 00:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 00:14:30 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yusuf.fyi]]></title>
+            <description><![CDATA[Yusuf blogs about computers, relationships and the free web.]]></description>
+            <link>https://yusuf.fyi</link>
+            <guid isPermaLink="true">https://yusuf.fyi</guid>
+            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ryanlynch.me]]></title>
             <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
@@ -1198,11 +1205,11 @@
             <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[yusuf.fyi]]></title>
-            <description><![CDATA[Yusuf blogs about computers, relationships and the free web.]]></description>
-            <link>https://yusuf.fyi</link>
-            <guid isPermaLink="true">https://yusuf.fyi</guid>
-            <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[roadlessread.com]]></title>
+            <description><![CDATA[Zachary Kai's book blog: with links, recommendations, lists, and esoterica.]]></description>
+            <link>https://roadlessread.com</link>
+            <guid isPermaLink="true">https://roadlessread.com</guid>
+            <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
