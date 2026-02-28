@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Feb 2026 00:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 00:10:30 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[joelchrono.xyz]]></title>
+            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
+            <link>https://joelchrono.xyz</link>
+            <guid isPermaLink="true">https://joelchrono.xyz</guid>
+            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[stefanbohacek.com/blog]]></title>
             <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
@@ -1219,11 +1226,11 @@
             <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[joelchrono.xyz]]></title>
-            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
-            <link>https://joelchrono.xyz</link>
-            <guid isPermaLink="true">https://joelchrono.xyz</guid>
-            <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[bobbyhiltz.com]]></title>
+            <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
+            <link>https://bobbyhiltz.com</link>
+            <guid isPermaLink="true">https://bobbyhiltz.com</guid>
+            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
