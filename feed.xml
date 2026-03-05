@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 00:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 00:12:54 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rknight.me/blog/]]></title>
+            <description><![CDATA[A blog by Robb Knight]]></description>
+            <link>https://rknight.me/blog/</link>
+            <guid isPermaLink="true">https://rknight.me/blog/</guid>
+            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[joshmuller.ca]]></title>
             <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
@@ -1220,18 +1227,11 @@
             <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[exch.gr]]></title>
-            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
-            <link>https://exch.gr</link>
-            <guid isPermaLink="true">https://exch.gr</guid>
-            <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rknight.me/blog/]]></title>
-            <description><![CDATA[A blog by Robb Knight]]></description>
-            <link>https://rknight.me/blog/</link>
-            <guid isPermaLink="true">https://rknight.me/blog/</guid>
-            <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
