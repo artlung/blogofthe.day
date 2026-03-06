@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 00:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 00:17:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rknight.me/blog/]]></title>
             <description><![CDATA[A blog by Robb Knight]]></description>
@@ -1220,18 +1227,11 @@
             <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[zacharykai.net]]></title>
-            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
-            <link>https://zacharykai.net</link>
-            <guid isPermaLink="true">https://zacharykai.net</guid>
-            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[anderegg.ca]]></title>
-            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
-            <link>https://anderegg.ca</link>
-            <guid isPermaLink="true">https://anderegg.ca</guid>
-            <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
