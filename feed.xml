@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 00:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 00:13:22 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[joshmuller.ca]]></title>
+            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
+            <link>https://joshmuller.ca</link>
+            <guid isPermaLink="true">https://joshmuller.ca</guid>
+            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bobbyhiltz.com]]></title>
             <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
@@ -1221,18 +1228,11 @@
             <pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fredrocha.net/words]]></title>
-            <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
-            <link>https://fredrocha.net/words</link>
-            <guid isPermaLink="true">https://fredrocha.net/words</guid>
-            <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[joshmuller.ca]]></title>
-            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
-            <link>https://joshmuller.ca</link>
-            <guid isPermaLink="true">https://joshmuller.ca</guid>
-            <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
