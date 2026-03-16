@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 00:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 00:15:01 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nineteenteen.blogspot.com]]></title>
             <description><![CDATA[19th century history]]></description>
@@ -1228,11 +1235,11 @@
             <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[toninotes.cc]]></title>
+            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
+            <link>https://toninotes.cc</link>
+            <guid isPermaLink="true">https://toninotes.cc</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
