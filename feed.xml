@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 00:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 00:14:37 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cobb.land]]></title>
+            <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
+            <link>https://cobb.land</link>
+            <guid isPermaLink="true">https://cobb.land</guid>
+            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[toninotes.cc]]></title>
             <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
@@ -1235,18 +1242,11 @@
             <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ttntm.me]]></title>
-            <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
-            <link>https://ttntm.me</link>
-            <guid isPermaLink="true">https://ttntm.me</guid>
-            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cobb.land]]></title>
-            <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
-            <link>https://cobb.land</link>
-            <guid isPermaLink="true">https://cobb.land</guid>
-            <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[kiko.io]]></title>
+            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
+            <link>https://kiko.io</link>
+            <guid isPermaLink="true">https://kiko.io</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
