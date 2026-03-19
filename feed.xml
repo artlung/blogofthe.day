@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 00:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 00:14:05 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[kiko.io]]></title>
+            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
+            <link>https://kiko.io</link>
+            <guid isPermaLink="true">https://kiko.io</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cobb.land]]></title>
             <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
@@ -1235,18 +1242,11 @@
             <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[garrit.xyz]]></title>
-            <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
-            <link>https://garrit.xyz</link>
-            <guid isPermaLink="true">https://garrit.xyz</guid>
-            <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[kiko.io]]></title>
             <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
             <link>https://kiko.io</link>
             <guid isPermaLink="true">https://kiko.io</guid>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
