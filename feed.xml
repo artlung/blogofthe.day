@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 00:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 00:14:00 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hamatti.org/blog]]></title>
+            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
+            <link>https://hamatti.org/blog</link>
+            <guid isPermaLink="true">https://hamatti.org/blog</guid>
+            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[schafe-sind-bessere-rasenmaeher.de]]></title>
             <description><![CDATA[A little bit of everything, mostly tech and videogames, but also some mindfulness, random thoughts and every now and then a short story.]]></description>
@@ -1236,17 +1243,11 @@
             <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[lifeofpablo.com]]></title>
-            <link>https://lifeofpablo.com</link>
-            <guid isPermaLink="true">https://lifeofpablo.com</guid>
-            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hamatti.org/blog]]></title>
-            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
-            <link>https://hamatti.org/blog</link>
-            <guid isPermaLink="true">https://hamatti.org/blog</guid>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
