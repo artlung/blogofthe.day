@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 00:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 00:15:40 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[hamatti.org/blog]]></title>
             <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
@@ -1237,17 +1244,11 @@
             <pubDate>Sun, 28 Sep 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alabut.com/writing]]></title>
-            <link>https://alabut.com/writing</link>
-            <guid isPermaLink="true">https://alabut.com/writing</guid>
-            <pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
