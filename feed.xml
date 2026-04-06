@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 00:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 00:16:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
+            <description><![CDATA[Ty talks type, travel, and photos]]></description>
+            <link>https://tyfromtheinternet.com/posts</link>
+            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
+            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.darylsun.page]]></title>
             <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
@@ -1237,18 +1244,11 @@
             <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Sun, 05 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[acearo.at]]></title>
+            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
+            <link>https://acearo.at</link>
+            <guid isPermaLink="true">https://acearo.at</guid>
+            <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
