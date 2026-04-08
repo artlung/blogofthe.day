@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 00:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 00:17:38 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[acearo.at]]></title>
             <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
@@ -1237,18 +1244,11 @@
             <pubDate>Sat, 11 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.rtwilson.com]]></title>
-            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
-            <link>https://blog.rtwilson.com</link>
-            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
-            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[benji.dog]]></title>
-            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
-            <link>https://benji.dog</link>
-            <guid isPermaLink="true">https://benji.dog</guid>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
