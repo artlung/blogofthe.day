@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 00:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 00:21:11 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tracydurnell.com]]></title>
             <link>https://tracydurnell.com</link>
@@ -1238,18 +1245,11 @@
             <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
-            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
-            <link>https://blog.helenchong.omg.lol/en/</link>
-            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nineteenteen.blogspot.com]]></title>
-            <description><![CDATA[19th century history]]></description>
-            <link>https://nineteenteen.blogspot.com</link>
-            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
-            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[vale.rocks]]></title>
+            <description><![CDATA[The personal website of Declan Chidlow, known mononymously as Vale, containing thoughts, musings, and otherwise unhinged ramblings.]]></description>
+            <link>https://vale.rocks</link>
+            <guid isPermaLink="true">https://vale.rocks</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
