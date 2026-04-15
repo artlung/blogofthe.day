@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 00:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 00:21:41 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[vale.rocks]]></title>
+            <description><![CDATA[The personal website of Declan Chidlow, known mononymously as Vale, containing thoughts, musings, and otherwise unhinged ramblings.]]></description>
+            <link>https://vale.rocks</link>
+            <guid isPermaLink="true">https://vale.rocks</guid>
+            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nineteenteen.blogspot.com]]></title>
             <description><![CDATA[19th century history]]></description>
@@ -1239,17 +1246,11 @@
             <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alabut.com/writing]]></title>
-            <link>https://alabut.com/writing</link>
-            <guid isPermaLink="true">https://alabut.com/writing</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[vale.rocks]]></title>
-            <description><![CDATA[The personal website of Declan Chidlow, known mononymously as Vale, containing thoughts, musings, and otherwise unhinged ramblings.]]></description>
-            <link>https://vale.rocks</link>
-            <guid isPermaLink="true">https://vale.rocks</guid>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.cboxes.icu]]></title>
+            <description><![CDATA[A photography blog]]></description>
+            <link>https://www.cboxes.icu</link>
+            <guid isPermaLink="true">https://www.cboxes.icu</guid>
+            <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
