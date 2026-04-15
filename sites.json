@@ -89,7 +89,8 @@
     "eklausmeier.goip.de",
     "ryanlynch.me",
     "yusuf.fyi",
-    "toninotes.cc"
+    "toninotes.cc",
+    "fnhipster.com"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -182,6 +183,7 @@
     "eklausmeier.goip.de": "Elmar Klausmeier's Blog on Computers, Programming, and Mathematics",
     "ryanlynch.me": "Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.",
     "yusuf.fyi": "Yusuf blogs about computers, relationships and the free web.",
-    "toninotes.cc": "A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work."
+    "toninotes.cc": "A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.",
+    "fnhipster.com": "The chronicles of a webmaster: a stream of consciousness on technology, creativity, and a random series of events."
   }
 }
