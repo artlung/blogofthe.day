@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 00:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 00:19:02 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[stefanbohacek.com/blog]]></title>
+            <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
+            <link>https://stefanbohacek.com/blog</link>
+            <guid isPermaLink="true">https://stefanbohacek.com/blog</guid>
+            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[alabut.com/writing]]></title>
             <link>https://alabut.com/writing</link>
@@ -1252,18 +1259,11 @@
             <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[stefanbohacek.com/blog]]></title>
-            <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
-            <link>https://stefanbohacek.com/blog</link>
-            <guid isPermaLink="true">https://stefanbohacek.com/blog</guid>
-            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
