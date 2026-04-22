@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 00:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 00:17:45 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bbbhltz.codeberg.page]]></title>
+            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
+            <link>https://bbbhltz.codeberg.page</link>
+            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
+            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[burgeonlab.com]]></title>
             <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
@@ -1253,18 +1260,11 @@
             <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mandarismoore.com]]></title>
-            <description><![CDATA[A High-quality stranger. I've considered myself a digital gofer. Y'know, go for this and go for that. I'm using micro.blog now to par down my technical projects and be part of an outstanding community.]]></description>
-            <link>https://mandarismoore.com</link>
-            <guid isPermaLink="true">https://mandarismoore.com</guid>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[bbbhltz.codeberg.page]]></title>
-            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
-            <link>https://bbbhltz.codeberg.page</link>
-            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[nineteenteen.blogspot.com]]></title>
+            <description><![CDATA[19th century history]]></description>
+            <link>https://nineteenteen.blogspot.com</link>
+            <guid isPermaLink="true">https://nineteenteen.blogspot.com</guid>
+            <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
