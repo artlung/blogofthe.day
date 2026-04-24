@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 00:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 00:22:23 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nineteenteen.blogspot.com]]></title>
             <description><![CDATA[19th century history]]></description>
@@ -1253,18 +1260,11 @@
             <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gkeenan.co/avgb/]]></title>
-            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
-            <link>https://gkeenan.co/avgb/</link>
-            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[cobb.land]]></title>
+            <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
+            <link>https://cobb.land</link>
+            <guid isPermaLink="true">https://cobb.land</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
