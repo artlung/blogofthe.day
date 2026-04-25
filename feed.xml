@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 00:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 00:19:42 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[cobb.land]]></title>
+            <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
+            <link>https://cobb.land</link>
+            <guid isPermaLink="true">https://cobb.land</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.bentasker.co.uk]]></title>
             <description><![CDATA[The personal site of Ben Tasker.]]></description>
@@ -1253,18 +1260,11 @@
             <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[morgan.zoemp.be]]></title>
-            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
-            <link>https://morgan.zoemp.be</link>
-            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cobb.land]]></title>
-            <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
-            <link>https://cobb.land</link>
-            <guid isPermaLink="true">https://cobb.land</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[candost.blog]]></title>
+            <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
+            <link>https://candost.blog</link>
+            <guid isPermaLink="true">https://candost.blog</guid>
+            <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
