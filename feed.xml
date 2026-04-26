@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 00:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 00:20:41 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[candost.blog]]></title>
+            <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
+            <link>https://candost.blog</link>
+            <guid isPermaLink="true">https://candost.blog</guid>
+            <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cobb.land]]></title>
             <description><![CDATA[A writer, artist, programmer, and game designer currently dwelling in the foothills of Appalachia.]]></description>
@@ -1253,18 +1260,10 @@
             <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gregorlove.com]]></title>
-            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
-            <link>https://gregorlove.com</link>
-            <guid isPermaLink="true">https://gregorlove.com</guid>
-            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[candost.blog]]></title>
-            <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
-            <link>https://candost.blog</link>
-            <guid isPermaLink="true">https://candost.blog</guid>
-            <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
