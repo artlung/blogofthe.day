@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 00:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 00:21:15 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[candost.blog]]></title>
             <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
@@ -1253,17 +1259,11 @@
             <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[artlung.com/blog]]></title>
-            <link>https://artlung.com/blog</link>
-            <guid isPermaLink="true">https://artlung.com/blog</guid>
-            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
