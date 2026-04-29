@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 00:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 00:25:52 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[noisydeadlines.net]]></title>
+            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
+            <link>https://noisydeadlines.net</link>
+            <guid isPermaLink="true">https://noisydeadlines.net</guid>
+            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.darylsun.page]]></title>
             <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
@@ -1253,18 +1260,11 @@
             <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[muan.co]]></title>
-            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
-            <link>https://muan.co</link>
-            <guid isPermaLink="true">https://muan.co</guid>
-            <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[noisydeadlines.net]]></title>
-            <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
-            <link>https://noisydeadlines.net</link>
-            <guid isPermaLink="true">https://noisydeadlines.net</guid>
-            <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[burgeonlab.com]]></title>
+            <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
+            <link>https://burgeonlab.com</link>
+            <guid isPermaLink="true">https://burgeonlab.com</guid>
+            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
