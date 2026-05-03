@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 00:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 00:24:21 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[burgeonlab.com]]></title>
             <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
@@ -1267,17 +1273,11 @@
             <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[thisvictorianlife.com]]></title>
-            <description><![CDATA[Blog about Victorian era]]></description>
-            <link>http://thisvictorianlife.com</link>
-            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[gerben.dev]]></title>
+            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
+            <link>https://gerben.dev</link>
+            <guid isPermaLink="true">https://gerben.dev</guid>
+            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
