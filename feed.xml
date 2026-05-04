@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 00:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 00:24:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gerben.dev]]></title>
+            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
+            <link>https://gerben.dev</link>
+            <guid isPermaLink="true">https://gerben.dev</guid>
+            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[aaronparecki.com]]></title>
             <link>https://aaronparecki.com</link>
@@ -1266,18 +1273,10 @@
             <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[anderegg.ca]]></title>
-            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
-            <link>https://anderegg.ca</link>
-            <guid isPermaLink="true">https://anderegg.ca</guid>
-            <pubDate>Sat, 01 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gerben.dev]]></title>
-            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
-            <link>https://gerben.dev</link>
-            <guid isPermaLink="true">https://gerben.dev</guid>
-            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[tracydurnell.com]]></title>
+            <link>https://tracydurnell.com</link>
+            <guid isPermaLink="true">https://tracydurnell.com</guid>
+            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
