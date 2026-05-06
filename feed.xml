@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 00:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 00:25:04 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[brennan.day]]></title>
+            <description><![CDATA[An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!]]></description>
+            <link>https://brennan.day</link>
+            <guid isPermaLink="true">https://brennan.day</guid>
+            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tracydurnell.com]]></title>
             <link>https://tracydurnell.com</link>
@@ -1265,18 +1272,11 @@
             <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.darylsun.page]]></title>
-            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
-            <link>https://blog.darylsun.page</link>
-            <guid isPermaLink="true">https://blog.darylsun.page</guid>
-            <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[brennan.day]]></title>
-            <description><![CDATA[An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!]]></description>
-            <link>https://brennan.day</link>
-            <guid isPermaLink="true">https://brennan.day</guid>
-            <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.x-way.org]]></title>
+            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
+            <link>https://blog.x-way.org</link>
+            <guid isPermaLink="true">https://blog.x-way.org</guid>
+            <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
