@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 00:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 00:26:25 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[candost.blog]]></title>
             <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
@@ -1265,18 +1272,11 @@
             <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[garrit.xyz]]></title>
-            <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
-            <link>https://garrit.xyz</link>
-            <guid isPermaLink="true">https://garrit.xyz</guid>
-            <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[zacharykai.net]]></title>
-            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
-            <link>https://zacharykai.net</link>
-            <guid isPermaLink="true">https://zacharykai.net</guid>
-            <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
