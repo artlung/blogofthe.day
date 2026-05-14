@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 00:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 00:30:15 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.bentasker.co.uk]]></title>
+            <description><![CDATA[The personal site of Ben Tasker.]]></description>
+            <link>https://www.bentasker.co.uk</link>
+            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
+            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[dominikhofer.me]]></title>
             <description><![CDATA[Curious. Creative. Coder. That’s me, Dominik :) I like to learn & understand more about the world we live in. While coming up with cool ideas & designing beautiful things. And bringing them to life with fancy symbols.]]></description>
@@ -1266,18 +1273,11 @@
             <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[stfn.pl]]></title>
-            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
-            <link>https://stfn.pl</link>
-            <guid isPermaLink="true">https://stfn.pl</guid>
-            <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
+            <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
+            <link>https://reillyspitzfaden.com/blog</link>
+            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
