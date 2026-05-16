@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 00:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 00:25:50 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[stfn.pl]]></title>
+            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
+            <link>https://stfn.pl</link>
+            <guid isPermaLink="true">https://stfn.pl</guid>
+            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
             <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
@@ -1266,18 +1273,11 @@
             <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[criticalpolyamorist.com]]></title>
-            <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
-            <link>http://criticalpolyamorist.com</link>
-            <guid isPermaLink="true">http://criticalpolyamorist.com</guid>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[stfn.pl]]></title>
-            <description><![CDATA[A blog about computers, tinkering, and sometimes gardening and astrophotography]]></description>
-            <link>https://stfn.pl</link>
-            <guid isPermaLink="true">https://stfn.pl</guid>
-            <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
