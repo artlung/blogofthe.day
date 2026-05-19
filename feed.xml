@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 00:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 00:31:06 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[garrit.xyz]]></title>
+            <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
+            <link>https://garrit.xyz</link>
+            <guid isPermaLink="true">https://garrit.xyz</guid>
+            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[criticalpolyamorist.com]]></title>
             <description><![CDATA[About indigenous, racial, and cultural politics related to open non-monogamy]]></description>
@@ -1266,18 +1273,11 @@
             <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gregorlove.com]]></title>
-            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
-            <link>https://gregorlove.com</link>
-            <guid isPermaLink="true">https://gregorlove.com</guid>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[garrit.xyz]]></title>
-            <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
-            <link>https://garrit.xyz</link>
-            <guid isPermaLink="true">https://garrit.xyz</guid>
-            <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[peterspath.net]]></title>
+            <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
+            <link>https://peterspath.net</link>
+            <guid isPermaLink="true">https://peterspath.net</guid>
+            <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
