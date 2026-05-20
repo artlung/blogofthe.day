@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 00:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 00:31:58 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[peterspath.net]]></title>
+            <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
+            <link>https://peterspath.net</link>
+            <guid isPermaLink="true">https://peterspath.net</guid>
+            <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[garrit.xyz]]></title>
             <description><![CDATA[I'm Garrit, a generalist DevOps Engineer. On my blog, I ramble about software and tech-related topics. Check out my todos if you need inspiration for your next project!]]></description>
@@ -1266,18 +1273,11 @@
             <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[peterspath.net]]></title>
-            <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
-            <link>https://peterspath.net</link>
-            <guid isPermaLink="true">https://peterspath.net</guid>
-            <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
