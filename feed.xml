@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 00:31:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 00:32:10 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mythcreants.com]]></title>
+            <description><![CDATA[Fiction writing]]></description>
+            <link>https://mythcreants.com</link>
+            <guid isPermaLink="true">https://mythcreants.com</guid>
+            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[peterspath.net]]></title>
             <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
@@ -1266,18 +1273,11 @@
             <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mythcreants.com]]></title>
-            <description><![CDATA[Fiction writing]]></description>
-            <link>https://mythcreants.com</link>
-            <guid isPermaLink="true">https://mythcreants.com</guid>
-            <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[roadlessread.com]]></title>
+            <description><![CDATA[Zachary Kai's book blog: with links, recommendations, lists, and esoterica.]]></description>
+            <link>https://roadlessread.com</link>
+            <guid isPermaLink="true">https://roadlessread.com</guid>
+            <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
