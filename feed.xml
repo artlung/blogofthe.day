@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 00:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 00:29:01 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexwlchan.net]]></title>
+            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
+            <link>https://alexwlchan.net</link>
+            <guid isPermaLink="true">https://alexwlchan.net</guid>
+            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[captainawkward.com]]></title>
             <description><![CDATA[Answering questions about social skills]]></description>
@@ -1268,18 +1275,11 @@
             <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[omeratagun.net]]></title>
-            <description><![CDATA[Tech oriented blog]]></description>
-            <link>https://omeratagun.net</link>
-            <guid isPermaLink="true">https://omeratagun.net</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alexwlchan.net]]></title>
-            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
-            <link>https://alexwlchan.net</link>
-            <guid isPermaLink="true">https://alexwlchan.net</guid>
-            <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[blog.rtwilson.com]]></title>
+            <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
+            <link>https://blog.rtwilson.com</link>
+            <guid isPermaLink="true">https://blog.rtwilson.com</guid>
+            <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
