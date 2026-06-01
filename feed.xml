@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 00:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 00:32:38 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
+            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
+            <link>https://blog.helenchong.omg.lol/en/</link>
+            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
+            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[marisabel.nl]]></title>
             <description><![CDATA[A personal garden to make things grow.]]></description>
@@ -1269,17 +1276,11 @@
             <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.maxwelljoslyn.com]]></title>
-            <link>https://www.maxwelljoslyn.com</link>
-            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
-            <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
-            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
-            <link>https://blog.helenchong.omg.lol/en/</link>
-            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
-            <pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
