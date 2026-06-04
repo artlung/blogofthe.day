@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 00:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 00:41:46 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[exch.gr]]></title>
+            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
+            <link>https://exch.gr</link>
+            <guid isPermaLink="true">https://exch.gr</guid>
+            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[marisabel.nl]]></title>
             <description><![CDATA[A personal garden to make things grow.]]></description>
@@ -1269,18 +1276,11 @@
             <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexsirac.com]]></title>
-            <description><![CDATA[A French and English blog that's not about tech.]]></description>
-            <link>https://alexsirac.com</link>
-            <guid isPermaLink="true">https://alexsirac.com</guid>
-            <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[exch.gr]]></title>
-            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
-            <link>https://exch.gr</link>
-            <guid isPermaLink="true">https://exch.gr</guid>
-            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[fredrocha.net/words]]></title>
+            <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
+            <link>https://fredrocha.net/words</link>
+            <guid isPermaLink="true">https://fredrocha.net/words</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
