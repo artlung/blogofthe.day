@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 00:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 00:35:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tantek.com]]></title>
+            <link>https://tantek.com</link>
+            <guid isPermaLink="true">https://tantek.com</guid>
+            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[nineteenteen.blogspot.com]]></title>
             <description><![CDATA[19th century history]]></description>
@@ -1270,17 +1276,11 @@
             <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[yordi.me]]></title>
-            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
-            <link>https://yordi.me</link>
-            <guid isPermaLink="true">https://yordi.me</guid>
-            <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tantek.com]]></title>
-            <link>https://tantek.com</link>
-            <guid isPermaLink="true">https://tantek.com</guid>
-            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[morgan.zoemp.be]]></title>
+            <description><![CDATA[Dad and tech minimalist posting things about automation, privacy, problem solving and passions aka guilty pleasures. from Brussels, Belgium.]]></description>
+            <link>https://morgan.zoemp.be</link>
+            <guid isPermaLink="true">https://morgan.zoemp.be</guid>
+            <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
