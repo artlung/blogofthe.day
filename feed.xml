@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 00:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 00:34:53 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[roadlessread.com]]></title>
+            <description><![CDATA[Zachary Kai's book blog: with links, recommendations, lists, and esoterica.]]></description>
+            <link>https://roadlessread.com</link>
+            <guid isPermaLink="true">https://roadlessread.com</guid>
+            <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[reillyspitzfaden.com/blog]]></title>
             <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
@@ -1270,18 +1277,11 @@
             <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ttntm.me]]></title>
-            <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
-            <link>https://ttntm.me</link>
-            <guid isPermaLink="true">https://ttntm.me</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[roadlessread.com]]></title>
-            <description><![CDATA[Zachary Kai's book blog: with links, recommendations, lists, and esoterica.]]></description>
-            <link>https://roadlessread.com</link>
-            <guid isPermaLink="true">https://roadlessread.com</guid>
-            <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
