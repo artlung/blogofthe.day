@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 00:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 00:37:21 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
+            <description><![CDATA[Ty talks type, travel, and photos]]></description>
+            <link>https://tyfromtheinternet.com/posts</link>
+            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
+            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[asexualagenda.wordpress.com]]></title>
             <description><![CDATA[Multi-author blog about asexuality]]></description>
@@ -1271,18 +1278,10 @@
             <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[reillyspitzfaden.com/blog]]></title>
-            <description><![CDATA[A blog about my personal interests, including composition and sound design; audio programming using Max/MSP, C++/JUCE, Rust, Python, and more; and web development and philosophy on the IndieWeb]]></description>
-            <link>https://reillyspitzfaden.com/blog</link>
-            <guid isPermaLink="true">https://reillyspitzfaden.com/blog</guid>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[lifeofpablo.com]]></title>
+            <link>https://lifeofpablo.com</link>
+            <guid isPermaLink="true">https://lifeofpablo.com</guid>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
