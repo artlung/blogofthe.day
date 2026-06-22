@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 00:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 00:36:15 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sergiswriting.com]]></title>
+            <description><![CDATA[Blog of Sergi Pons Freixes]]></description>
+            <link>https://sergiswriting.com</link>
+            <guid isPermaLink="true">https://sergiswriting.com</guid>
+            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[boffosocko.com]]></title>
             <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
@@ -1270,18 +1277,11 @@
             <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[sloanime.si]]></title>
-            <description><![CDATA[Blog about Slovenian anime scene]]></description>
-            <link>https://sloanime.si</link>
-            <guid isPermaLink="true">https://sloanime.si</guid>
-            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sergiswriting.com]]></title>
-            <description><![CDATA[Blog of Sergi Pons Freixes]]></description>
-            <link>https://sergiswriting.com</link>
-            <guid isPermaLink="true">https://sergiswriting.com</guid>
-            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[ryanlynch.me]]></title>
+            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
+            <link>https://ryanlynch.me</link>
+            <guid isPermaLink="true">https://ryanlynch.me</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
