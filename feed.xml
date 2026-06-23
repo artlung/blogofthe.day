@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 00:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 00:33:42 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ryanlynch.me]]></title>
+            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
+            <link>https://ryanlynch.me</link>
+            <guid isPermaLink="true">https://ryanlynch.me</guid>
+            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[sergiswriting.com]]></title>
             <description><![CDATA[Blog of Sergi Pons Freixes]]></description>
@@ -1270,18 +1277,11 @@
             <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ttntm.me]]></title>
-            <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
-            <link>https://ttntm.me</link>
-            <guid isPermaLink="true">https://ttntm.me</guid>
-            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ryanlynch.me]]></title>
-            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
-            <link>https://ryanlynch.me</link>
-            <guid isPermaLink="true">https://ryanlynch.me</guid>
-            <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
