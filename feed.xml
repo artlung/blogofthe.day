@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 00:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 00:34:29 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.x-way.org]]></title>
+            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
+            <link>https://blog.x-way.org</link>
+            <guid isPermaLink="true">https://blog.x-way.org</guid>
+            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ttntm.me]]></title>
             <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
@@ -1270,18 +1277,11 @@
             <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gregorlove.com]]></title>
-            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
-            <link>https://gregorlove.com</link>
-            <guid isPermaLink="true">https://gregorlove.com</guid>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.x-way.org]]></title>
-            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
-            <link>https://blog.x-way.org</link>
-            <guid isPermaLink="true">https://blog.x-way.org</guid>
-            <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[veronique.ink]]></title>
+            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
+            <link>https://veronique.ink</link>
+            <guid isPermaLink="true">https://veronique.ink</guid>
+            <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
