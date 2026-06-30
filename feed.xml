@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 00:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 00:32:17 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[thisvictorianlife.com]]></title>
+            <description><![CDATA[Blog about Victorian era]]></description>
+            <link>http://thisvictorianlife.com</link>
+            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
+            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[anderegg.ca]]></title>
             <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
@@ -1270,18 +1277,11 @@
             <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.anildash.com]]></title>
-            <description><![CDATA[A blog about making culture. Since 1999.]]></description>
-            <link>https://www.anildash.com</link>
-            <guid isPermaLink="true">https://www.anildash.com</guid>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thisvictorianlife.com]]></title>
-            <description><![CDATA[Blog about Victorian era]]></description>
-            <link>http://thisvictorianlife.com</link>
-            <guid isPermaLink="true">http://thisvictorianlife.com</guid>
-            <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[bbbhltz.codeberg.page]]></title>
+            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
+            <link>https://bbbhltz.codeberg.page</link>
+            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
+            <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
