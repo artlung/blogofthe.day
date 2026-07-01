@@ -91,7 +91,8 @@
     "yusuf.fyi",
     "toninotes.cc",
     "fnhipster.com",
-    "fullmetalbrackets.com"
+    "fullmetalbrackets.com",
+    "www.dpanphoto.com"
   ],
   "descriptions": {
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
@@ -186,6 +187,7 @@
     "yusuf.fyi": "Yusuf blogs about computers, relationships and the free web.",
     "toninotes.cc": "A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.",
     "fnhipster.com": "The chronicles of a webmaster: a stream of consciousness on technology, creativity, and a random series of events.",
-    "fullmetalbrackets.com": "A blog about self-hosting, Linux, Docker, and other tech things."
+    "fullmetalbrackets.com": "A blog about self-hosting, Linux, Docker, and other tech things.",
+    "www.dpanphoto.com": "This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)"
   }
 }
