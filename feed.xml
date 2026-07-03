@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 00:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 00:28:06 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.dpanphoto.com]]></title>
+            <description><![CDATA[This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)]]></description>
+            <link>https://www.dpanphoto.com</link>
+            <guid isPermaLink="true">https://www.dpanphoto.com</guid>
+            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[noisydeadlines.net]]></title>
             <description><![CDATA["I love deadlines. I like the whooshing sound they make as they fly by." - Douglas Adams]]></description>
@@ -1284,11 +1291,11 @@
             <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.dpanphoto.com]]></title>
-            <description><![CDATA[This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)]]></description>
-            <link>https://www.dpanphoto.com</link>
-            <guid isPermaLink="true">https://www.dpanphoto.com</guid>
-            <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[fnhipster.com]]></title>
+            <description><![CDATA[The chronicles of a webmaster: a stream of consciousness on technology, creativity, and a random series of events.]]></description>
+            <link>https://fnhipster.com</link>
+            <guid isPermaLink="true">https://fnhipster.com</guid>
+            <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
