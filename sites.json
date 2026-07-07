@@ -1,5 +1,6 @@
 {
   "blogs": [
+    "loucheleaves.com",
     "joelchrono.xyz",
     "fredrocha.net/words",
     "www.cboxes.icu",
@@ -95,6 +96,7 @@
     "www.dpanphoto.com"
   ],
   "descriptions": {
+    "loucheleaves.com": "An irregular journal of Thoughts, Stories, Ideas, and Recollections.",
     "joelchrono.xyz": "Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.",
     "fredrocha.net/words": "Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.",
     "www.cboxes.icu": "A photography blog",
