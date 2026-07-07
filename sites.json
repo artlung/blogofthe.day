@@ -93,7 +93,8 @@
     "toninotes.cc",
     "fnhipster.com",
     "fullmetalbrackets.com",
-    "www.dpanphoto.com"
+    "www.dpanphoto.com",
+    "abmurrow.com"
   ],
   "descriptions": {
     "loucheleaves.com": "An irregular journal of Thoughts, Stories, Ideas, and Recollections.",
@@ -190,6 +191,7 @@
     "toninotes.cc": "A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.",
     "fnhipster.com": "The chronicles of a webmaster: a stream of consciousness on technology, creativity, and a random series of events.",
     "fullmetalbrackets.com": "A blog about self-hosting, Linux, Docker, and other tech things.",
-    "www.dpanphoto.com": "This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)"
+    "www.dpanphoto.com": "This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)",
+    "abmurrow.com": "Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!"
   }
 }
