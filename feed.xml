@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 00:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 00:24:05 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexwlchan.net]]></title>
+            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
+            <link>https://alexwlchan.net</link>
+            <guid isPermaLink="true">https://alexwlchan.net</guid>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[rebeccatoh.co]]></title>
             <description><![CDATA[My name is Rebecca and I am a photographer, writer, book-lover and aspiring time-traveler. Welcome to my blog and have a good day!]]></description>
@@ -1291,11 +1298,11 @@
             <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[alexwlchan.net]]></title>
-            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
-            <link>https://alexwlchan.net</link>
-            <guid isPermaLink="true">https://alexwlchan.net</guid>
-            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[abmurrow.com]]></title>
+            <description><![CDATA[Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!]]></description>
+            <link>https://abmurrow.com</link>
+            <guid isPermaLink="true">https://abmurrow.com</guid>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
