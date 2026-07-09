@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 00:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 00:27:40 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[abmurrow.com]]></title>
+            <description><![CDATA[Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!]]></description>
+            <link>https://abmurrow.com</link>
+            <guid isPermaLink="true">https://abmurrow.com</guid>
+            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[alexwlchan.net]]></title>
             <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
@@ -1298,11 +1305,11 @@
             <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[abmurrow.com]]></title>
-            <description><![CDATA[Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!]]></description>
-            <link>https://abmurrow.com</link>
-            <guid isPermaLink="true">https://abmurrow.com</guid>
-            <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[loucheleaves.com]]></title>
+            <description><![CDATA[An irregular journal of Thoughts, Stories, Ideas, and Recollections.]]></description>
+            <link>https://loucheleaves.com</link>
+            <guid isPermaLink="true">https://loucheleaves.com</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
