@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 00:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 00:28:45 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[loucheleaves.com]]></title>
+            <description><![CDATA[An irregular journal of Thoughts, Stories, Ideas, and Recollections.]]></description>
+            <link>https://loucheleaves.com</link>
+            <guid isPermaLink="true">https://loucheleaves.com</guid>
+            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[abmurrow.com]]></title>
             <description><![CDATA[Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!]]></description>
@@ -1305,11 +1312,10 @@
             <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[loucheleaves.com]]></title>
-            <description><![CDATA[An irregular journal of Thoughts, Stories, Ideas, and Recollections.]]></description>
-            <link>https://loucheleaves.com</link>
-            <guid isPermaLink="true">https://loucheleaves.com</guid>
-            <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[aaronparecki.com]]></title>
+            <link>https://aaronparecki.com</link>
+            <guid isPermaLink="true">https://aaronparecki.com</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
