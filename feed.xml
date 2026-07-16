@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 00:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jul 2026 00:22:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[far.chickenkiller.com]]></title>
+            <description><![CDATA[English blog of a Muslim, a FOSS Developer, a Wikipedian, and a nerdy nerdful nerd playing Luanti CTF all the time]]></description>
+            <link>https://far.chickenkiller.com</link>
+            <guid isPermaLink="true">https://far.chickenkiller.com</guid>
+            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
             <description><![CDATA[The Artist’s Notebook]]></description>
@@ -1325,11 +1332,10 @@
             <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[far.chickenkiller.com]]></title>
-            <description><![CDATA[English blog of a Muslim, a FOSS Developer, a Wikipedian, and a nerdy nerdful nerd playing Luanti CTF all the time]]></description>
-            <link>https://far.chickenkiller.com</link>
-            <guid isPermaLink="true">https://far.chickenkiller.com</guid>
-            <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.maxwelljoslyn.com]]></title>
+            <link>https://www.maxwelljoslyn.com</link>
+            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
