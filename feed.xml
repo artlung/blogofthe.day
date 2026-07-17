@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jul 2026 00:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 00:23:59 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.maxwelljoslyn.com]]></title>
+            <link>https://www.maxwelljoslyn.com</link>
+            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
+            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[far.chickenkiller.com]]></title>
             <description><![CDATA[English blog of a Muslim, a FOSS Developer, a Wikipedian, and a nerdy nerdful nerd playing Luanti CTF all the time]]></description>
@@ -1325,17 +1331,11 @@
             <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[jamesg.blog]]></title>
-            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
-            <link>https://jamesg.blog</link>
-            <guid isPermaLink="true">https://jamesg.blog</guid>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.maxwelljoslyn.com]]></title>
-            <link>https://www.maxwelljoslyn.com</link>
-            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
-            <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[zacharykai.net]]></title>
+            <description><![CDATA[Hi! I'm Zachary Kai. Avowed generalist, space fantasy writer, zinester, offbeat queer, and world traveler.]]></description>
+            <link>https://zacharykai.net</link>
+            <guid isPermaLink="true">https://zacharykai.net</guid>
+            <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
