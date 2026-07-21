@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 02:58:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 00:23:53 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[one-from-nippon.ghost.io]]></title>
+            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
+            <link>https://one-from-nippon.ghost.io</link>
+            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
+            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[lunaseeker.com]]></title>
             <description><![CDATA[Zachary Kai's independent press: posts on zine-making, creativity, community, and fun.]]></description>
@@ -1324,18 +1331,11 @@
             <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tyfromtheinternet.com/posts]]></title>
-            <description><![CDATA[Ty talks type, travel, and photos]]></description>
-            <link>https://tyfromtheinternet.com/posts</link>
-            <guid isPermaLink="true">https://tyfromtheinternet.com/posts</guid>
-            <pubDate>Sat, 10 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[one-from-nippon.ghost.io]]></title>
-            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
-            <link>https://one-from-nippon.ghost.io</link>
-            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
-            <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[boffosocko.com]]></title>
+            <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
+            <link>https://boffosocko.com</link>
+            <guid isPermaLink="true">https://boffosocko.com</guid>
+            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
