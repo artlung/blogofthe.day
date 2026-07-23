@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jul 2026 00:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 00:24:17 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[yusuf.fyi]]></title>
+            <description><![CDATA[Yusuf blogs about computers, relationships and the free web.]]></description>
+            <link>https://yusuf.fyi</link>
+            <guid isPermaLink="true">https://yusuf.fyi</guid>
+            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[boffosocko.com]]></title>
             <description><![CDATA[A digital commonplace book on education, IndieWeb, mathematics, information theory, biology, history, economics, humanities, note taking & related topics.]]></description>
@@ -1325,17 +1332,11 @@
             <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.maxwelljoslyn.com]]></title>
-            <link>https://www.maxwelljoslyn.com</link>
-            <guid isPermaLink="true">https://www.maxwelljoslyn.com</guid>
-            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[yusuf.fyi]]></title>
-            <description><![CDATA[Yusuf blogs about computers, relationships and the free web.]]></description>
-            <link>https://yusuf.fyi</link>
-            <guid isPermaLink="true">https://yusuf.fyi</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[gkeenan.co/avgb/]]></title>
+            <description><![CDATA[A Very Good Blog by me, your friend, Keenan.]]></description>
+            <link>https://gkeenan.co/avgb/</link>
+            <guid isPermaLink="true">https://gkeenan.co/avgb/</guid>
+            <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
