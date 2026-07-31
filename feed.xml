@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 00:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 00:25:19 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[alexwlchan.net]]></title>
+            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
+            <link>https://alexwlchan.net</link>
+            <guid isPermaLink="true">https://alexwlchan.net</guid>
+            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[artlung.com/blog]]></title>
             <link>https://artlung.com/blog</link>
@@ -1322,18 +1329,11 @@
             <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ialja.com]]></title>
-            <description><![CDATA[About responsible tech]]></description>
-            <link>https://ialja.com</link>
-            <guid isPermaLink="true">https://ialja.com</guid>
-            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[alexwlchan.net]]></title>
-            <description><![CDATA[Hi, I’m Alex. I’m a software developer, writer, and hand crafter from the UK.]]></description>
-            <link>https://alexwlchan.net</link>
-            <guid isPermaLink="true">https://alexwlchan.net</guid>
-            <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[going-medieval.com]]></title>
+            <description><![CDATA[Medieval history]]></description>
+            <link>https://going-medieval.com</link>
+            <guid isPermaLink="true">https://going-medieval.com</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
