@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 00:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 00:24:56 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[acearo.at]]></title>
+            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
+            <link>https://acearo.at</link>
+            <guid isPermaLink="true">https://acearo.at</guid>
+            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[glycerinequeenmedia.com]]></title>
             <description><![CDATA[Queer and other stuff]]></description>
@@ -1322,18 +1329,11 @@
             <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[brennan.day]]></title>
-            <description><![CDATA[An a11y-friendly 11ty site by Queer Métis author and FOSS web developer Brennan Kenneth Brown. Writings about tech, culture, and many other such things!]]></description>
-            <link>https://brennan.day</link>
-            <guid isPermaLink="true">https://brennan.day</guid>
-            <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[acearo.at]]></title>
-            <description><![CDATA[Austrian asexual and aromantic oriented blog]]></description>
-            <link>https://acearo.at</link>
-            <guid isPermaLink="true">https://acearo.at</guid>
-            <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[lifeofpablo.com/blog]]></title>
+            <description><![CDATA[Blog]]></description>
+            <link>https://lifeofpablo.com/blog</link>
+            <guid isPermaLink="true">https://lifeofpablo.com/blog</guid>
+            <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
