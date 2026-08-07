@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 01:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 02:10:11 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.x-way.org]]></title>
+            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
+            <link>https://blog.x-way.org</link>
+            <guid isPermaLink="true">https://blog.x-way.org</guid>
+            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[maggieappleton.com]]></title>
             <description><![CDATA[Maggie makes visual essays about programming, design, and anthropology.]]></description>
@@ -1322,18 +1329,11 @@
             <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[one-from-nippon.ghost.io]]></title>
-            <description><![CDATA[Explore the Japan you've never heard of.]]></description>
-            <link>https://one-from-nippon.ghost.io</link>
-            <guid isPermaLink="true">https://one-from-nippon.ghost.io</guid>
-            <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.x-way.org]]></title>
-            <description><![CDATA[x-log - personal weblog of Andreas Jaggi]]></description>
-            <link>https://blog.x-way.org</link>
-            <guid isPermaLink="true">https://blog.x-way.org</guid>
-            <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[jamesg.blog]]></title>
+            <description><![CDATA[Hello! Привіт! I'm James (/d͡ʒeɪmz/) (also capjamesg). My pronouns are he/him/his. I live in Scotland. This is my blog.]]></description>
+            <link>https://jamesg.blog</link>
+            <guid isPermaLink="true">https://jamesg.blog</guid>
+            <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
