@@ -24,5 +24,8 @@
     "cheerio": "^1.0.0-rc.12",
     "node-fetch": "^3.3.2",
     "rss": "^1.2.2"
+  },
+  "allowScripts": {
+    "fsevents@2.3.3": true
   }
 }
