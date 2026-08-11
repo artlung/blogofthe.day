@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Aug 2026 01:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 01:02:28 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[chris-besch.com]]></title>
+            <description><![CDATA[Into tinkering, sharing knowledge and experiences; mostly Open-Source tech and photography.]]></description>
+            <link>https://chris-besch.com</link>
+            <guid isPermaLink="true">https://chris-besch.com</guid>
+            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[matuzo.at]]></title>
             <description><![CDATA[HTML, CSS and accesibility]]></description>
@@ -1336,11 +1343,11 @@
             <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[chris-besch.com]]></title>
-            <description><![CDATA[Into tinkering, sharing knowledge and experiences; mostly Open-Source tech and photography.]]></description>
-            <link>https://chris-besch.com</link>
-            <guid isPermaLink="true">https://chris-besch.com</guid>
-            <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[george-lakoff.com]]></title>
+            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
+            <link>https://george-lakoff.com</link>
+            <guid isPermaLink="true">https://george-lakoff.com</guid>
+            <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
