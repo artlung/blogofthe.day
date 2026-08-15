@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 01:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 00:42:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ttntm.me]]></title>
+            <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
+            <link>https://ttntm.me</link>
+            <guid isPermaLink="true">https://ttntm.me</guid>
+            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[omeratagun.net]]></title>
             <description><![CDATA[Tech oriented blog]]></description>
@@ -1336,18 +1343,11 @@
             <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[notes.jeddacp.com]]></title>
-            <description><![CDATA[This blog is for my longer form thoughts, notes, and other things that pop into my head. It will probably also include ramblings, scribbles, and whatever else I can think of.]]></description>
-            <link>https://notes.jeddacp.com</link>
-            <guid isPermaLink="true">https://notes.jeddacp.com</guid>
-            <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ttntm.me]]></title>
-            <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
-            <link>https://ttntm.me</link>
-            <guid isPermaLink="true">https://ttntm.me</guid>
-            <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
