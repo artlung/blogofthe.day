@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 00:42:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 00:44:12 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ttntm.me]]></title>
             <description><![CDATA[Tom's homepage. A personal website, journal and playground.]]></description>
@@ -1336,18 +1343,10 @@
             <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[peterspath.net]]></title>
-            <description><![CDATA[Peter's Path is my personal endeavour to live a life of purpose through hiking, walking, and embracing the beauty of nature, faith, and ideas.]]></description>
-            <link>https://peterspath.net</link>
-            <guid isPermaLink="true">https://peterspath.net</guid>
-            <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[lifeofpablo.com]]></title>
+            <link>https://lifeofpablo.com</link>
+            <guid isPermaLink="true">https://lifeofpablo.com</guid>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
