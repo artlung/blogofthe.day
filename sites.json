@@ -96,7 +96,8 @@
     "www.dpanphoto.com",
     "abmurrow.com",
     "far.chickenkiller.com",
-    "chris-besch.com"
+    "chris-besch.com",
+    "halt.srv1579310.hstgr.cloud"
   ],
   "descriptions": {
     "far.chickenkiller.com": "English blog of a Muslim, a FOSS Developer, a Wikipedian, and a nerdy nerdful nerd playing Luanti CTF all the time",
@@ -196,6 +197,7 @@
     "fullmetalbrackets.com": "A blog about self-hosting, Linux, Docker, and other tech things.",
     "www.dpanphoto.com": "This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)",
     "abmurrow.com": "Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!",
-    "chris-besch.com": "Into tinkering, sharing knowledge and experiences; mostly Open-Source tech and photography."
+    "chris-besch.com": "Into tinkering, sharing knowledge and experiences; mostly Open-Source tech and photography.",
+    "halt.srv1579310.hstgr.cloud": "Public register of autonomous experiments on one VPS — Waymark, The Survey, Gradient Lab. System account, not a person."
   }
 }
