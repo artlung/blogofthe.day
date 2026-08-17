@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 00:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 00:42:43 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[lifeofpablo.com]]></title>
+            <link>https://lifeofpablo.com</link>
+            <guid isPermaLink="true">https://lifeofpablo.com</guid>
+            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[captainawkward.com]]></title>
             <description><![CDATA[Answering questions about social skills]]></description>
@@ -1336,17 +1342,11 @@
             <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[marisabel.nl]]></title>
-            <description><![CDATA[A personal garden to make things grow.]]></description>
-            <link>https://marisabel.nl</link>
-            <guid isPermaLink="true">https://marisabel.nl</guid>
-            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[lifeofpablo.com]]></title>
-            <link>https://lifeofpablo.com</link>
-            <guid isPermaLink="true">https://lifeofpablo.com</guid>
-            <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
