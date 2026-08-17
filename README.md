@@ -17,6 +17,10 @@ This project is licensed under an [MIT license](LICENSE).
 
 Want to add your site to blogofthe.day? Fork this repository and add your site to "blogs" value in `sites.json` file and file a pull request. You could also send a webmention (like, comment, whatever) to <a href="https://artlung.com/blogofthe-day/">artlung.com/blogofthe-day/</a> from your website. Questions about webmentions? See <a href="https://indieweb.org/Webmention">indieweb.org/Webmention</a>. 
 
+## "LLM" and "AI" Contributions
+
+Blog of the .Day is intended for the creative outputs and voices of human beings. Automated posting and output generated without primarily human effort is not welcome.
+
 ## Acknowledgements
 
 The `<browser-window>` web component used in this guide was developed by [Zach Leatherman](https://www.zachleat.com/web/browser-window/).
