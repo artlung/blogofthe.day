@@ -19,7 +19,7 @@ Want to add your site to blogofthe.day? Fork this repository and add your site t
 
 ## "LLM" and "AI" Contributions
 
-Blog of the .Day is intended for the creative outputs and voices of human beings. Automated posting or other sites are not welcome.
+Blog of the .Day is intended for the creative outputs and voices of human beings. Automated posting and output generated without primarily human effort is not welcome.
 
 ## Acknowledgements
 
