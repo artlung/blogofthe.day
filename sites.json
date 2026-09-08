@@ -98,7 +98,8 @@
     "far.chickenkiller.com",
     "chris-besch.com",
     "nelson.cloud",
-    "thamara.co.uk"
+    "thamara.co.uk",
+    "arielsym.blog"
   ],
   "descriptions": {
     "far.chickenkiller.com": "English blog of a Muslim, a FOSS Developer, a Wikipedian, and a nerdy nerdful nerd playing Luanti CTF all the time",
@@ -200,6 +201,7 @@
     "abmurrow.com": "Blog of a web developer, open source contributor, and experimental poetry enthusiast. Sometimes technical, sometimes personal. Always recipes!",
     "chris-besch.com": "Into tinkering, sharing knowledge and experiences; mostly Open-Source tech and photography.",
     "nelson.cloud": "Personal site of Nelson Figueroa. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.",
-    "thamara.co.uk": "The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history."
+    "thamara.co.uk": "The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history.",
+    "arielsym.blog": "I'm a writer and I like to write."
   }
 }
