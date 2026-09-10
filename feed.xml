@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 02:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 02:15:08 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[arielsym.blog]]></title>
+            <description><![CDATA[I'm a writer and I like to write.]]></description>
+            <link>https://arielsym.blog</link>
+            <guid isPermaLink="true">https://arielsym.blog</guid>
+            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[captainawkward.com]]></title>
             <description><![CDATA[Answering questions about social skills]]></description>
@@ -1379,11 +1386,11 @@
             <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[arielsym.blog]]></title>
-            <description><![CDATA[I'm a writer and I like to write.]]></description>
-            <link>https://arielsym.blog</link>
-            <guid isPermaLink="true">https://arielsym.blog</guid>
-            <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[thamara.co.uk]]></title>
+            <description><![CDATA[The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history.]]></description>
+            <link>https://thamara.co.uk</link>
+            <guid isPermaLink="true">https://thamara.co.uk</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
