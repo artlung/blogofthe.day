@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 02:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 02:11:10 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[thamara.co.uk]]></title>
+            <description><![CDATA[The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history.]]></description>
+            <link>https://thamara.co.uk</link>
+            <guid isPermaLink="true">https://thamara.co.uk</guid>
+            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[arielsym.blog]]></title>
             <description><![CDATA[I'm a writer and I like to write.]]></description>
@@ -1379,18 +1386,11 @@
             <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ryanlynch.me]]></title>
-            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
-            <link>https://ryanlynch.me</link>
-            <guid isPermaLink="true">https://ryanlynch.me</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[thamara.co.uk]]></title>
-            <description><![CDATA[The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history.]]></description>
-            <link>https://thamara.co.uk</link>
-            <guid isPermaLink="true">https://thamara.co.uk</guid>
-            <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[gregorlove.com]]></title>
+            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
+            <link>https://gregorlove.com</link>
+            <guid isPermaLink="true">https://gregorlove.com</guid>
+            <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
