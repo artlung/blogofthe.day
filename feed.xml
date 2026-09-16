@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 02:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 02:30:47 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[veronique.ink]]></title>
+            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
+            <link>https://veronique.ink</link>
+            <guid isPermaLink="true">https://veronique.ink</guid>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[loucheleaves.com]]></title>
             <description><![CDATA[An irregular journal of Thoughts, Stories, Ideas, and Recollections.]]></description>
@@ -1379,18 +1386,11 @@
             <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[bobbyhiltz.com]]></title>
-            <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
-            <link>https://bobbyhiltz.com</link>
-            <guid isPermaLink="true">https://bobbyhiltz.com</guid>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[veronique.ink]]></title>
-            <description><![CDATA[Welcome to my tiny home on the web, where I share my art process and things I'm thinking about.]]></description>
-            <link>https://veronique.ink</link>
-            <guid isPermaLink="true">https://veronique.ink</guid>
-            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[joelchrono.xyz]]></title>
+            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
+            <link>https://joelchrono.xyz</link>
+            <guid isPermaLink="true">https://joelchrono.xyz</guid>
+            <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
