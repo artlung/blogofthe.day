@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 02:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 02:20:34 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[eklausmeier.goip.de]]></title>
+            <description><![CDATA[Elmar Klausmeier's Blog on Computers, Programming, and Mathematics]]></description>
+            <link>https://eklausmeier.goip.de</link>
+            <guid isPermaLink="true">https://eklausmeier.goip.de</guid>
+            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[joelchrono.xyz]]></title>
             <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[asexualagenda.wordpress.com]]></title>
-            <description><![CDATA[Multi-author blog about asexuality]]></description>
-            <link>https://asexualagenda.wordpress.com</link>
-            <guid isPermaLink="true">https://asexualagenda.wordpress.com</guid>
-            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[eklausmeier.goip.de]]></title>
-            <description><![CDATA[Elmar Klausmeier's Blog on Computers, Programming, and Mathematics]]></description>
-            <link>https://eklausmeier.goip.de</link>
-            <guid isPermaLink="true">https://eklausmeier.goip.de</guid>
-            <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[captainawkward.com]]></title>
+            <description><![CDATA[Answering questions about social skills]]></description>
+            <link>https://captainawkward.com</link>
+            <guid isPermaLink="true">https://captainawkward.com</guid>
+            <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
