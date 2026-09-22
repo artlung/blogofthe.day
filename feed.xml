@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 02:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 02:32:46 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[rknight.me/blog/]]></title>
+            <description><![CDATA[A blog by Robb Knight]]></description>
+            <link>https://rknight.me/blog/</link>
+            <guid isPermaLink="true">https://rknight.me/blog/</guid>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[captainawkward.com]]></title>
             <description><![CDATA[Answering questions about social skills]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
-            <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
-            <link>https://blog.helenchong.omg.lol/en/</link>
-            <guid isPermaLink="true">https://blog.helenchong.omg.lol/en/</guid>
-            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[rknight.me/blog/]]></title>
-            <description><![CDATA[A blog by Robb Knight]]></description>
-            <link>https://rknight.me/blog/</link>
-            <guid isPermaLink="true">https://rknight.me/blog/</guid>
-            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[schafe-sind-bessere-rasenmaeher.de]]></title>
+            <description><![CDATA[A little bit of everything, mostly tech and videogames, but also some mindfulness, random thoughts and every now and then a short story.]]></description>
+            <link>https://schafe-sind-bessere-rasenmaeher.de</link>
+            <guid isPermaLink="true">https://schafe-sind-bessere-rasenmaeher.de</guid>
+            <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
