@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 02:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 02:38:29 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[benji.dog]]></title>
+            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
+            <link>https://benji.dog</link>
+            <guid isPermaLink="true">https://benji.dog</guid>
+            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[burgeonlab.com]]></title>
             <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[benji.dog]]></title>
-            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
-            <link>https://benji.dog</link>
-            <guid isPermaLink="true">https://benji.dog</guid>
-            <pubDate>Mon, 09 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[benji.dog]]></title>
-            <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
-            <link>https://benji.dog</link>
-            <guid isPermaLink="true">https://benji.dog</guid>
-            <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[fullmetalbrackets.com]]></title>
+            <description><![CDATA[A blog about self-hosting, Linux, Docker, and other tech things.]]></description>
+            <link>https://fullmetalbrackets.com</link>
+            <guid isPermaLink="true">https://fullmetalbrackets.com</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
