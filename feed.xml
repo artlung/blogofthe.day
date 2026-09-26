@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 02:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 02:41:14 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[fullmetalbrackets.com]]></title>
+            <description><![CDATA[A blog about self-hosting, Linux, Docker, and other tech things.]]></description>
+            <link>https://fullmetalbrackets.com</link>
+            <guid isPermaLink="true">https://fullmetalbrackets.com</guid>
+            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[benji.dog]]></title>
             <description><![CDATA[🇪🇨 benji. not the dog.]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Wed, 11 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[fullmetalbrackets.com]]></title>
-            <description><![CDATA[A blog about self-hosting, Linux, Docker, and other tech things.]]></description>
-            <link>https://fullmetalbrackets.com</link>
-            <guid isPermaLink="true">https://fullmetalbrackets.com</guid>
-            <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[gregorlove.com]]></title>
+            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
+            <link>https://gregorlove.com</link>
+            <guid isPermaLink="true">https://gregorlove.com</guid>
+            <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
