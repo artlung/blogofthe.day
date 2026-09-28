@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 02:41:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 02:43:25 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[katetattersall.com]]></title>
+            <description><![CDATA[Victorian secret service blog]]></description>
+            <link>http://katetattersall.com</link>
+            <guid isPermaLink="true">http://katetattersall.com</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gregorlove.com]]></title>
             <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Fri, 13 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[bobbyhiltz.com]]></title>
-            <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
-            <link>https://bobbyhiltz.com</link>
-            <guid isPermaLink="true">https://bobbyhiltz.com</guid>
-            <pubDate>Thu, 12 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[katetattersall.com]]></title>
-            <description><![CDATA[Victorian secret service blog]]></description>
-            <link>http://katetattersall.com</link>
-            <guid isPermaLink="true">http://katetattersall.com</guid>
-            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
