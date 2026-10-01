@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 03:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 03:15:27 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[joshmuller.ca]]></title>
+            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
+            <link>https://joshmuller.ca</link>
+            <guid isPermaLink="true">https://joshmuller.ca</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bobbyhiltz.com]]></title>
             <description><![CDATA[Bobby Hiltz is an English teacher that occasionally writes about different subjects that interest me (technology, education, games, guides)]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[www.bentasker.co.uk]]></title>
-            <description><![CDATA[The personal site of Ben Tasker.]]></description>
-            <link>https://www.bentasker.co.uk</link>
-            <guid isPermaLink="true">https://www.bentasker.co.uk</guid>
-            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[joshmuller.ca]]></title>
-            <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
-            <link>https://joshmuller.ca</link>
-            <guid isPermaLink="true">https://joshmuller.ca</guid>
-            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[ryanlynch.me]]></title>
+            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
+            <link>https://ryanlynch.me</link>
+            <guid isPermaLink="true">https://ryanlynch.me</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
