@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 03:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 03:16:12 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ryanlynch.me]]></title>
+            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
+            <link>https://ryanlynch.me</link>
+            <guid isPermaLink="true">https://ryanlynch.me</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[joshmuller.ca]]></title>
             <description><![CDATA[Hi! I'm Josh Müller!👋🏻 I'm a Canadian living in Colombia. I write about tech, well-being, and making the world a better place!]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[toninotes.cc]]></title>
-            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
-            <link>https://toninotes.cc</link>
-            <guid isPermaLink="true">https://toninotes.cc</guid>
-            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ryanlynch.me]]></title>
-            <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
-            <link>https://ryanlynch.me</link>
-            <guid isPermaLink="true">https://ryanlynch.me</guid>
-            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[eklausmeier.goip.de]]></title>
+            <description><![CDATA[Elmar Klausmeier's Blog on Computers, Programming, and Mathematics]]></description>
+            <link>https://eklausmeier.goip.de</link>
+            <guid isPermaLink="true">https://eklausmeier.goip.de</guid>
+            <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
