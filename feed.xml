@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Oct 2026 03:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Oct 2026 03:59:52 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[www.dpanphoto.com]]></title>
+            <description><![CDATA[This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)]]></description>
+            <link>https://www.dpanphoto.com</link>
+            <guid isPermaLink="true">https://www.dpanphoto.com</guid>
+            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[muan.co]]></title>
             <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[muan.co]]></title>
-            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
-            <link>https://muan.co</link>
-            <guid isPermaLink="true">https://muan.co</guid>
-            <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[www.dpanphoto.com]]></title>
-            <description><![CDATA[This is dpanphoto, my photography website where I share daily photos and human art. sometimes nonsense. :-)]]></description>
-            <link>https://www.dpanphoto.com</link>
-            <guid isPermaLink="true">https://www.dpanphoto.com</guid>
-            <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[kiko.io]]></title>
+            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
+            <link>https://kiko.io</link>
+            <guid isPermaLink="true">https://kiko.io</guid>
+            <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
