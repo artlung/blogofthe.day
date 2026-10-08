@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 03:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 03:41:52 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pcarrier.com]]></title>
+            <description><![CDATA[Personal website and forest of links]]></description>
+            <link>https://pcarrier.com</link>
+            <guid isPermaLink="true">https://pcarrier.com</guid>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[kiko.io]]></title>
             <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[mikebell.io]]></title>
-            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
-            <link>https://mikebell.io</link>
-            <guid isPermaLink="true">https://mikebell.io</guid>
-            <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[pcarrier.com]]></title>
-            <description><![CDATA[Personal website and forest of links]]></description>
-            <link>https://pcarrier.com</link>
-            <guid isPermaLink="true">https://pcarrier.com</guid>
-            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
+            <description><![CDATA[The Artist’s Notebook]]></description>
+            <link>https://www.lazaruscorporation.co.uk/blogs/artists-notebook</link>
+            <guid isPermaLink="true">https://www.lazaruscorporation.co.uk/blogs/artists-notebook</guid>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
