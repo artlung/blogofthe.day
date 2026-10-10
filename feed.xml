@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 03:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 03:30:17 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[mikebell.io]]></title>
+            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
+            <link>https://mikebell.io</link>
+            <guid isPermaLink="true">https://mikebell.io</guid>
+            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.lazaruscorporation.co.uk/blogs/artists-notebook]]></title>
             <description><![CDATA[The Artist’s Notebook]]></description>
@@ -1380,18 +1387,11 @@
             <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[hamatti.org/blog]]></title>
-            <description><![CDATA[A blog about technology, communities and life with weekly posts.]]></description>
-            <link>https://hamatti.org/blog</link>
-            <guid isPermaLink="true">https://hamatti.org/blog</guid>
-            <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mikebell.io]]></title>
-            <description><![CDATA[Mike Bell - Blog & Stuff, ramblings on tech, homelabs and geeky things. Remote DevOps engineer based in Manchester, UK.]]></description>
-            <link>https://mikebell.io</link>
-            <guid isPermaLink="true">https://mikebell.io</guid>
-            <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[yordi.me]]></title>
+            <description><![CDATA[My name is Yordi Verkroost, a computer science teacher and athletics coach.]]></description>
+            <link>https://yordi.me</link>
+            <guid isPermaLink="true">https://yordi.me</guid>
+            <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
