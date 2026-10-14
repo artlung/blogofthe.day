@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 04:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 00:34:41 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bbbhltz.codeberg.page]]></title>
             <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
@@ -1387,10 +1393,11 @@
             <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[artlung.com/blog]]></title>
-            <link>https://artlung.com/blog</link>
-            <guid isPermaLink="true">https://artlung.com/blog</guid>
-            <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[theheirloomhistorian.com]]></title>
+            <description><![CDATA[Sometimes a part of who we are can be found in what we keep and what we leave behind…]]></description>
+            <link>https://theheirloomhistorian.com</link>
+            <guid isPermaLink="true">https://theheirloomhistorian.com</guid>
+            <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
