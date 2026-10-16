@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 00:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 00:11:18 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gregorlove.com]]></title>
+            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
+            <link>https://gregorlove.com</link>
+            <guid isPermaLink="true">https://gregorlove.com</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[theheirloomhistorian.com]]></title>
             <description><![CDATA[Sometimes a part of who we are can be found in what we keep and what we leave behind…]]></description>
@@ -1393,18 +1400,11 @@
             <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[insidemordecai.com]]></title>
-            <description><![CDATA[Broadcasting from Kenya, this is my personal blog where tech collides with musings on life, culture, and the occasional rabbit home.]]></description>
-            <link>https://insidemordecai.com</link>
-            <guid isPermaLink="true">https://insidemordecai.com</guid>
-            <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[gregorlove.com]]></title>
-            <description><![CDATA[Website of gRegor Morrill, a.k.a. gRegorLove. I’m all about music, faith, computer geekery, friends, and liberty. All while being really, really ridiculously good-looking.]]></description>
-            <link>https://gregorlove.com</link>
-            <guid isPermaLink="true">https://gregorlove.com</guid>
-            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[candost.blog]]></title>
+            <description><![CDATA[Hunting timeless insights into humans and software and helping others on the way.]]></description>
+            <link>https://candost.blog</link>
+            <guid isPermaLink="true">https://candost.blog</guid>
+            <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
