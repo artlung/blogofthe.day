@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 00:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 00:11:26 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[glycerinequeenmedia.com]]></title>
+            <description><![CDATA[Queer and other stuff]]></description>
+            <link>https://glycerinequeenmedia.com</link>
+            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bbbhltz.codeberg.page]]></title>
             <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
@@ -1392,18 +1399,11 @@
             <pubDate>Fri, 03 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[pcarrier.com]]></title>
-            <description><![CDATA[Personal website and forest of links]]></description>
-            <link>https://pcarrier.com</link>
-            <guid isPermaLink="true">https://pcarrier.com</guid>
-            <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[glycerinequeenmedia.com]]></title>
-            <description><![CDATA[Queer and other stuff]]></description>
-            <link>https://glycerinequeenmedia.com</link>
-            <guid isPermaLink="true">https://glycerinequeenmedia.com</guid>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[toninotes.cc]]></title>
+            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
+            <link>https://toninotes.cc</link>
+            <guid isPermaLink="true">https://toninotes.cc</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
