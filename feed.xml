@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 00:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 00:11:15 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[blog.darylsun.page]]></title>
+            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
+            <link>https://blog.darylsun.page</link>
+            <guid isPermaLink="true">https://blog.darylsun.page</guid>
+            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.rtwilson.com]]></title>
             <description><![CDATA[Robin's Blog, covering geospatial analysis, satellite imaging, Python and more]]></description>
@@ -1392,18 +1399,11 @@
             <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[captainawkward.com]]></title>
-            <description><![CDATA[Answering questions about social skills]]></description>
-            <link>https://captainawkward.com</link>
-            <guid isPermaLink="true">https://captainawkward.com</guid>
-            <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[blog.darylsun.page]]></title>
-            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
-            <link>https://blog.darylsun.page</link>
-            <guid isPermaLink="true">https://blog.darylsun.page</guid>
-            <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[thamara.co.uk]]></title>
+            <description><![CDATA[The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history.]]></description>
+            <link>https://thamara.co.uk</link>
+            <guid isPermaLink="true">https://thamara.co.uk</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
