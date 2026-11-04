@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 04:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2026 04:01:04 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[roadlessread.com]]></title>
+            <description><![CDATA[Zachary Kai's book blog: with links, recommendations, lists, and esoterica.]]></description>
+            <link>https://roadlessread.com</link>
+            <guid isPermaLink="true">https://roadlessread.com</guid>
+            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[tiramisu.bearblog.dev]]></title>
             <description><![CDATA[i'm tiramisu, or misu for short. this blog is my take on visa's 1000 word vomits project. i write here to think clearly, practice writing, and remember life.]]></description>
@@ -1407,18 +1414,11 @@
             <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[vale.rocks]]></title>
-            <description><![CDATA[The personal website of Declan Chidlow, known mononymously as Vale, containing thoughts, musings, and otherwise unhinged ramblings.]]></description>
-            <link>https://vale.rocks</link>
-            <guid isPermaLink="true">https://vale.rocks</guid>
-            <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[roadlessread.com]]></title>
-            <description><![CDATA[Zachary Kai's book blog: with links, recommendations, lists, and esoterica.]]></description>
-            <link>https://roadlessread.com</link>
-            <guid isPermaLink="true">https://roadlessread.com</guid>
-            <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[gerben.dev]]></title>
+            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
+            <link>https://gerben.dev</link>
+            <guid isPermaLink="true">https://gerben.dev</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
