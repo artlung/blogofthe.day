@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 03:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 03:32:04 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[joelchrono.xyz]]></title>
+            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
+            <link>https://joelchrono.xyz</link>
+            <guid isPermaLink="true">https://joelchrono.xyz</guid>
+            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.cboxes.icu]]></title>
             <description><![CDATA[A photography blog]]></description>
@@ -1408,18 +1415,10 @@
             <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[stefanbohacek.com/blog]]></title>
-            <description><![CDATA[Stefan Bohacek's personal blog, covering topics such as web APIs, accessibility, fediverse, data visualization, and creative automation.]]></description>
-            <link>https://stefanbohacek.com/blog</link>
-            <guid isPermaLink="true">https://stefanbohacek.com/blog</guid>
-            <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[joelchrono.xyz]]></title>
-            <description><![CDATA[Ramblings and thoughts about tech, videogames, FOSS, and hobbies of my life, shared bit by bit.]]></description>
-            <link>https://joelchrono.xyz</link>
-            <guid isPermaLink="true">https://joelchrono.xyz</guid>
-            <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[alabut.com/writing]]></title>
+            <link>https://alabut.com/writing</link>
+            <guid isPermaLink="true">https://alabut.com/writing</guid>
+            <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
