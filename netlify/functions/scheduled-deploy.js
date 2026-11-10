@@ -1,7 +1,7 @@
 // TODO REMOVE?
 const fetch = require('node-fetch')
 
-const BUILD_HOOK = 'https://api.netlify.com/build_hooks/664ae8fa0d17a85f6f5c2e18'
+const BUILD_HOOK = 'https://api.netlify.com/build_hooks/6af3877479c099e5a75c07ef'
 
 const handler = schedule('1 0 * * *', async () => {
     await fetch(BUILD_HOOK, {
