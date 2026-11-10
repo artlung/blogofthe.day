@@ -27,4 +27,4 @@ The `<browser-window>` web component used in this guide was developed by [Zach L
 
 ## Credits
 
-This site was originally created by capjamesg and is currently maintained by artlung.
+This project was originally created by [capjamesg](https://github.com/capjamesg) and is currently maintained by [artlung](https://github.com/artlung).
