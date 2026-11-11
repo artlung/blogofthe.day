@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 05:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 03:52:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[nelson.cloud]]></title>
+            <description><![CDATA[Personal site of Nelson Figueroa. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.]]></description>
+            <link>https://nelson.cloud</link>
+            <guid isPermaLink="true">https://nelson.cloud</guid>
+            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[blog.helenchong.omg.lol/en/]]></title>
             <description><![CDATA[Galaxy Garden and personal blog of an Asian queer Millennial.]]></description>
@@ -1407,18 +1414,11 @@
             <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[bbbhltz.codeberg.page]]></title>
-            <description><![CDATA[Personal blog about, but not limited to, technology, education, and other sundries.]]></description>
-            <link>https://bbbhltz.codeberg.page</link>
-            <guid isPermaLink="true">https://bbbhltz.codeberg.page</guid>
-            <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[nelson.cloud]]></title>
-            <description><![CDATA[Personal site of Nelson Figueroa. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.]]></description>
-            <link>https://nelson.cloud</link>
-            <guid isPermaLink="true">https://nelson.cloud</guid>
-            <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[muan.co]]></title>
+            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
+            <link>https://muan.co</link>
+            <guid isPermaLink="true">https://muan.co</guid>
+            <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
