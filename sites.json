@@ -101,7 +101,8 @@
     "nelson.cloud",
     "thamara.co.uk",
     "arielsym.blog",
-    "dalliard.ch"
+    "dalliard.ch",
+    "thingspool.net"
   ],
   "descriptions": {
     "theheirloomhistorian.com": "Sometimes a part of who we are can be found in what we keep and what we leave behind…",
@@ -206,6 +207,7 @@
     "nelson.cloud": "Personal site of Nelson Figueroa. Writing about programming, cloud infrastructure, cybersecurity, and the tech industry.",
     "thamara.co.uk": "The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history.",
     "arielsym.blog": "I'm a writer and I like to write.",
-    "dalliard.ch": "🇨🇭 swiss minimalist"
+    "dalliard.ch": "🇨🇭 swiss minimalist",
+    "thingspool.net": "Essays on philosophy, game design, mathematics and programming."
   }
 }
