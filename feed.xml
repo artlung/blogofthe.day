@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Nov 2026 04:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 04:11:22 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[thingspool.net]]></title>
+            <description><![CDATA[Essays on philosophy, game design, mathematics and programming.]]></description>
+            <link>https://thingspool.net</link>
+            <guid isPermaLink="true">https://thingspool.net</guid>
+            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[artlung.com/blog]]></title>
             <link>https://artlung.com/blog</link>
@@ -1420,11 +1427,11 @@
             <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[thingspool.net]]></title>
-            <description><![CDATA[Essays on philosophy, game design, mathematics and programming.]]></description>
-            <link>https://thingspool.net</link>
-            <guid isPermaLink="true">https://thingspool.net</guid>
-            <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
