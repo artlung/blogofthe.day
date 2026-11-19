@@ -102,7 +102,8 @@
     "thamara.co.uk",
     "arielsym.blog",
     "dalliard.ch",
-    "thingspool.net"
+    "thingspool.net",
+    "waldo.vanderlore.de"
   ],
   "descriptions": {
     "theheirloomhistorian.com": "Sometimes a part of who we are can be found in what we keep and what we leave behind…",
@@ -208,6 +209,7 @@
     "thamara.co.uk": "The personal website of Thamara Kandabada, showcasing writing, interests, hobbies, and history.",
     "arielsym.blog": "I'm a writer and I like to write.",
     "dalliard.ch": "🇨🇭 swiss minimalist",
-    "thingspool.net": "Essays on philosophy, game design, mathematics and programming."
+    "thingspool.net": "Essays on philosophy, game design, mathematics and programming.",
+    "waldo.vanderlore.de": "Waldo Vanderhaeghen in Berlin, writing about working with AI agents, product work and tracing his family history."
   }
 }
