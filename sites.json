@@ -103,7 +103,7 @@
     "arielsym.blog",
     "dalliard.ch",
     "thingspool.net",
-    "waldo.vanderlore.de"
+    "waldo.vanderlore.de/blog/"
   ],
   "descriptions": {
     "theheirloomhistorian.com": "Sometimes a part of who we are can be found in what we keep and what we leave behind…",
@@ -210,6 +210,6 @@
     "arielsym.blog": "I'm a writer and I like to write.",
     "dalliard.ch": "🇨🇭 swiss minimalist",
     "thingspool.net": "Essays on philosophy, game design, mathematics and programming.",
-    "waldo.vanderlore.de": "Waldo Vanderhaeghen in Berlin, writing about working with AI agents, product work and tracing his family history."
+    "waldo.vanderlore.de/blog/": "Waldo Vanderhaeghen in Berlin, writing about working with AI agents, product work and tracing his family history."
   }
 }
