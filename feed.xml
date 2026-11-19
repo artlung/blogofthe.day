@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 00:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 00:07:46 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[matuzo.at]]></title>
+            <description><![CDATA[HTML, CSS and accesibility]]></description>
+            <link>https://matuzo.at</link>
+            <guid isPermaLink="true">https://matuzo.at</guid>
+            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[www.maxwelljoslyn.com]]></title>
             <link>https://www.maxwelljoslyn.com</link>
@@ -1420,18 +1427,11 @@
             <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[blog.darylsun.page]]></title>
-            <description><![CDATA[An online diary of a lady's misadventures in two worlds]]></description>
-            <link>https://blog.darylsun.page</link>
-            <guid isPermaLink="true">https://blog.darylsun.page</guid>
-            <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[matuzo.at]]></title>
-            <description><![CDATA[HTML, CSS and accesibility]]></description>
-            <link>https://matuzo.at</link>
-            <guid isPermaLink="true">https://matuzo.at</guid>
-            <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[fredrocha.net/words]]></title>
+            <description><![CDATA[Fred's home on the web, a place displaying what I do and what I endorse. Sometimes these overlap.]]></description>
+            <link>https://fredrocha.net/words</link>
+            <guid isPermaLink="true">https://fredrocha.net/words</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
