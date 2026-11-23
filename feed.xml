@@ -4,8 +4,14 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 00:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 00:08:07 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[artlung.com/blog]]></title>
+            <link>https://artlung.com/blog</link>
+            <guid isPermaLink="true">https://artlung.com/blog</guid>
+            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ryanlynch.me]]></title>
             <description><![CDATA[Writing about software engineering, AI, home automation, and whatever else I'm thinking about. A bonus second brain where you can see what I'm working on in real-time.]]></description>
@@ -1434,17 +1440,11 @@
             <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[burgeonlab.com]]></title>
-            <description><![CDATA[Home of a tech dabbler and serial hobbyist who's learning to integrate IndieWeb practices, covering topics like Hugo web dev, open source, tech how-tos, and more. Weeknotes included.]]></description>
-            <link>https://burgeonlab.com</link>
-            <guid isPermaLink="true">https://burgeonlab.com</guid>
-            <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[artlung.com/blog]]></title>
-            <link>https://artlung.com/blog</link>
-            <guid isPermaLink="true">https://artlung.com/blog</guid>
-            <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
