@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 00:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 00:07:36 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[anderegg.ca]]></title>
+            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
+            <link>https://anderegg.ca</link>
+            <guid isPermaLink="true">https://anderegg.ca</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[artlung.com/blog]]></title>
             <link>https://artlung.com/blog</link>
@@ -1433,18 +1440,11 @@
             <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[fullmetalbrackets.com]]></title>
-            <description><![CDATA[A blog about self-hosting, Linux, Docker, and other tech things.]]></description>
-            <link>https://fullmetalbrackets.com</link>
-            <guid isPermaLink="true">https://fullmetalbrackets.com</guid>
-            <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[anderegg.ca]]></title>
-            <description><![CDATA[Personal site of Gavin Anderegg.]]></description>
-            <link>https://anderegg.ca</link>
-            <guid isPermaLink="true">https://anderegg.ca</guid>
-            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[muan.co]]></title>
+            <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
+            <link>https://muan.co</link>
+            <guid isPermaLink="true">https://muan.co</guid>
+            <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
