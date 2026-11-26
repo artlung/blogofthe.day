@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 00:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 00:07:35 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[george-lakoff.com]]></title>
+            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
+            <link>https://george-lakoff.com</link>
+            <guid isPermaLink="true">https://george-lakoff.com</guid>
+            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[muan.co]]></title>
             <description><![CDATA[A software designer and engineer. Makes modest websites.]]></description>
@@ -1434,17 +1441,11 @@
             <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[aaronparecki.com]]></title>
-            <link>https://aaronparecki.com</link>
-            <guid isPermaLink="true">https://aaronparecki.com</guid>
-            <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[george-lakoff.com]]></title>
-            <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
-            <link>https://george-lakoff.com</link>
-            <guid isPermaLink="true">https://george-lakoff.com</guid>
-            <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[kiko.io]]></title>
+            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
+            <link>https://kiko.io</link>
+            <guid isPermaLink="true">https://kiko.io</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
