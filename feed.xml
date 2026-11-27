@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 00:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 00:07:20 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[kiko.io]]></title>
+            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
+            <link>https://kiko.io</link>
+            <guid isPermaLink="true">https://kiko.io</guid>
+            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[george-lakoff.com]]></title>
             <description><![CDATA[Mostly political blog from professor known for his work on methaphorical language]]></description>
@@ -1434,18 +1441,11 @@
             <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[gerben.dev]]></title>
-            <description><![CDATA[Hi, I'm Gerben Jacobs, a software engineer from The Netherlands. My interests lie with (web)development, databases, design patterns, social media, communities, APIs and open data.]]></description>
-            <link>https://gerben.dev</link>
-            <guid isPermaLink="true">https://gerben.dev</guid>
-            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[kiko.io]]></title>
-            <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
-            <link>https://kiko.io</link>
-            <guid isPermaLink="true">https://kiko.io</guid>
-            <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[toninotes.cc]]></title>
+            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
+            <link>https://toninotes.cc</link>
+            <guid isPermaLink="true">https://toninotes.cc</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
