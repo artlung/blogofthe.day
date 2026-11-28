@@ -4,8 +4,15 @@
         <description><![CDATA[Blog of the .Day]]></description>
         <link>https://blogofthe.day</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Nov 2026 00:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 00:07:05 GMT</lastBuildDate>
         <atom:link href="https://blogofthe.day/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[toninotes.cc]]></title>
+            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
+            <link>https://toninotes.cc</link>
+            <guid isPermaLink="true">https://toninotes.cc</guid>
+            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[kiko.io]]></title>
             <description><![CDATA[Memorable (Tech) Stuff by Kristof Zerbe]]></description>
@@ -1435,17 +1442,11 @@
             <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[tracydurnell.com]]></title>
-            <link>https://tracydurnell.com</link>
-            <guid isPermaLink="true">https://tracydurnell.com</guid>
-            <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[toninotes.cc]]></title>
-            <description><![CDATA[A text-first blog about digital publishing, creator workflows, useful tooling, internet ownership, automation that actually helps, and the infrastructure behind sustainable online work.]]></description>
-            <link>https://toninotes.cc</link>
-            <guid isPermaLink="true">https://toninotes.cc</guid>
-            <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[exch.gr]]></title>
+            <description><![CDATA[Process Things is a good old fashioned website. It’s a place for me to post about my music, photography, poetry, code, and beyond.]]></description>
+            <link>https://exch.gr</link>
+            <guid isPermaLink="true">https://exch.gr</guid>
+            <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
